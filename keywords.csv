@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
 'Istanbul',de,Turkey,#6db0ee,#6db0ee,3,0.474285901914,EUROPE-AFRICA,4088772-8,745044,41.013840000000,28.949660000000,P,Turkey,MED
 'Hama',de,Syria,#6197ed,#6197ed,2,0.470728402005,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
-'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.466701154995,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.466445013113,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.464585562500,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Heard-Insel',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.464340941485,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.400232992971,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.399334781250,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,1,0.397367095186,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
+'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.397146026746,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Europa',de,Germany,#7cdef0,#7cdef0,2,0.387821804941,EUROPE,4015701-5,6255148,48.690960000000,9.140620000000,L,Germany,WCE
 'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.350000000000,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Britisches Territorium im Indischen Ozean,EIO
 'Tokelau',de,Tokelau,#d23017,#d23017,1,0.347034455192,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
