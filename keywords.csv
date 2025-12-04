@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,2,0.441890240249,EUROPE-AFRICA,4485908-9,7303419,31.783360000000,35.233880000000,P,Palestinian Territory,MED
 'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,1,0.431974972577,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Alofi',de,Niue,#be3115,#be3115,1,0.430242843952,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
-'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.418333333333,ARCTIC,4056316-9,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Longyearbyen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.418333333333,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Gaza',de,Palestinian Territory,#5998ec,#5998ec,3,0.417912233105,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
 'Stanley Falkland',de,Falkland Islands,#0d7c11,#0d7c11,1,0.407213798332,SOUTH-AMERICA,4030866-2,3426691,-51.693820000000,-57.857010000000,P,Falkland Islands,SSA
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.396478261146,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Europa',de,Germany,#7cdef0,#7cdef0,2,0.390383660235,EUROPE,4015701-5,6255148,48.690960000000,9.140620000000,L,Germany,WCE
 'Niue',de,Niue,#be3115,#be3115,1,0.365856432359,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
+'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.355583333333,ARCTIC,4056316-9,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.350000000000,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Britisches Territorium im Indischen Ozean,EIO
 'Tokelau',de,Tokelau,#d23017,#d23017,1,0.347034455192,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.346450805110,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
