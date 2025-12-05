@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Falklandinseln',de,Falkland Islands,#0d7b0f,#0d7b0f,2,0.461247512621,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,2,0.453613804633,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican,MED
 'Naypyidaw',de,Myanmar,#00E52D,#00E52D,1,0.452879332201,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
-'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.451770332552,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Hamas',de,Syria,#6197ed,#6197ed,2,0.446562970789,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.445944559707,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.444453199077,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.396478261146,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.394897728125,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Europa',de,Germany,#7cdef0,#7cdef0,2,0.390383660235,EUROPE,4015701-5,6255148,48.690960000000,9.140620000000,L,Germany,WCE
+'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.384004782669,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Niue',de,Niue,#be3115,#be3115,1,0.365856432359,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
 'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.355583333333,ARCTIC,4056316-9,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.350000000000,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Britisches Territorium im Indischen Ozean,EIO
