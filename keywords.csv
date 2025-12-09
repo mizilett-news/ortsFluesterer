@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.400232992971,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.399334781250,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,1,0.397367095186,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
-'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.397146026746,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.396478261146,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.394897728125,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Falklandinseln',de,Falkland Islands,#0d7b0f,#0d7b0f,1,0.392060415728,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.350000000000,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Britisches Territorium im Indischen Ozean,EIO
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.347381925292,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Tokelau',de,Tokelau,#d23017,#d23017,1,0.347034455192,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
+'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.338174182734,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.300635961063,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
 'Israel',de,Israel,#5997ec,#5997ec,2,0.285825356974,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'Saint-Pierre',de,Saint Pierre and Miquelon,#93c2f3,#93c2f3,2,0.242612664005,EUROPE,2034200-7,498817,59.938630000000,30.314130000000,P,Russia,NEU
