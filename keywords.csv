@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Hama',de,Syria,#6197ed,#6197ed,2,0.470728402005,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
 'Heard-Insel',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.465048027351,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Westjordanland',de,Palestinian Territory,#5b97ec,#5b97ec,2,0.462845722638,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,2,0.453613804633,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican,MED
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Stanley Falkland',de,Falkland Islands,#0d7c11,#0d7c11,1,0.407213798332,SOUTH-AMERICA,4030866-2,3426691,-51.693820000000,-57.857010000000,P,Falkland Islands,SSA
 'Europa',de,Germany,#7cdef0,#7cdef0,2,0.403804238380,EUROPE,4015701-5,6255148,48.690960000000,9.140620000000,L,Germany,WCE
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.400232992971,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
+'Hama',de,Syria,#6197ed,#6197ed,1,0.400119456704,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.399334781250,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,1,0.397367095186,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.396478261146,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
