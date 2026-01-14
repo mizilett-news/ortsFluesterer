@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Falklandinseln',de,Falkland Islands,#0d7b0f,#0d7b0f,1,0.392060415728,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.384004782669,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.379052875751,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
-'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.377785219215,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.377785219215,INDIAN,4298716-7,1547376,-12.164200000000,96.873320000000,A,Kokosinseln,SIO
 'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.377449545625,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn,SPO
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.367449915748,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.340798104025,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.338174182734,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.337006521974,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
+'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.321117436333,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.300635961063,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
 'London',de,United Kingdom,#82f1f0,#82f1f0,3,0.297295340577,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
 'Kabul',de,Afghanistan,#755fed,#755fed,3,0.292105406538,ASIA,4029127-3,1138958,34.528130000000,69.172330000000,P,Afghanistan,WCA
