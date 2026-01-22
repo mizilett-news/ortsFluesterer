@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Hama',de,Syria,#6197ed,#6197ed,1,0.400119456704,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.399334781250,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,1,0.397367095186,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
-'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.394897728125,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Falklandinseln',de,Falkland Islands,#0d7b0f,#0d7b0f,1,0.392060415728,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.384004782669,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.379052875751,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.340798104025,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.338174182734,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.337006521974,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
+'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.335663068906,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.321117436333,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Funafuti',de,Tuvalu,#d4171a,#d4171a,2,0.309011676453,PACIFIC,131634195X,2110394,-8.524250000000,179.194170000000,P,Tuvalu,EPO
 'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.300635961063,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
