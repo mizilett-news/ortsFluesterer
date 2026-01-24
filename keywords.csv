@@ -34,12 +34,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.325548115324,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.322092459143,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Funafuti',de,Tuvalu,#d4171a,#d4171a,2,0.309011676453,PACIFIC,131634195X,2110394,-8.524250000000,179.194170000000,P,Tuvalu,EPO
-'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.300635961063,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
 'London',de,United Kingdom,#82f1f0,#82f1f0,3,0.299322430494,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
 'USA',de,United States,#8eee68,#8eee68,2,0.296382963956,NORTH-AMERICA,4064682-8,4140963,38.895110000000,-77.036370000000,P,United States,ENA
 'Kabul',de,Afghanistan,#755fed,#755fed,3,0.292105406538,ASIA,4029127-3,1138958,34.528130000000,69.172330000000,P,Afghanistan,WCA
 'Islamabad',de,Pakistan,#7d5eed,#7d5eed,3,0.261346685168,ASIA,7678172-0,1176615,33.721480000000,73.043290000000,P,Pakistan,WCA
 'Indonesien',de,Indonesia,#db18db,#db18db,3,0.258165076903,ASIA,4026761-1,1643084,-5.000000000000,120.000000000000,A,Indonesia,SEA
+'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.255540566904,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
 'Sudan',de,Sudan,#3a91e9,#3a91e9,3,0.253445376774,AFRICA,4058378-8,366755,16.000000000000,30.000000000000,A,Sudan,SAH
 'Australien',de,Australia,#b2138a,#b2138a,3,0.247585899429,OCEANIA,4003900-6,2077456,-25.000000000000,135.000000000000,A,Australia,CAU
 'Jakarta',de,Indonesia,#ae18d8,#ae18d8,3,0.243998304691,ASIA,64162-5,1642911,-6.214620000000,106.845130000000,P,Indonesia,SEA
