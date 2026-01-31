@@ -31,12 +31,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Stanley Falkland',de,Falkland Islands,#0d7c11,#0d7c11,1,0.346827700589,SOUTH-AMERICA,4030866-2,3426691,-51.693820000000,-57.857010000000,P,Falkland Islands,SSA
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.340798104025,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.337006521974,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
-'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.335663068906,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.325548115324,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.322092459143,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'USA',de,United States,#8eee68,#8eee68,2,0.315403507782,NORTH-AMERICA,4064682-8,4140963,38.895110000000,-77.036370000000,P,United States,ENA
 'Funafuti',de,Tuvalu,#d4171a,#d4171a,2,0.309011676453,PACIFIC,131634195X,2110394,-8.524250000000,179.194170000000,P,Tuvalu,EPO
 'London',de,United Kingdom,#82f1f0,#82f1f0,3,0.299322430494,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
+'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.285313608570,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Islamabad',de,Pakistan,#7d5eed,#7d5eed,3,0.261346685168,ASIA,7678172-0,1176615,33.721480000000,73.043290000000,P,Pakistan,WCA
 'Indonesien',de,Indonesia,#db18db,#db18db,3,0.258165076903,ASIA,4026761-1,1643084,-5.000000000000,120.000000000000,A,Indonesia,SEA
 'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.255540566904,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
