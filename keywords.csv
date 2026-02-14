@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Falklandinseln',de,Falkland Islands,#0d7b0f,#0d7b0f,1,0.392060415728,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Deutschland',de,Germany,#82ddf1,#82ddf1,2,0.386402916209,EUROPE,4011882-4,2921044,51.500000000000,10.500000000000,A,Germany,WCE
 'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.384867485772,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
-'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.381547286940,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.379052875751,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
 'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.377785219215,INDIAN,4298716-7,1547376,-12.164200000000,96.873320000000,A,Kokosinseln,SIO
 'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.377449545625,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn,SPO
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Longyearbyen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.339733862683,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.339434564062,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.325548115324,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
+'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.324315193899,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.322092459143,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Hama',de,Syria,#6197ed,#6197ed,1,0.317366385446,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
 'London',de,United Kingdom,#82f1f0,#82f1f0,3,0.301342981377,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
