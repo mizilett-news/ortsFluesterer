@@ -404,7 +404,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Panama-Stadt',de,Panama,#68e72b,#68e72b,2,0.100239413552,CENTRAL-AMERICA,4262523-3,3703443,8.993600000000,-79.519730000000,P,Panama,SCA
 'Nouakchott',de,Mauritania,#3ee9bc,#3ee9bc,2,0.100227101421,AFRICA,116769-8,2377450,18.085810000000,-15.978500000000,P,Mauritania,SAH
 'Mauretanien',de,Mauritania,#42eacc,#42eacc,2,0.100227101421,AFRICA,4038051-8,2378080,20.250000000000,-10.500000000000,A,Mauritania,SAH
-'Zentralafrikanische Republik',de,Central African Republic,#27a4e7,#27a4e7,2,0.100214299016,AFRICA,4067608-0,239880,7.000000000000,21.000000000000,A,Central African Republic,CAF
 'Bangui',de,Central African Republic,#22a9e6,#22a9e6,2,0.100214299016,AFRICA,4080257-7,2389853,4.361220000000,18.554960000000,P,Central African Republic,CAF
 'Maskat',de,Oman,#494dea,#494dea,2,0.100207061501,ASIA,4239248-2,287286,23.584130000000,58.407780000000,P,Oman,ARP
 'Dublin',de,Ireland,#86f1e6,#86f1e6,2,0.100206036626,EUROPE,4013170-1,2964574,53.333060000000,-6.248890000000,P,Ireland,NEU
@@ -469,3 +468,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'George Town',de,Cayman Islands,#7de940,#7de940,1,0.098245269505,CENTRAL-AMERICA,7543978-5,3580661,19.286600000000,-81.374360000000,P,Cayman Islands,CAR
 'Guinea-Bissau',de,Guinea-Bissau,#31e8ba,#31e8ba,1,0.093875899019,AFRICA,4022522-7,2372248,12.000000000000,-15.000000000000,A,Guinea-Bissau,WAF
 'Surinam',de,Suriname,#21e62e,#21e62e,2,0.086925762502,SOUTH-AMERICA,134327-0,3382998,4.000000000000,-56.000000000000,A,Suriname,NSA
+'Zentralafrikanische Republik',de,Central African Republic,#27a4e7,#27a4e7,1,0.085182274164,AFRICA,4067608-0,239880,7.000000000000,21.000000000000,A,Central African Republic,CAF
