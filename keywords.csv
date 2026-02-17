@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Niue',de,Niue,#be3115,#be3115,1,0.366752649854,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
 'Tokelau',de,Tokelau,#d23017,#d23017,2,0.363272549795,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
 'Heard-Insel',de,Heard Island and McDonald Islands,#A67724,#A67724,2,0.360048091769,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
-'USA',de,United States,#8eee68,#8eee68,2,0.354418832059,NORTH-AMERICA,4064682-8,4140963,38.895110000000,-77.036370000000,P,United States,ENA
 'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,2,0.350000000000,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Britisches Territorium im Indischen Ozean,EIO
 'Kabul',de,Afghanistan,#755fed,#755fed,3,0.348695476012,ASIA,4029127-3,1138958,34.528130000000,69.172330000000,P,Afghanistan,WCA
 'Naypyidaw',de,Myanmar,#00E52D,#00E52D,2,0.348520464053,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.324315193899,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.322092459143,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Hama',de,Syria,#6197ed,#6197ed,1,0.317366385446,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
+'USA',de,United States,#8eee68,#8eee68,2,0.306454632250,NORTH-AMERICA,4064682-8,4140963,38.895110000000,-77.036370000000,P,United States,ENA
 'London',de,United Kingdom,#82f1f0,#82f1f0,3,0.302350801871,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.286455543678,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.285313608570,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
