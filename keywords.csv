@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,2,0.422983531617,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican,MED
 'Israel',de,Israel,#5997ec,#5997ec,2,0.422421390189,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'Gaza',de,Palestinian Territory,#5998ec,#5998ec,3,0.415498210789,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
-'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,1,0.397367095186,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
 'Falklandinseln',de,Falkland Islands,#0d7b0f,#0d7b0f,1,0.392060415728,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Deutschland',de,Germany,#82ddf1,#82ddf1,2,0.388117742435,EUROPE,4011882-4,2921044,51.500000000000,10.500000000000,A,Germany,WCE
 'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.384867485772,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.340798104025,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
 'Longyearbyen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.339733862683,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.339434564062,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
+'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,1,0.337762030908,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.325548115324,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.324315193899,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.322092459143,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
