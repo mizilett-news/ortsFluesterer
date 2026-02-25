@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Gaza',de,Palestinian Territory,#5998ec,#5998ec,3,0.419497090273,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
 'Deutschland',de,Germany,#82ddf1,#82ddf1,2,0.403263375927,EUROPE,4011882-4,2921044,51.500000000000,10.500000000000,A,Germany,WCE
 'Westjordanland',de,Palestinian Territory,#5b97ec,#5b97ec,3,0.396009207981,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
-'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.384867485772,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.379924800798,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
 'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.377449545625,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn,SPO
 'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.377149515625,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.339434564062,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,1,0.337762030908,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
 'USA',de,United States,#8eee68,#8eee68,2,0.329025697485,NORTH-AMERICA,4064682-8,4140963,38.895110000000,-77.036370000000,P,United States,ENA
+'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.327137362906,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.325548115324,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.325284787232,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.324037548695,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
