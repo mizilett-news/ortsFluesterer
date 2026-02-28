@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Gaza',de,Palestinian Territory,#5998ec,#5998ec,3,0.423457440566,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
 'Falklandinseln',de,Falkland Islands,#0d7b0f,#0d7b0f,2,0.420015744083,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Deutschland',de,Germany,#82ddf1,#82ddf1,2,0.406559281136,EUROPE,4011882-4,2921044,51.500000000000,10.500000000000,A,Germany,WCE
-'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.379924800798,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
 'Westjordanland',de,Palestinian Territory,#5b97ec,#5b97ec,3,0.377923953147,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
 'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.377449545625,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn,SPO
 'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.377149515625,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Britische Jungferninseln',de,British Virgin Islands,#4ce93f,#4ce93f,1,0.325548115324,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,Britische Jungferninseln,CAR
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.325284787232,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.324037548695,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
+'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.322936080678,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
 'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.321117436333,INDIAN,4298716-7,1547376,-12.164200000000,96.873320000000,A,Kokosinseln,SIO
 'Hama',de,Syria,#6197ed,#6197ed,1,0.317366385446,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
 'London',de,United Kingdom,#82f1f0,#82f1f0,3,0.305364430943,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
