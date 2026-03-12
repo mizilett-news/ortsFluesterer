@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Israel',de,Israel,#5997ec,#5997ec,3,0.616506397797,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
+'Israel',de,Israel,#5997ec,#5997ec,3,0.533598507673,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'Europa',de,Germany,#7cdef0,#7cdef0,3,0.447894628270,EUROPE,4015701-5,6255148,48.690960000000,9.140620000000,L,Germany,WCE
 'Gaza',de,Palestinian Territory,#5998ec,#5998ec,3,0.434582522455,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
 'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,3,0.430288837740,EUROPE-AFRICA,4485908-9,7303419,31.783360000000,35.233880000000,P,Palestinian Territory,MED
