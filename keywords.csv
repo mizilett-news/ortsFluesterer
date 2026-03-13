@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Stanley Falkland',de,Falkland Islands,#0d7c11,#0d7c11,1,0.346827700589,SOUTH-AMERICA,4030866-2,3426691,-51.693820000000,-57.857010000000,P,Falkland Islands,SSA
 'Road Town',de,British Virgin Islands,#59BF10,#59BF10,1,0.340798104025,CENTRAL-AMERICA,4063590-9,3577718,18.500000000000,-64.500000000000,A,British Virgin Islands,CAR
 'Longyearbyen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.339733862683,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
-'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.339434564062,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Norfolkinsel',de,Norfolk Island,#aa1231,#aa1231,1,0.337762030908,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
 'Manama',de,Bahrain,#4f67eb,#4f67eb,3,0.328016521056,ASIA,4100079-1,290340,26.227870000000,50.585650000000,P,Bahrain,ARP
 'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.327137362906,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Hama',de,Syria,#6197ed,#6197ed,1,0.317366385446,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
 'London',de,United Kingdom,#82f1f0,#82f1f0,3,0.311347358298,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
 'Iran',de,Iran,#5a6bec,#5a6bec,2,0.298420467310,ASIA,4027653-3,130758,32.000000000000,53.000000000000,A,Iran,WCA
+'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.288519379453,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.287172684823,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.286455543678,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.285313608570,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
