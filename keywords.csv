@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Deutschland',de,Germany,#82ddf1,#82ddf1,2,0.406796671901,EUROPE,4011882-4,2921044,51.500000000000,10.500000000000,A,Germany,WCE
 'Westjordanland',de,Palestinian Territory,#5b97ec,#5b97ec,3,0.384870783087,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,3,0.373307600730,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican,MED
-'Alofi',de,Niue,#be3115,#be3115,1,0.372856300129,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.370254694582,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
 'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,1,0.368637962486,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Islamabad',de,Pakistan,#7d5eed,#7d5eed,3,0.368005648302,ASIA,7678172-0,1176615,33.721480000000,73.043290000000,P,Pakistan,WCA
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.320982128781,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn,SPO
 'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.320577088281,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
 'Hama',de,Syria,#6197ed,#6197ed,1,0.317366385446,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
+'Alofi',de,Niue,#be3115,#be3115,1,0.316927855110,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'London',de,United Kingdom,#82f1f0,#82f1f0,3,0.311347358298,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.290259178171,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.288519379453,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
