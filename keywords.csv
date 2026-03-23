@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'London',de,United Kingdom,#82f1f0,#82f1f0,3,0.312338756396,EUROPE,4074335-4,2643743,51.508530000000,-0.125740000000,P,United Kingdom,NEU
 'Kleinere vorgelagerte Inseln der Vereinigten Staaten',de,United States Minor Outlying Islands,#7A7B38,#7A7B38,1,0.299430863693,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.288519379453,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
-'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.286455543678,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.285313608570,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Australien',de,Australia,#b2138a,#b2138a,3,0.280823133744,OCEANIA,4003900-6,2077456,-25.000000000000,135.000000000000,A,Australia,CAU
 'China',de,China,#ca60ed,#ca60ed,3,0.274128205819,ASIA,4009937-4,1814991,35.000000000000,105.000000000000,A,China,EAS
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Brüssel',de,Belgium,#81e8f1,#81e8f1,3,0.249214525111,EUROPE,4008460-7,2800866,50.850450000000,4.348780000000,P,Belgium,WCE
 'Liechtenstein',de,Liechtenstein,#79ddf0,#79ddf0,3,0.248176991538,EUROPE,4035665-6,3042058,47.166670000000,9.533330000000,A,Liechtenstein,WCE
 'Jakarta',de,Indonesia,#ae18d8,#ae18d8,3,0.243998304691,ASIA,64162-5,1642911,-6.214620000000,106.845130000000,P,Indonesia,SEA
+'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.243637227126,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Saint-Pierre',de,Saint Pierre and Miquelon,#93c2f3,#93c2f3,2,0.242612664005,EUROPE,2034200-7,498817,59.938630000000,30.314130000000,P,Russia,NEU
 'Nouakchott',de,Mauritania,#3ee9bc,#3ee9bc,2,0.235343051208,AFRICA,116769-8,2377450,18.085810000000,-15.978500000000,P,Mauritania,SAH
 'Port-au-Prince',de,Haiti,#62e93f,#62e93f,2,0.222464982220,CENTRAL-AMERICA,4116064-2,3718426,18.543490000000,-72.338810000000,P,Haiti,CAR
