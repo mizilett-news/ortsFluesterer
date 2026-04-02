@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Israel',de,Israel,#5997ec,#5997ec,3,0.464058527218,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'Europa',de,Germany,#7cdef0,#7cdef0,3,0.454980033019,EUROPE,4015701-5,6255148,48.690960000000,9.140620000000,L,Germany,WCE
 'Hamas',de,Syria,#6197ed,#6197ed,3,0.454489478894,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
 'Deutschland',de,Germany,#82ddf1,#82ddf1,2,0.445147177607,EUROPE,4011882-4,2921044,51.500000000000,10.500000000000,A,Germany,WCE
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.428782599212,ARCTIC,4056316-9,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Istanbul',de,Turkey,#6db0ee,#6db0ee,3,0.425373812834,EUROPE-AFRICA,4088772-8,745044,41.013840000000,28.949660000000,P,Turkey,MED
 'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,3,0.416086978636,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Britisches Territorium im Indischen Ozean,EIO
+'Israel',de,Israel,#5997ec,#5997ec,3,0.408589702226,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'Westjordanland',de,Palestinian Territory,#5b97ec,#5b97ec,3,0.385731867767,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,3,0.376807560166,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican,MED
 'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.372914307109,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
