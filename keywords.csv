@@ -53,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Ukraine',de,Ukraine,#7db3f0,#7db3f0,2,0.293341614984,EUROPE,4061496-7,690791,49.000000000000,32.000000000000,A,Ukraine,WCE
 'Ankara',de,Turkey,#6aa6ee,#6aa6ee,3,0.289918872001,EUROPE-AFRICA,4002075-7,323786,39.919870000000,32.854270000000,P,Turkey,MED
 'Longyearbyen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.289575293661,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
-'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.288519379453,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Afghanistan',de,Afghanistan,#6b5cec,#6b5cec,3,0.288467036540,ASIA,4000687-6,1149361,33.000000000000,66.000000000000,A,Afghanistan,WCA
 'Australien',de,Australia,#b2138a,#b2138a,3,0.288071666292,OCEANIA,4003900-6,2077456,-25.000000000000,135.000000000000,A,Australia,CAU
 'McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.286346972474,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Grönland',de,Greenland,#acf5c4,#acf5c4,3,0.255332886656,POLAR,4022113-1,3425505,72.000000000000,-40.000000000000,A,Greenland,GIC
 'Südkorea',de,South Korea,#ed63db,#ed63db,3,0.251973536302,ASIA,4078029-6,1835841,36.500000000000,127.750000000000,A,South Korea,EAS
 'Liechtenstein',de,Liechtenstein,#79ddf0,#79ddf0,3,0.248176991538,EUROPE,4035665-6,3042058,47.166670000000,9.533330000000,A,Liechtenstein,WCE
+'Französische Südgebiete',de,French Southern Territories,#377C29,#377C29,1,0.245241472535,SOUTHERN,4510620-4,1546102,-49.349160000000,70.219370000000,P,French Southern Territories,SOO
 'Jakarta',de,Indonesia,#ae18d8,#ae18d8,3,0.243998304691,ASIA,64162-5,1642911,-6.214620000000,106.845130000000,P,Indonesia,SEA
 'Heard-Insel und McDonald-Inseln',de,Heard Island and McDonald Islands,#A67724,#A67724,1,0.243637227126,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Saint-Pierre',de,Saint Pierre and Miquelon,#93c2f3,#93c2f3,2,0.242612664005,EUROPE,2034200-7,498817,59.938630000000,30.314130000000,P,Russia,NEU
