@@ -1,1408 +1,1391 @@
 ,phrase,label,sentiment,subjectivity,language,count
-“,“,MISC,-1.1111111111111107,0.7222222222222222,de,317
-Iran-Krieg,Iran-Krieg,MISC,,,de,208
+“,“,MISC,-0.8222222222222222,0.7222222222222222,de,328
+Iran-Krieg,Iran-Krieg,MISC,,,de,213
 "Link
 ","Link
-",MISC,,,de,181
+",MISC,,,de,174
+Waffenruhe,Waffenruhe,MISC,-0.41250000000000003,0.375,de,105
 iranische,iranische,MISC,,,de,98
-Waffenruhe,Waffenruhe,MISC,-0.16250000000000003,0.375,de,94
-iranischen,iranischen,MISC,,,de,89
-israelischen,israelischen,MISC,,,de,83
-israelische,israelische,MISC,,,de,67
-Krieg,Krieg,MISC,,,de,61
+israelischen,israelischen,MISC,,,de,94
+iranischen,iranischen,MISC,,,de,91
+israelische,israelische,MISC,,,de,89
+Krieg,Krieg,MISC,,,de,65
 deutsche,deutsche,MISC,,,de,54
-Iran-Kriegs,Iran-Kriegs,MISC,,,de,51
-deutschen,deutschen,MISC,,,de,50
+Iran-Kriegs,Iran-Kriegs,MISC,,,de,53
+deutschen,deutschen,MISC,,,de,52
+ESC,ESC,MISC,,,de,46
 britische,britische,MISC,,,de,44
-ESC,ESC,MISC,,,de,39
-Eurovision Song Contest,Eurovision Song Contest,MISC,,,de,28
-Schweizer,Schweizer,MISC,,,de,26
-britischen,britischen,MISC,,,de,26
+Eurovision Song Contest,Eurovision Song Contest,MISC,,,de,36
+britischen,britischen,MISC,,,de,27
+iranischer,iranischer,MISC,,,de,26
+Schweizer,Schweizer,MISC,,,de,24
 chinesische,chinesische,MISC,,,de,24
-iranischer,iranischer,MISC,,,de,24
-Krieg in Nahost,Krieg in Nahost,MISC,,,de,23
+Krieg in Nahost,Krieg in Nahost,MISC,,,de,24
+Irankrieg,Irankrieg,MISC,,,de,23
 Krieges,Krieges,MISC,,,de,23
-russischen,russischen,MISC,,,de,22
-amerikanische,amerikanische,MISC,,,de,22
+amerikanische,amerikanische,MISC,,,de,23
 russisches,russisches,MISC,,,de,21
-ukrainische,ukrainische,MISC,,,de,20
-Irankrieg,Irankrieg,MISC,,,de,19
-stern+,stern+,MISC,,,de,18
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,18
-stern+statt,stern+statt,MISC,,,de,18
-russische,russische,MISC,,,de,18
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,19
+stern+,stern+,MISC,,,de,19
+stern+statt,stern+statt,MISC,,,de,19
+israelischer,israelischer,MISC,,,de,18
+ukrainische,ukrainische,MISC,,,de,18
+russischen,russischen,MISC,,,de,18
+europäischen,europäischen,MISC,,,de,18
+Israelische,Israelische,MISC,,,de,18
 Angriff auf den Iran,Angriff auf den Iran,MISC,,,de,17
+amerikanischen,amerikanischen,MISC,,,de,17
+russische,russische,MISC,,,de,17
 Irankriegs,Irankriegs,MISC,,,de,17
-türkischen,türkischen,MISC,,,de,16
 pakistanischen,pakistanischen,MISC,,,de,16
-amerikanischen,amerikanischen,MISC,,,de,16
+Zeit,Zeit,MISC,-1.8666666666666667,1.6666666666666665,de,16
 Ostern,Ostern,MISC,,,de,16
+türkischen,türkischen,MISC,,,de,16
 Iran-Krieges,Iran-Krieges,MISC,,,de,15
-europäischen,europäischen,MISC,,,de,15
-Zeit,Zeit,MISC,-1.8666666666666667,0.6666666666666666,de,15
-pakistanische,pakistanische,MISC,,,de,15
-Israelische,Israelische,MISC,,,de,14
-israelischer,israelischer,MISC,,,de,14
+pakistanische,pakistanische,MISC,,,de,14
+libanesischen,libanesischen,MISC,,,de,14
+Gaza-Krieg,Gaza-Krieg,MISC,,,de,14
 britischer,britischer,MISC,,,de,13
-arabischen,arabischen,MISC,,,de,13
-libanesischen,libanesischen,MISC,,,de,12
 chinesischen,chinesischen,MISC,,,de,12
-Trump,Trump,MISC,-0.15789473684210525,0.10526315789473684,de,12
-Gaza-Krieg,Gaza-Krieg,MISC,,,de,12
+libanesische,libanesische,MISC,,,de,12
+arabischen,arabischen,MISC,,,de,12
+Fußball-WM,Fußball-WM,MISC,,,de,11
+Trump,Trump,MISC,-0.10526315789473684,0.10526315789473684,de,11
+Angriff,Angriff,MISC,,,de,11
+jüdische,jüdische,MISC,,,de,10
 französische,französische,MISC,,,de,10
-libanesische,libanesische,MISC,,,de,10
-Angriff,Angriff,MISC,,,de,10
 Krieg gegen den Iran,Krieg gegen den Iran,MISC,,,de,10
+Hisbollah-Miliz,Hisbollah-Miliz,MISC,0.0,0.0,de,10
 Persischen Golf,Persischen Golf,MISC,-0.2583333333333333,0.0,de,10
-Krieg“,Krieg“,MISC,,,de,9
-Hisbollah-Miliz,Hisbollah-Miliz,MISC,0.0,0.0,de,9
-Fußball-WM,Fußball-WM,MISC,,,de,9
 afghanische,afghanische,MISC,,,de,9
-Berlinale,Berlinale,MISC,,,de,9
-Berliner,Berliner,MISC,,,de,9
-türkische,türkische,MISC,,,de,9
-jüdische,jüdische,MISC,,,de,9
+WM,WM,MISC,,,de,9
+europäische,europäische,MISC,,,de,9
+Krieg“,Krieg“,MISC,,,de,9
 Fußball-Weltmeisterschaft,Fußball-Weltmeisterschaft,MISC,,,de,8
+Juden,Juden,MISC,,,de,8
+Iranische,Iranische,MISC,,,de,8
 Iran-Liveblog,Iran-Liveblog,MISC,-0.35,0.0,de,8
+Berliner,Berliner,MISC,,,de,8
 …,…,MISC,0.017499999999999998,0.0,de,8
-WM,WM,MISC,,,de,8
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,8
 jüdischen,jüdischen,MISC,,,de,7
+türkische,türkische,MISC,,,de,7
+britischem,britischem,MISC,,,de,7
+Deutsche,Deutsche,MISC,,,de,7
+US-israelischen,US-israelischen,MISC,,,de,7
+Krieg in Nahost“,Krieg in Nahost“,MISC,,,de,7
+französischen,französischen,MISC,,,de,7
+d…,d…,MISC,-0.11666666666666665,0.0,de,7
 russischem,russischem,MISC,,,de,7
+S…,S…,MISC,,,de,7
 OpenAI,OpenAI,MISC,,,de,7
 syrischer,syrischer,MISC,,,de,7
-Deutsche,Deutsche,MISC,,,de,7
-französischen,französischen,MISC,,,de,7
-US-israelischen,US-israelischen,MISC,,,de,7
-britischem,britischem,MISC,,,de,7
-europäische,europäische,MISC,,,de,7
-Iranische,Iranische,MISC,,,de,7
-deutscher,deutscher,MISC,,,de,7
-Krieg in Nahost“,Krieg in Nahost“,MISC,,,de,7
-d…,d…,MISC,-0.0875,0.0,de,7
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,7
-USS Nimitz,USS Nimitz,MISC,,,de,6
-Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,6
-polnischen,polnischen,MISC,,,de,6
-Kriegsbeginn,Kriegsbeginn,MISC,,,de,6
 Eurovision Song Contest 2026,Eurovision Song Contest 2026,MISC,,,de,6
-norwegischen,norwegischen,MISC,,,de,6
-Deutschen,Deutschen,MISC,,,de,6
-amerikanischer,amerikanischer,MISC,,,de,6
-Weltmeisterschaft,Weltmeisterschaft,MISC,,,de,6
-S…,S…,MISC,,,de,6
 syrische,syrische,MISC,,,de,6
-Parlamentswahl in Slowenien,Parlamentswahl in Slowenien,MISC,,,de,6
-sozialen,sozialen,MISC,,,de,6
-kanadische,kanadische,MISC,,,de,6
-ePaper,ePaper,MISC,,,de,6
-Nahost“,Nahost“,MISC,,,de,6
+amerikanischer,amerikanischer,MISC,,,de,6
 katholische,katholische,MISC,,,de,6
-e…,e…,MISC,,,de,6
-iranischem,iranischem,MISC,,,de,6
-Iranischer,Iranischer,MISC,,,de,6
-Internet,Internet,MISC,,,de,6
-Champions League,Champions League,MISC,,,de,6
+polnischen,polnischen,MISC,,,de,6
 WM-Qualifikation,WM-Qualifikation,MISC,,,de,6
+norwegischen,norwegischen,MISC,,,de,6
+Parlamentswahl in Slowenien,Parlamentswahl in Slowenien,MISC,,,de,6
+USS Nimitz,USS Nimitz,MISC,,,de,6
+deutscher,deutscher,MISC,,,de,6
+kanadische,kanadische,MISC,,,de,6
+Weltmeisterschaft,Weltmeisterschaft,MISC,,,de,6
 Kriegs,Kriegs,MISC,0.30000000000000004,0.0,de,6
-italienische,italienische,MISC,,,de,5
-griechischen,griechischen,MISC,,,de,5
-Fußball-WM in den USA,Fußball-WM in den USA,MISC,,,de,5
-KI-generierte,KI-generierte,MISC,,,de,5
-indische,indische,MISC,,,de,5
-österreichische,österreichische,MISC,,,de,5
-Juden,Juden,MISC,,,de,5
-Armee,Armee,MISC,,,de,5
+Deutschen,Deutschen,MISC,,,de,6
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,6
+Iranischer,Iranischer,MISC,,,de,6
+ePaper,ePaper,MISC,,,de,6
+iranischem,iranischem,MISC,,,de,6
+österreichische,österreichische,MISC,,,de,6
+Amazon,Amazon,MISC,,,de,5
+Aufstand,Aufstand,MISC,,,de,5
+sozialen,sozialen,MISC,,,de,5
 taiwanischen,taiwanischen,MISC,,,de,5
-Russen,Russen,MISC,,,de,5
 Bürgerkrieg,Bürgerkrieg,MISC,,,de,5
-afrikanischen,afrikanischen,MISC,,,de,5
-ungarischen,ungarischen,MISC,,,de,5
+indischen,indischen,MISC,,,de,5
+Fußball-WM in den USA,Fußball-WM in den USA,MISC,,,de,5
+griechischen,griechischen,MISC,,,de,5
 dänische,dänische,MISC,,,de,5
-russischer,russischer,MISC,,,de,5
-Krieg im Iran,Krieg im Iran,MISC,,,de,4
+Xi,Xi,MISC,,,de,5
+ungarischen,ungarischen,MISC,,,de,5
+Internet,Internet,MISC,,,de,5
+Kriegsende,Kriegsende,MISC,,,de,5
+indische,indische,MISC,,,de,5
+afrikanischen,afrikanischen,MISC,,,de,5
+KI-generierte,KI-generierte,MISC,,,de,5
+Russen,Russen,MISC,,,de,5
+italienische,italienische,MISC,,,de,5
+e…,e…,MISC,,,de,5
+Armee,Armee,MISC,,,de,5
+Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,5
 Google,Google,MISC,,,de,4
-norwegische,norwegische,MISC,,,de,4
+R…,R…,MISC,,,de,4
 christliche,christliche,MISC,,,de,4
-Ägyptischer,Ägyptischer,MISC,,,de,4
-u…,u…,MISC,,,de,4
-Iran“,Iran“,MISC,,,de,4
-Xi,Xi,MISC,,,de,4
-Hisbollah-Rakete,Hisbollah-Rakete,MISC,,,de,4
-Frieden,Frieden,MISC,,,de,4
-Angriff Israels,Angriff Israels,MISC,,,de,4
-Angriff auf Iran,Angriff auf Iran,MISC,,,de,4
-Grönland-Krise,Grönland-Krise,MISC,,,de,4
-afghanischen,afghanischen,MISC,,,de,4
-GS,GS,MISC,,,de,4
-World Air Quality Report 2025,World Air Quality Report 2025,MISC,,,de,4
 ukrainischen,ukrainischen,MISC,,,de,4
-Kriegsende,Kriegsende,MISC,,,de,4
-Gastbeitrag,Gastbeitrag,MISC,,,de,4
-indischen,indischen,MISC,,,de,4
-Auschwitz-Überlebende,Auschwitz-Überlebende,MISC,,,de,4
-Bangaranga,Bangaranga,MISC,1.0,0.0,de,4
-Merz,Merz,MISC,,,de,4
-südkoreanische,südkoreanische,MISC,,,de,4
-niederländischen,niederländischen,MISC,,,de,4
-Bangaranga“,Bangaranga“,MISC,,,de,4
-Business Insider Africa,Business Insider Africa,MISC,,,de,4
+norwegische,norwegische,MISC,,,de,4
+Nahost“,Nahost“,MISC,,,de,4
 Routine,Routine,MISC,,,de,4
-U…,U…,MISC,,,de,4
+Angriff auf Iran,Angriff auf Iran,MISC,,,de,4
+GS,GS,MISC,,,de,4
+russischer,russischer,MISC,,,de,4
+Angriff Israels,Angriff Israels,MISC,,,de,4
+30.04.2026,30.04.2026,MISC,,,de,4
+Hisbollah-Rakete,Hisbollah-Rakete,MISC,,,de,4
+E…,E…,MISC,,,de,4
+Gastbeitrag,Gastbeitrag,MISC,,,de,4
+V…,V…,MISC,,,de,4
+niederländischen,niederländischen,MISC,,,de,4
+Iran“,Iran“,MISC,,,de,4
+Alexa+,Alexa+,MISC,0.0,1.0,de,4
+World Air Quality Report 2025,World Air Quality Report 2025,MISC,,,de,4
+Business Insider Africa,Business Insider Africa,MISC,,,de,4
+u…,u…,MISC,,,de,4
+Grönland-Krise,Grönland-Krise,MISC,,,de,4
+Frieden,Frieden,MISC,-0.35,0.0,de,4
+Champions League,Champions League,MISC,,,de,4
+Krieg im Iran,Krieg im Iran,MISC,,,de,4
+Bangaranga,Bangaranga,MISC,1.0,0.0,de,4
 bulgarische,bulgarische,MISC,,,de,4
-DDR4,DDR4,MISC,,,de,3
-Wall Street Journal,Wall Street Journal,MISC,,,de,3
-Republikaner,Republikaner,MISC,,,de,3
-Amazon,Amazon,MISC,,,de,3
-Grand Prix,Grand Prix,MISC,,,de,3
-Die Lage im Überblick“,Die Lage im Überblick“,MISC,,,de,3
-M60A3-Patton-Panzer,M60A3-Patton-Panzer,MISC,,,de,3
+afghanischen,afghanischen,MISC,,,de,4
+Auschwitz-Überlebende,Auschwitz-Überlebende,MISC,,,de,4
+Ägyptischer,Ägyptischer,MISC,,,de,4
+Bangaranga“,Bangaranga“,MISC,,,de,4
+B-52,B-52,MISC,,,de,3
+Guten Morgen,Guten Morgen,MISC,,,de,3
+Hormus-Blockade,Hormus-Blockade,MISC,,,de,3
+Chinesische,Chinesische,MISC,,,de,3
+B-2,B-2,MISC,,,de,3
+ChatGPT,ChatGPT,MISC,,,de,3
+Israels Militär,Israels Militär,MISC,,,de,3
+Mercosur-Abkommens,Mercosur-Abkommens,MISC,,,de,3
+christliches,christliches,MISC,,,de,3
+syrischen,syrischen,MISC,,,de,3
+US-Bomber B-1,US-Bomber B-1,MISC,,,de,3
+TTS-Player,TTS-Player,MISC,-1.7999999999999998,0.0,de,3
+Israel“,Israel“,MISC,,,de,3
 Bürgerkrieg im Sudan,Bürgerkrieg im Sudan,MISC,,,de,3
 Mercosur-Freihandelsabkommen,Mercosur-Freihandelsabkommen,MISC,0.0,0.0,de,3
-Mercosur-Abkommens,Mercosur-Abkommens,MISC,,,de,3
-ZEIT,ZEIT,MISC,,,de,3
-30.04.2026,30.04.2026,MISC,,,de,3
-französischer,französischer,MISC,,,de,3
-US-Bomber B-1,US-Bomber B-1,MISC,,,de,3
-Bürgerkriegs,Bürgerkriegs,MISC,,,de,3
-iranisches,iranisches,MISC,,,de,3
-B-2,B-2,MISC,,,de,3
-B-52,B-52,MISC,,,de,3
-Chinesische,Chinesische,MISC,,,de,3
-ChatGPT,ChatGPT,MISC,,,de,3
-Verschwundene Journalistin,Verschwundene Journalistin,MISC,,,de,3
-südkoreanischen,südkoreanischen,MISC,,,de,3
-R…,R…,MISC,,,de,3
-a…,a…,MISC,,,de,3
-christliches,christliches,MISC,,,de,3
-Kriege,Kriege,MISC,,,de,3
-Aufstand,Aufstand,MISC,,,de,3
-V…,V…,MISC,,,de,3
-australische,australische,MISC,,,de,3
-Grenze,Grenze,MISC,,,de,3
-Sony World Photography Awards,Sony World Photography Awards,MISC,,,de,3
-Israel“,Israel“,MISC,,,de,3
-US-britischen,US-britischen,MISC,,,de,3
-Fußball-WM: Berlin,Fußball-WM: Berlin,MISC,,,de,3
-DAX,DAX,MISC,,,de,3
-Anschluss,Anschluss,MISC,,,de,3
-Israelischer,Israelischer,MISC,,,de,3
-X,X,MISC,,,de,3
-deutsch-israelische,deutsch-israelische,MISC,,,de,3
 Christen,Christen,MISC,,,de,3
-KPop Demon Hunters,KPop Demon Hunters,MISC,,,de,3
-Frieden“,Frieden“,MISC,,,de,3
-Israels Militär,Israels Militär,MISC,,,de,3
-Arabische,Arabische,MISC,,,de,3
-syrischen,syrischen,MISC,,,de,3
+Grenze,Grenze,MISC,,,de,3
+Spiele,Spiele,MISC,,,de,3
 Münchner,Münchner,MISC,,,de,3
-römischen,römischen,MISC,,,de,3
-Der Sieg,Der Sieg,MISC,,,de,3
-Nahostkrieg,Nahostkrieg,MISC,,,de,3
-900-Millionen-Dollar-Deal,900-Millionen-Dollar-Deal,MISC,,,de,3
+US-britischen,US-britischen,MISC,,,de,3
 Russische,Russische,MISC,,,de,3
 Paralympischen Winterspielen,Paralympischen Winterspielen,MISC,,,de,3
-thailändischen,thailändischen,MISC,,,de,3
-"Taste Atlas""-Ranking","Taste Atlas""-Ranking",MISC,,,de,3
-Zweiten Weltkrieg,Zweiten Weltkrieg,MISC,,,de,3
-Video,Video,MISC,,,de,3
-P…,P…,MISC,,,de,3
-Tier-Shows,Tier-Shows,MISC,,,de,3
-TTS-Player,TTS-Player,MISC,-1.7999999999999998,0.0,de,3
-Huthi,Huthi,MISC,0.0,0.0,de,3
-Regierung“,Regierung“,MISC,,,de,3
-soziale,soziale,MISC,,,de,3
-CDU-Politiker,CDU-Politiker,MISC,,,de,3
-E…,E…,MISC,,,de,3
-Hormus-Blockade,Hormus-Blockade,MISC,,,de,3
+australische,australische,MISC,,,de,3
+Grand Prix,Grand Prix,MISC,,,de,3
 ESC-Finale,ESC-Finale,MISC,,,de,3
+Sony World Photography Awards,Sony World Photography Awards,MISC,,,de,3
+Republikaner,Republikaner,MISC,,,de,3
+M60A3-Patton-Panzer,M60A3-Patton-Panzer,MISC,,,de,3
+Israelischer,Israelischer,MISC,,,de,3
+Videos,Videos,MISC,,,de,3
+X,X,MISC,,,de,3
+thailändischen,thailändischen,MISC,,,de,3
+Fußball-WM: Berlin,Fußball-WM: Berlin,MISC,,,de,3
+Frieden“,Frieden“,MISC,,,de,3
 chinesischer,chinesischer,MISC,,,de,3
-dpa,dpa,MISC,,,de,3
-Premium-Klasse,Premium-Klasse,MISC,,,de,2
-Rundfunkbeitrag in der Schweiz,Rundfunkbeitrag in der Schweiz,MISC,,,de,2
-Eurovision Song Contests 2026,Eurovision Song Contests 2026,MISC,,,de,2
+Amnesty,Amnesty,MISC,,,de,3
+französischer,französischer,MISC,,,de,3
+Verschwundene Journalistin,Verschwundene Journalistin,MISC,,,de,3
+a…,a…,MISC,,,de,3
+AFP,AFP,MISC,,,de,3
+CDU-Politiker,CDU-Politiker,MISC,,,de,3
+israelischem,israelischem,MISC,,,de,3
+Huthi,Huthi,MISC,0.0,0.0,de,3
+Nahostkrieg,Nahostkrieg,MISC,,,de,3
+Merz,Merz,MISC,,,de,3
+Kriege,Kriege,MISC,,,de,3
+Regierung“,Regierung“,MISC,,,de,3
+DAX,DAX,MISC,,,de,3
+Typs 076,Typs 076,MISC,,,de,3
+Tier-Shows,Tier-Shows,MISC,,,de,3
+900-Millionen-Dollar-Deal,900-Millionen-Dollar-Deal,MISC,,,de,3
+Bürgerkriegs,Bürgerkriegs,MISC,,,de,3
+KPop Demon Hunters,KPop Demon Hunters,MISC,,,de,3
+"Taste Atlas""-Ranking","Taste Atlas""-Ranking",MISC,,,de,3
+Die Lage im Überblick“,Die Lage im Überblick“,MISC,,,de,3
+Zweiten Weltkrieg,Zweiten Weltkrieg,MISC,,,de,3
+DDR4,DDR4,MISC,,,de,3
+P…,P…,MISC,,,de,3
+iranisches,iranisches,MISC,,,de,3
+römischen,römischen,MISC,,,de,3
+europäischer,europäischer,MISC,,,de,3
+Anschluss,Anschluss,MISC,,,de,3
+U…,U…,MISC,,,de,3
+deutsch-israelische,deutsch-israelische,MISC,,,de,3
+Wall Street Journal,Wall Street Journal,MISC,,,de,3
+dpa,dpa,MISC,,,de,2
 Israelis for Peace“,Israelis for Peace“,MISC,,,de,2
-Switch 2,Switch 2,MISC,,,de,2
 Trump-Freunde,Trump-Freunde,MISC,,,de,2
-DFB-Pokal-Halbfinale,DFB-Pokal-Halbfinale,MISC,,,de,2
-Aufstand der Islamisten,Aufstand der Islamisten,MISC,,,de,2
-GLOBE,GLOBE,MISC,,,de,2
-australischen,australischen,MISC,,,de,2
-argentinischen,argentinischen,MISC,,,de,2
-Pokal-Titelverteidigung,Pokal-Titelverteidigung,MISC,,,de,2
-Der Mann sei am Freitag,Der Mann sei am Freitag,MISC,,,de,2
-Oscar-Erfolge,Oscar-Erfolge,MISC,,,de,2
-Berliner Staatsbesuch,Berliner Staatsbesuch,MISC,,,de,2
-Freiland,Freiland,MISC,,,de,2
+Waffenruhe-Vereinbarung,Waffenruhe-Vereinbarung,MISC,,,de,2
+"Frau""-Paar","Frau""-Paar",MISC,,,de,2
 Armee mobilisiere,Armee mobilisiere,MISC,,,de,2
-Elektro-Multikopter,Elektro-Multikopter,MISC,,,de,2
-Angriff auf Flughafen,Angriff auf Flughafen,MISC,,,de,2
-21.04.2026,21.04.2026,MISC,,,de,2
-Gaza-Hilfsflotte,Gaza-Hilfsflotte,MISC,-0.5499999999999999,0.0,de,2
-ESC-Finale 2026,ESC-Finale 2026,MISC,,,de,2
-Indische,Indische,MISC,,,de,2
-Der Krieg,Der Krieg,MISC,,,de,2
-Terror-Opfer,Terror-Opfer,MISC,,,de,2
+tutti,tutti,MISC,,,de,2
+Paralympics in Italien,Paralympics in Italien,MISC,,,de,2
+Bus,Bus,MISC,,,de,2
+Top-6,Top-6,MISC,,,de,2
 Cityline,Cityline,MISC,,,de,2
+Henley Opportunity Index,Henley Opportunity Index,MISC,,,de,2
+Unabhängigkeitserklärung,Unabhängigkeitserklärung,MISC,,,de,2
+Richter,Richter,MISC,,,de,2
+Financial Times,Financial Times,MISC,,,de,2
+Tang,Tang,MISC,,,de,2
+Oscar-Erfolge,Oscar-Erfolge,MISC,,,de,2
+Nato-Verbündeten,Nato-Verbündeten,MISC,,,de,2
+DFB-Pokal-Halbfinale,DFB-Pokal-Halbfinale,MISC,,,de,2
+chinesischem,chinesischem,MISC,,,de,2
+Angriff des US-Militärs,Angriff des US-Militärs,MISC,,,de,2
+isländischer,isländischer,MISC,,,de,2
+Premium-Klasse,Premium-Klasse,MISC,,,de,2
+Freiland,Freiland,MISC,,,de,2
+Pokal-Titelverteidigung,Pokal-Titelverteidigung,MISC,,,de,2
+Longtail-Boot,Longtail-Boot,MISC,,,de,2
+Britische,Britische,MISC,,,de,2
+Cayenne Electric Turbo,Cayenne Electric Turbo,MISC,,,de,2
+Der Sohn,Der Sohn,MISC,,,de,2
+schwedische,schwedische,MISC,,,de,2
+Armenische,Armenische,MISC,,,de,2
+Israels Armee,Israels Armee,MISC,,,de,2
+Aufstand der Islamisten,Aufstand der Islamisten,MISC,,,de,2
+Zahl der Toten,Zahl der Toten,MISC,,,de,2
+Arctic Metagaz,Arctic Metagaz,MISC,,,de,2
+Russischer,Russischer,MISC,,,de,2
+Persischen Golfs,Persischen Golfs,MISC,,,de,2
+Zehn Jahre nach Diebstahl,Zehn Jahre nach Diebstahl,MISC,,,de,2
+irakischen,irakischen,MISC,,,de,2
+amerikanisch-israelische Krieg,amerikanisch-israelische Krieg,MISC,,,de,2
+Wildfleisches,Wildfleisches,MISC,,,de,2
+Preis für Diesel,Preis für Diesel,MISC,,,de,2
+Angriff auf Israels,Angriff auf Israels,MISC,,,de,2
+Country Food Trust,Country Food Trust,MISC,,,de,2
+schottischen,schottischen,MISC,,,de,2
+March Madness,March Madness,MISC,,,de,2
+Dax,Dax,MISC,-0.2333333333333333,0.0,de,2
+US-Kollegen,US-Kollegen,MISC,,,de,2
+Israel-Reise,Israel-Reise,MISC,,,de,2
+Asien-Cup,Asien-Cup,MISC,,,de,2
+Weißes Haus,Weißes Haus,MISC,,,de,2
+Asterix und Obelix,Asterix und Obelix,MISC,,,de,2
+Gala-Dinner,Gala-Dinner,MISC,,,de,2
+Zweite Weltkrieg,Zweite Weltkrieg,MISC,,,de,2
+Nahostkonflikt,Nahostkonflikt,MISC,0.5,0.0,de,2
+WELT,WELT,MISC,,,de,2
+Der Mann,Der Mann,MISC,,,de,2
+Sky,Sky,MISC,,,de,2
+Kalte Krieg heiß,Kalte Krieg heiß,MISC,,,de,2
+Elektro-Multikopter,Elektro-Multikopter,MISC,,,de,2
+Irans WM-Teilnahme,Irans WM-Teilnahme,MISC,,,de,2
+L…,L…,MISC,0.0,1.0,de,2
+O…,O…,MISC,,,de,2
+di…,di…,MISC,,,de,2
+D…,D…,MISC,0.5,0.0,de,2
+italienischen,italienischen,MISC,,,de,2
+Israel Krieg,Israel Krieg,MISC,,,de,2
+Kriegs in Nahost,Kriegs in Nahost,MISC,,,de,2
+Telegram-Gründer,Telegram-Gründer,MISC,,,de,2
+Orbans Zeit,Orbans Zeit,MISC,,,de,2
+INTERVIEW,INTERVIEW,MISC,,,de,2
+Kriegsminister Hegseth,Kriegsminister Hegseth,MISC,,,de,2
+Chemikalien-Anlage,Chemikalien-Anlage,MISC,,,de,2
+Erzfeind Eritrea,Erzfeind Eritrea,MISC,,,de,2
+Friedensnobelpreis,Friedensnobelpreis,MISC,,,de,2
+Die Kriege,Die Kriege,MISC,,,de,2
+W…,W…,MISC,,,de,2
+T…,T…,MISC,,,de,2
+Phantom der Oper,Phantom der Oper,MISC,,,de,2
+Luftkrieg,Luftkrieg,MISC,,,de,2
+Shutterstock.com,Shutterstock.com,MISC,,,de,2
+englischen,englischen,MISC,,,de,2
+au…,au…,MISC,-1.0,0.0,de,2
+spanischem,spanischem,MISC,,,de,2
+Vormarsch,Vormarsch,MISC,,,de,2
+Lieblingsstrand,Lieblingsstrand,MISC,,,de,2
+DDR5,DDR5,MISC,,,de,2
+israelisches,israelisches,MISC,,,de,2
+SPD-Politiker,SPD-Politiker,MISC,,,de,2
+Ö…,Ö…,MISC,,,de,2
+Özil-Dramas,Özil-Dramas,MISC,,,de,2
+belgischen,belgischen,MISC,,,de,2
+thailändischer,thailändischer,MISC,,,de,2
+Sachsen,Sachsen,MISC,0.0,0.0,de,2
+Top-Person“,Top-Person“,MISC,,,de,2
+Krise in der Straße von Hormus,Krise in der Straße von Hormus,MISC,,,de,2
+E-Mobilitäts-Bündnis,E-Mobilitäts-Bündnis,MISC,,,de,2
+Wall Street Journal“,Wall Street Journal“,MISC,,,de,2
+Tata,Tata,MISC,,,de,2
+MG S6 EV,MG S6 EV,MISC,,,de,2
+spanischen,spanischen,MISC,,,de,2
+jemenitische,jemenitische,MISC,,,de,2
+saudische,saudische,MISC,,,de,2
+Zehn Länder,Zehn Länder,MISC,,,de,2
+Jahr 2071,Jahr 2071,MISC,,,de,2
+Earth Hour,Earth Hour,MISC,,,de,2
+AHLEN Kunst…,AHLEN Kunst…,MISC,,,de,2
+Once Again,Once Again,MISC,,,de,2
+Video,Video,MISC,,,de,2
+Krieges im Sudan,Krieges im Sudan,MISC,,,de,2
+Super-Taifun,Super-Taifun,MISC,,,de,2
+DFB-Sieg,DFB-Sieg,MISC,,,de,2
+Littler-Sieg,Littler-Sieg,MISC,,,de,2
+The Riders,The Riders,MISC,,,de,2
+Premier League,Premier League,MISC,,,de,2
+US-iranische,US-iranische,MISC,,,de,2
+BBC-Recherche,BBC-Recherche,MISC,,,de,2
+Ekstraklasa,Ekstraklasa,MISC,,,de,2
+Deutsch,Deutsch,MISC,,,de,2
+Live…,Live…,MISC,,,de,2
+niederländische,niederländische,MISC,,,de,2
+Wiedervereinigung,Wiedervereinigung,MISC,,,de,2
+Münchener,Münchener,MISC,,,de,2
+Bosch,Bosch,MISC,,,de,2
+Iran…,Iran…,MISC,,,de,2
+US-israelischen Angriff auf den Iran,US-israelischen Angriff auf den Iran,MISC,,,de,2
+21.04.2026,21.04.2026,MISC,,,de,2
+Brandanschlags,Brandanschlags,MISC,,,de,2
+Basidsch-Miliz Containerschiffe an der Straße von Hormus,Basidsch-Miliz Containerschiffe an der Straße von Hormus,MISC,,,de,2
+jüdischen Gemeinde,jüdischen Gemeinde,MISC,1.4,0.0,de,2
+islamischen,islamischen,MISC,,,de,2
+Artemis 2,Artemis 2,MISC,,,de,2
+Leipziger,Leipziger,MISC,,,de,2
+Stuttgarter,Stuttgarter,MISC,,,de,2
+Anti-Terror-Chefs,Anti-Terror-Chefs,MISC,,,de,2
+deutsches,deutsches,MISC,,,de,2
+Nasa-Mondmission Artemis 2,Nasa-Mondmission Artemis 2,MISC,,,de,2
+VAE-Planungen,VAE-Planungen,MISC,,,de,2
+März bis …,März bis …,MISC,,,de,2
+Telegraph,Telegraph,MISC,,,de,2
+taiwanesische,taiwanesische,MISC,,,de,2
 Konferenz Europe 2026,Konferenz Europe 2026,MISC,,,de,2
+Terror-Opfer,Terror-Opfer,MISC,,,de,2
 Militärschlags der USA,Militärschlags der USA,MISC,,,de,2
 Ein neuer Bericht,Ein neuer Bericht,MISC,,,de,2
-Angriff auf Chameneis,Angriff auf Chameneis,MISC,,,de,2
-Longtail-Boot,Longtail-Boot,MISC,,,de,2
 pakistanischem,pakistanischem,MISC,,,de,2
-Bus,Bus,MISC,,,de,2
-chinesischem,chinesischem,MISC,,,de,2
-US-israelischen Angriff auf den Iran,US-israelischen Angriff auf den Iran,MISC,,,de,2
-jüdischer,jüdischer,MISC,,,de,2
-tutti,tutti,MISC,,,de,2
-INTERVIEW,INTERVIEW,MISC,,,de,2
-Kriegs in Nahost,Kriegs in Nahost,MISC,,,de,2
-Videos,Videos,MISC,,,de,2
-Weißes Haus,Weißes Haus,MISC,,,de,2
-schottischen,schottischen,MISC,,,de,2
-Asien-Cup,Asien-Cup,MISC,,,de,2
-Zehn Jahre nach Diebstahl,Zehn Jahre nach Diebstahl,MISC,,,de,2
-NO MORE MR,NO MORE MR,MISC,,,de,2
-NICE GUY,NICE GUY,MISC,,,de,2
-Israel-Reise,Israel-Reise,MISC,,,de,2
-Tschernobyl-Reparatur,Tschernobyl-Reparatur,MISC,,,de,2
-di…,di…,MISC,,,de,2
-US-Kollegen,US-Kollegen,MISC,,,de,2
-irakischen,irakischen,MISC,,,de,2
-Nahostkonflikt,Nahostkonflikt,MISC,0.5,0.0,de,2
-Israel Krieg,Israel Krieg,MISC,,,de,2
-jüdischen Gemeinde,jüdischen Gemeinde,MISC,1.4,0.0,de,2
-March Madness,March Madness,MISC,,,de,2
-Christentums,Christentums,MISC,,,de,2
-Euro/MonatSoli,Euro/MonatSoli,MISC,,,de,2
-Country Food Trust,Country Food Trust,MISC,,,de,2
-US-Truppenabzug,US-Truppenabzug,MISC,,,de,2
-Frieden mit den Palästinensern,Frieden mit den Palästinensern,MISC,,,de,2
-Sky,Sky,MISC,,,de,2
-D…,D…,MISC,0.5,0.0,de,2
-Abtreibungs-Befürworterinnen,Abtreibungs-Befürworterinnen,MISC,,,de,2
-Orbans Zeit,Orbans Zeit,MISC,,,de,2
-Arctic Metagaz,Arctic Metagaz,MISC,,,de,2
-Nato-Verbündeten,Nato-Verbündeten,MISC,,,de,2
-Armenische,Armenische,MISC,,,de,2
-Russischer,Russischer,MISC,,,de,2
-Deutschlands Krieg,Deutschlands Krieg,MISC,,,de,2
-italienischen,italienischen,MISC,,,de,2
-Paralympics in Italien,Paralympics in Italien,MISC,,,de,2
-Britische,Britische,MISC,,,de,2
-Gala-Dinner,Gala-Dinner,MISC,,,de,2
-schwedische,schwedische,MISC,,,de,2
-Nintendo,Nintendo,MISC,,,de,2
-Wildfleisches,Wildfleisches,MISC,,,de,2
-Der Mann,Der Mann,MISC,,,de,2
-Kriegsminister Hegseth,Kriegsminister Hegseth,MISC,,,de,2
-Financial Times,Financial Times,MISC,,,de,2
-Henley Opportunity Index,Henley Opportunity Index,MISC,,,de,2
-deutsches,deutsches,MISC,,,de,2
-Eurovision Song Contest Asia statt.</li><li>,Eurovision Song Contest Asia statt.</li><li>,MISC,,,de,2
-Angriff des US-Militärs,Angriff des US-Militärs,MISC,,,de,2
-Golf-Boom,Golf-Boom,MISC,,,de,2
-Krieg USA/Israel,Krieg USA/Israel,MISC,,,de,2
-IRAN,IRAN,MISC,,,de,2
-Nasa-Mondmission Artemis 2,Nasa-Mondmission Artemis 2,MISC,,,de,2
-Internationale Auschwitz-Komitee,Internationale Auschwitz-Komitee,MISC,,,de,2
-Artemis 2,Artemis 2,MISC,,,de,2
+taiwanesischen,taiwanesischen,MISC,,,de,2
 Frankfurter,Frankfurter,MISC,,,de,2
-Eurovision Song Contests,Eurovision Song Contests,MISC,,,de,2
+Krisenregion,Krisenregion,MISC,,,de,2
+Fußball-WM“,Fußball-WM“,MISC,,,de,2
+Lunar Gateway,Lunar Gateway,MISC,,,de,2
+deutschen WM-Vorrundenspielen,deutschen WM-Vorrundenspielen,MISC,,,de,2
+Südlibanon,Südlibanon,MISC,0.0,0.0,de,2
+Eurovision Song Contest Asia statt.</li><li>,Eurovision Song Contest Asia statt.</li><li>,MISC,,,de,2
+kalten Krieg,kalten Krieg,MISC,,,de,2
+Vance,Vance,MISC,0.0,0.0,de,2
+Iran-Verhandlungen,Iran-Verhandlungen,MISC,-0.037500000000000006,0.0,de,2
+Patriot-Raketen,Patriot-Raketen,MISC,,,de,2
+kubanischen,kubanischen,MISC,,,de,2
+Angriff auf Atomanlage Natans,Angriff auf Atomanlage Natans,MISC,,,de,2
+amerikanisch-israelischen Angriff,amerikanisch-israelischen Angriff,MISC,,,de,2
+Al-Aksa-Moschee,Al-Aksa-Moschee,MISC,,,de,2
+Internationale Auschwitz-Komitee,Internationale Auschwitz-Komitee,MISC,,,de,2
+IRAN,IRAN,MISC,,,de,2
+Krieg USA/Israel,Krieg USA/Israel,MISC,,,de,2
 "Krieges
 ","Krieges
 ",MISC,,,de,2
-Lunar Gateway,Lunar Gateway,MISC,,,de,2
-Südlibanon,Südlibanon,MISC,0.0,0.0,de,2
-isländischer,isländischer,MISC,,,de,2
-Amnesty,Amnesty,MISC,,,de,2
-Wall Street Journal“,Wall Street Journal“,MISC,,,de,2
-Iran-Verhandlungen,Iran-Verhandlungen,MISC,-0.05000000000000001,0.0,de,2
-SPD-Politiker,SPD-Politiker,MISC,,,de,2
-israelisches,israelisches,MISC,,,de,2
-spanischem,spanischem,MISC,,,de,2
-MG S6 EV,MG S6 EV,MISC,,,de,2
-spanischen,spanischen,MISC,,,de,2
-Live…,Live…,MISC,,,de,2
-Vance,Vance,MISC,0.0,0.0,de,2
-kalten Krieg,kalten Krieg,MISC,,,de,2
-VAE-Planungen,VAE-Planungen,MISC,,,de,2
-Top-6,Top-6,MISC,,,de,2
-US-iranische,US-iranische,MISC,,,de,2
-Dax,Dax,MISC,-0.2333333333333333,0.0,de,2
-WELT,WELT,MISC,,,de,2
-Tang,Tang,MISC,,,de,2
-Unabhängigkeitserklärung,Unabhängigkeitserklärung,MISC,,,de,2
-Kalte Krieg heiß,Kalte Krieg heiß,MISC,,,de,2
-Die Kriege,Die Kriege,MISC,,,de,2
-T…,T…,MISC,,,de,2
-O…,O…,MISC,,,de,2
-Zweite Weltkrieg,Zweite Weltkrieg,MISC,,,de,2
-Israels Armee,Israels Armee,MISC,,,de,2
-taiwanesischen,taiwanesischen,MISC,,,de,2
-amerikanisch-israelische Krieg,amerikanisch-israelische Krieg,MISC,,,de,2
-taiwanesische,taiwanesische,MISC,,,de,2
-"Frau""-Paar","Frau""-Paar",MISC,,,de,2
-Telegraph,Telegraph,MISC,,,de,2
-Angriff auf Israels,Angriff auf Israels,MISC,,,de,2
-Preis für Diesel,Preis für Diesel,MISC,,,de,2
-israelischem,israelischem,MISC,,,de,2
-März bis …,März bis …,MISC,,,de,2
-Friedensnobelpreis,Friedensnobelpreis,MISC,,,de,2
-Erzfeind Eritrea,Erzfeind Eritrea,MISC,,,de,2
-Chemikalien-Anlage,Chemikalien-Anlage,MISC,,,de,2
-Telegram-Gründer,Telegram-Gründer,MISC,,,de,2
-L…,L…,MISC,0.0,1.0,de,2
-Irans WM-Teilnahme,Irans WM-Teilnahme,MISC,,,de,2
-Guten Morgen,Guten Morgen,MISC,,,de,2
-Earth Hour,Earth Hour,MISC,,,de,2
-Anti-Terror-Chefs,Anti-Terror-Chefs,MISC,,,de,2
-Angriff auf Atomanlage Natans,Angriff auf Atomanlage Natans,MISC,,,de,2
-E-Mobilitäts-Bündnis,E-Mobilitäts-Bündnis,MISC,,,de,2
-Ö…,Ö…,MISC,,,de,2
-Tata,Tata,MISC,,,de,2
-Bosch,Bosch,MISC,,,de,2
-jemenitische,jemenitische,MISC,,,de,2
-Iran…,Iran…,MISC,,,de,2
-Lieblingsstrand,Lieblingsstrand,MISC,,,de,2
-Sachsen,Sachsen,MISC,0.0,0.0,de,2
-Patriot-Raketen,Patriot-Raketen,MISC,,,de,2
-kubanischen,kubanischen,MISC,,,de,2
-Waffenruhe-Vereinbarung,Waffenruhe-Vereinbarung,MISC,,,de,2
-Spiele,Spiele,MISC,,,de,2
-niederländische,niederländische,MISC,,,de,2
-amerikanisch-israelischen Angriff,amerikanisch-israelischen Angriff,MISC,,,de,2
-Guten Morgen!,Guten Morgen!,MISC,,,de,2
-Al-Aksa-Moschee,Al-Aksa-Moschee,MISC,0.0,0.0,de,2
 Iron Dome,Iron Dome,MISC,,,de,2
-Krisenregion,Krisenregion,MISC,,,de,2
-Alexa+,Alexa+,MISC,,,de,2
+Golf-Boom,Golf-Boom,MISC,,,de,2
+Eurovision Song Contests,Eurovision Song Contests,MISC,,,de,2
 französischem,französischem,MISC,,,de,2
-islamischen,islamischen,MISC,,,de,2
-Brandanschlags,Brandanschlags,MISC,,,de,2
-Leipziger,Leipziger,MISC,,,de,2
-Stuttgarter,Stuttgarter,MISC,,,de,2
-Top-Person“,Top-Person“,MISC,,,de,2
-BBC-Recherche,BBC-Recherche,MISC,,,de,2
-Cayenne Electric Turbo,Cayenne Electric Turbo,MISC,,,de,2
-Wiedervereinigung,Wiedervereinigung,MISC,,,de,2
-Basidsch-Miliz Containerschiffe an der Straße von Hormus,Basidsch-Miliz Containerschiffe an der Straße von Hormus,MISC,,,de,2
-Jahr 2071,Jahr 2071,MISC,,,de,2
-DDR5,DDR5,MISC,,,de,2
-AHLEN Kunst…,AHLEN Kunst…,MISC,,,de,2
-Once Again,Once Again,MISC,,,de,2
-englischen,englischen,MISC,,,de,2
-saudische,saudische,MISC,,,de,2
-Shutterstock.com,Shutterstock.com,MISC,,,de,2
-Littler-Sieg,Littler-Sieg,MISC,,,de,2
-Premier League,Premier League,MISC,,,de,2
-Ekstraklasa,Ekstraklasa,MISC,,,de,2
-Deutsch,Deutsch,MISC,,,de,2
-Krieges im Sudan,Krieges im Sudan,MISC,,,de,2
-Münchener,Münchener,MISC,,,de,2
-The Riders,The Riders,MISC,,,de,2
-DFB-Sieg,DFB-Sieg,MISC,,,de,2
-au…,au…,MISC,-1.0,0.0,de,2
-Vormarsch,Vormarsch,MISC,,,de,2
-Super-Taifun,Super-Taifun,MISC,,,de,2
-Phantom der Oper,Phantom der Oper,MISC,,,de,2
-Özil-Dramas,Özil-Dramas,MISC,,,de,2
-Zehn Länder,Zehn Länder,MISC,,,de,2
-belgischen,belgischen,MISC,,,de,2
-thailändischer,thailändischer,MISC,,,de,2
-deutschen WM-Vorrundenspielen,deutschen WM-Vorrundenspielen,MISC,,,de,2
-Deutschlands ESC-Frust,Deutschlands ESC-Frust,MISC,,,de,2
-spanische,spanische,MISC,,,de,2
-US-amerikanische,US-amerikanische,MISC,,,de,2
-alle fünf Jahre,alle fünf Jahre,MISC,,,de,2
-China“,China“,MISC,,,de,2
-Bundeswehr-Soldaten,Bundeswehr-Soldaten,MISC,,,de,2
-slowakischen,slowakischen,MISC,,,de,2
+Guten Morgen!,Guten Morgen!,MISC,,,de,2
 Zum Glück musst du,Zum Glück musst du,MISC,,,de,2
-christlichen,christlichen,MISC,,,de,2
-Voriges Jahr,Voriges Jahr,MISC,,,de,2
-Angriff der USA,Angriff der USA,MISC,,,de,2
-ägyptischer,ägyptischer,MISC,,,de,2
-Neues Ukraine-Treffen,Neues Ukraine-Treffen,MISC,,,de,2
-Nationalen Volkskongresses,Nationalen Volkskongresses,MISC,,,de,2
-Fußball-Märchen,Fußball-Märchen,MISC,,,de,2
-Maischberger“,Maischberger“,MISC,,,de,2
-finnische,finnische,MISC,,,de,2
-Blitz-Aufstieg,Blitz-Aufstieg,MISC,,,de,2
-Sezessionskrieg,Sezessionskrieg,MISC,,,de,2
-t…,t…,MISC,,,de,2
-Somalia,Somalia,MISC,0.0,0.0,de,2
-Golfregion,Golfregion,MISC,0.0,0.0,de,2
-Dänischer,Dänischer,MISC,,,de,2
-Litauen-Brigade,Litauen-Brigade,MISC,,,de,2
-El Mencho“,El Mencho“,MISC,,,de,2
-Wiener,Wiener,MISC,,,de,2
-Ramadan,Ramadan,MISC,0.0,0.0,de,2
-Karlsruhe,Karlsruhe,MISC,,,de,2
-Deutsches Para-Team,Deutsches Para-Team,MISC,,,de,2
-Deutscher,Deutscher,MISC,,,de,2
-EDA-Generalsekretär,EDA-Generalsekretär,MISC,,,de,2
-US-israelische,US-israelische,MISC,,,de,2
-Yaylalı,Yaylalı,MISC,,,de,2
-s…,s…,MISC,0.0,0.0,de,2
-Defence Security …,Defence Security …,MISC,,,de,2
-ANDERE BLICK,ANDERE BLICK,MISC,,,de,2
-südamerikanischen,südamerikanischen,MISC,,,de,2
-uruguayische,uruguayische,MISC,,,de,2
-Globo Esporte“,Globo Esporte“,MISC,,,de,2
-Iran Israel,Iran Israel,MISC,,,de,2
-Handelsdefizits,Handelsdefizits,MISC,,,de,2
-venezolanische,venezolanische,MISC,,,de,2
-Türkischer,Türkischer,MISC,,,de,2
-Starmer,Starmer,MISC,-0.25,0.0,de,2
-Taliban-Regierung,Taliban-Regierung,MISC,,,de,2
-offenen Krieg“,offenen Krieg“,MISC,,,de,2
-islamistische,islamistische,MISC,,,de,2
-Iran-Atomdeal,Iran-Atomdeal,MISC,,,de,2
+Nintendo,Nintendo,MISC,,,de,2
 Abkommen der EU,Abkommen der EU,MISC,,,de,2
-Golfkrieg,Golfkrieg,MISC,,,de,2
-Militärische Eskalation“,Militärische Eskalation“,MISC,,,de,2
-A…,A…,MISC,,,de,2
-Hethiter Frieden,Hethiter Frieden,MISC,,,de,2
 deutscher Zeit,deutscher Zeit,MISC,,,de,2
-saudi-arabischen,saudi-arabischen,MISC,,,de,2
-Tollwut-Virus,Tollwut-Virus,MISC,-1.0,0.0,de,2
+ESC-Finale 2026,ESC-Finale 2026,MISC,,,de,2
+z…,z…,MISC,0.0,0.0,de,2
+Christentums,Christentums,MISC,,,de,2
+A…,A…,MISC,,,de,2
+Golfkrieg,Golfkrieg,MISC,,,de,2
+uruguayische,uruguayische,MISC,,,de,2
+Taliban-Regierung,Taliban-Regierung,MISC,,,de,2
+jüdischer,jüdischer,MISC,,,de,2
 Parlament“,Parlament“,MISC,,,de,2
-USNS Mercy,USNS Mercy,MISC,,,de,2
-Atom-Verhandlungen,Atom-Verhandlungen,MISC,,,de,2
-OCSO,OCSO,MISC,,,de,2
-Kosovo,Kosovo,MISC,-0.19999999999999998,0.0,de,2
+offenen Krieg“,offenen Krieg“,MISC,,,de,2
+Eurovision Song Contests 2026,Eurovision Song Contests 2026,MISC,,,de,2
+Neues Ukraine-Treffen,Neues Ukraine-Treffen,MISC,,,de,2
+US-Truppenabzug,US-Truppenabzug,MISC,,,de,2
+Nationalen Volkskongresses,Nationalen Volkskongresses,MISC,,,de,2
+alle fünf Jahre,alle fünf Jahre,MISC,,,de,2
+Euro/MonatSoli,Euro/MonatSoli,MISC,,,de,2
+Frieden mit den Palästinensern,Frieden mit den Palästinensern,MISC,,,de,2
+Indische,Indische,MISC,,,de,2
+Der Krieg,Der Krieg,MISC,,,de,2
+Handelsdefizits,Handelsdefizits,MISC,,,de,2
+US-amerikanische,US-amerikanische,MISC,,,de,2
+Deutschlands ESC-Frust,Deutschlands ESC-Frust,MISC,,,de,2
+China“,China“,MISC,,,de,2
+Angriff auf Chameneis,Angriff auf Chameneis,MISC,,,de,2
+Angriff auf Flughafen,Angriff auf Flughafen,MISC,,,de,2
+Gaza-Hilfsflotte,Gaza-Hilfsflotte,MISC,-0.27499999999999997,0.0,de,2
+Fußball-Märchen,Fußball-Märchen,MISC,,,de,2
+Blitz-Aufstieg,Blitz-Aufstieg,MISC,,,de,2
+ZEIT,ZEIT,MISC,,,de,2
 State of the Union»-Rede,State of the Union»-Rede,MISC,,,de,2
-argentinische,argentinische,MISC,,,de,2
-Kroaten,Kroaten,MISC,,,de,2
-UN-Bericht,UN-Bericht,MISC,,,de,2
+USNS Mercy,USNS Mercy,MISC,,,de,2
+ANDERE BLICK,ANDERE BLICK,MISC,,,de,2
+Angriff der USA,Angriff der USA,MISC,,,de,2
+südamerikanischen,südamerikanischen,MISC,,,de,2
+thailändische,thailändische,MISC,,,de,2
+slowakischen,slowakischen,MISC,,,de,2
+christlichen,christlichen,MISC,,,de,2
+soziale,soziale,MISC,,,de,2
+Golfregion,Golfregion,MISC,0.0,0.0,de,2
+argentinischen,argentinischen,MISC,,,de,2
+US-israelische,US-israelische,MISC,,,de,2
+Kerosin-Vorräte,Kerosin-Vorräte,MISC,,,de,2
+Switch 2,Switch 2,MISC,,,de,2
+Berliner Staatsbesuch,Berliner Staatsbesuch,MISC,,,de,2
 amerikanisch-israelischen Angriff auf Iran,amerikanisch-israelischen Angriff auf Iran,MISC,,,de,2
+OCSO,OCSO,MISC,,,de,2
+Militärische Eskalation“,Militärische Eskalation“,MISC,,,de,2
+westafrikanischen,westafrikanischen,MISC,,,de,2
+Hethiter Frieden,Hethiter Frieden,MISC,,,de,2
+Starmer,Starmer,MISC,-0.25,0.0,de,2
+arabischen Aufstand,arabischen Aufstand,MISC,,,de,2
+Atom-Verhandlungen,Atom-Verhandlungen,MISC,,,de,2
+Iran-Atomdeal,Iran-Atomdeal,MISC,,,de,2
+saudi-arabischen,saudi-arabischen,MISC,,,de,2
+Kroaten,Kroaten,MISC,,,de,2
+t…,t…,MISC,,,de,2
 WM-Qualifikation“,WM-Qualifikation“,MISC,,,de,2
-Gesundheit“,Gesundheit“,MISC,,,de,2
-Israelischer Minister,Israelischer Minister,MISC,,,de,1
-Pontifex,Pontifex,MISC,,,de,1
-WM in Boston,WM in Boston,MISC,,,de,1
-rheinische Gulden,rheinische Gulden,MISC,,,de,1
-ZEIT Nr. 02/2026.Ausgabe,ZEIT Nr. 02/2026.Ausgabe,MISC,,,de,1
-Taiwanern,Taiwanern,MISC,,,de,1
-Kein Frieden in Sicht,Kein Frieden in Sicht,MISC,,,de,1
-Parallelkrieg,Parallelkrieg,MISC,,,de,1
-ungarischen Parlamentswahl am Sonntag,ungarischen Parlamentswahl am Sonntag,MISC,,,de,1
-Österreich“,Österreich“,MISC,,,de,1
-Wel…,Wel…,MISC,,,de,1
-pakistanischen Luftangriffen auf Afghanistan,pakistanischen Luftangriffen auf Afghanistan,MISC,,,de,1
-Reformation,Reformation,MISC,,,de,1
-Ahoi Piraten!,Ahoi Piraten!,MISC,,,de,1
-Blockade der Straße von Hormus,Blockade der Straße von Hormus,MISC,,,de,1
-Falscher Stolz,Falscher Stolz,MISC,,,de,1
-Deutsch-israelische,Deutsch-israelische,MISC,,,de,1
-Southport-Morden,Southport-Morden,MISC,0.0,0.0,de,1
-EM,EM,MISC,,,de,1
-algerische,algerische,MISC,,,de,1
-pakistanischen Luftangriffen,pakistanischen Luftangriffen,MISC,,,de,1
-DDR3,DDR3,MISC,,,de,1
-Recycling,Recycling,MISC,,,de,1
-Mona Lisa,Mona Lisa,MISC,,,de,1
-Tag nach der Ungarn-Wahl,Tag nach der Ungarn-Wahl,MISC,,,de,1
-Europas Herz ,Europas Herz ,MISC,,,de,1
-Luftkrieg,Luftkrieg,MISC,,,de,1
-Mixed-Martial-Arts-Organisation,Mixed-Martial-Arts-Organisation,MISC,,,de,1
-Komplizenschaft“,Komplizenschaft“,MISC,,,de,1
-K.-o,K.-o,MISC,,,de,1
-Düsseldorfer,Düsseldorfer,MISC,,,de,1
-Jüdische,Jüdische,MISC,,,de,1
-BDS-Kampagne,BDS-Kampagne,MISC,,,de,1
-Indopazifik“,Indopazifik“,MISC,,,de,1
-Zeckensaison“,Zeckensaison“,MISC,,,de,1
-Zeckensaison in Deutschland,Zeckensaison in Deutschland,MISC,,,de,1
-los“,los“,MISC,,,de,1
-Planloser Krieg,Planloser Krieg,MISC,,,de,1
-Seri…,Seri…,MISC,,,de,1
-Ein gewaltiger Fehler,Ein gewaltiger Fehler,MISC,,,de,1
-Angriff auf Taiwan,Angriff auf Taiwan,MISC,,,de,1
-Bundeskanzlers“,Bundeskanzlers“,MISC,,,de,1
-KI-Bild,KI-Bild,MISC,,,de,1
-israelischen Krieges,israelischen Krieges,MISC,,,de,1
-deutsch-ukrainisches,deutsch-ukrainisches,MISC,,,de,1
-Iran Krieg,Iran Krieg,MISC,,,de,1
-Ze…,Ze…,MISC,,,de,1
-Der Krieg vor Indiens Haustür,Der Krieg vor Indiens Haustür,MISC,,,de,1
-Blutgold“,Blutgold“,MISC,,,de,1
-US-Außenministeri…,US-Außenministeri…,MISC,,,de,1
-Banana Beac,Banana Beac,MISC,,,de,1
-dur…,dur…,MISC,,,de,1
-Frankreich,Frankreich,MISC,0.0,0.0,de,1
-Konferenz in Paris,Konferenz in Paris,MISC,,,de,1
-Stargate UK,Stargate UK,MISC,,,de,1
-US-Konzern Open AI,US-Konzern Open AI,MISC,,,de,1
-Open AI,Open AI,MISC,,,de,1
-Eagle Beach,Eagle Beach,MISC,,,de,1
-Jahr 2008,Jahr 2008,MISC,,,de,1
-"Mexiko
-","Mexiko
-",MISC,,,de,1
-️ <li>,️ <li>,MISC,,,de,1
-2025 wurd,2025 wurd,MISC,,,de,1
-US-Wirtschaft,US-Wirtschaft,MISC,,,de,1
-Covid-19-Pandemie,Covid-19-Pandemie,MISC,,,de,1
-Bundeswirtschaftsminis…,Bundeswirtschaftsminis…,MISC,,,de,1
-Fußball-WM um Orientierung,Fußball-WM um Orientierung,MISC,,,de,1
-Iran-News,Iran-News,MISC,,,de,1
-Kalter Frieden,Kalter Frieden,MISC,,,de,1
-TSMC,TSMC,MISC,0.0,0.0,de,1
-Krise in Nahost,Krise in Nahost,MISC,,,de,1
-Kerosin-Mangel,Kerosin-Mangel,MISC,,,de,1
-Kerosin-Knappheit,Kerosin-Knappheit,MISC,,,de,1
-BaobabBaum,BaobabBaum,MISC,,,de,1
-GoetheInstitut Dakar,GoetheInstitut Dakar,MISC,,,de,1
-Goethe‑Institut,Goethe‑Institut,MISC,,,de,1
-deutschem,deutschem,MISC,,,de,1
-Waffenstillstand zwischen den USA,Waffenstillstand zwischen den USA,MISC,,,de,1
-Don…,Don…,MISC,,,de,1
-Bundesregierun…,Bundesregierun…,MISC,,,de,1
-WM spielen,WM spielen,MISC,,,de,1
-vie…,vie…,MISC,,,de,1
-Die WELT,Die WELT,MISC,,,de,1
-WELT-Recherchen,WELT-Recherchen,MISC,,,de,1
-Libanesische Hisbollah-Miliz“,Libanesische Hisbollah-Miliz“,MISC,,,de,1
-Digital-Patentanmeld…,Digital-Patentanmeld…,MISC,,,de,1
-Schlüsseltechnologien“,Schlüsseltechnologien“,MISC,,,de,1
-Flucht aus dem Sudan,Flucht aus dem Sudan,MISC,,,de,1
-Familie,Familie,MISC,,,de,1
-Pilotenstreiks ,Pilotenstreiks ,MISC,,,de,1
-Fake-Identitäten,Fake-Identitäten,MISC,0.0,0.0,de,1
-türkischer,türkischer,MISC,,,de,1
-sudanesische,sudanesische,MISC,,,de,1
-pakistanisch-afghanischen,pakistanisch-afghanischen,MISC,,,de,1
-DAX könn…,DAX könn…,MISC,,,de,1
-Tag des Angriffs israelisch,Tag des Angriffs israelisch,MISC,,,de,1
-Noble Begierden“,Noble Begierden“,MISC,,,de,1
-Smart Dat,Smart Dat,MISC,,,de,1
+Abtreibungs-Befürworterinnen,Abtreibungs-Befürworterinnen,MISC,,,de,2
+Eurovision Song Contest“,Eurovision Song Contest“,MISC,,,de,2
+Supreme Court,Supreme Court,MISC,,,de,2
+ägyptischer,ägyptischer,MISC,,,de,2
+s…,s…,MISC,0.0,0.0,de,2
+Berlinale,Berlinale,MISC,,,de,2
+Iran Israel,Iran Israel,MISC,,,de,2
+Deutsches Para-Team,Deutsches Para-Team,MISC,,,de,2
+Rundfunkbeitrag in der Schweiz,Rundfunkbeitrag in der Schweiz,MISC,,,de,2
+GLOBE,GLOBE,MISC,,,de,2
+El Mencho“,El Mencho“,MISC,,,de,2
+Der Mann sei am Freitag,Der Mann sei am Freitag,MISC,,,de,2
+australischen,australischen,MISC,,,de,2
+Deutschlands Krieg,Deutschlands Krieg,MISC,,,de,2
+WM-Sommer,WM-Sommer,MISC,,,de,2
+WM 2026,WM 2026,MISC,,,de,2
+Maischberger“,Maischberger“,MISC,,,de,2
+Tschernobyl-Reparatur,Tschernobyl-Reparatur,MISC,,,de,2
+Somalia,Somalia,MISC,0.0,0.0,de,2
+Defence Security …,Defence Security …,MISC,,,de,2
+NICE GUY,NICE GUY,MISC,,,de,2
+spanische,spanische,MISC,,,de,2
+NO MORE MR,NO MORE MR,MISC,,,de,2
+südkoreanischen,südkoreanischen,MISC,,,de,2
+Deutscher,Deutscher,MISC,,,de,2
+Karlsruhe,Karlsruhe,MISC,,,de,2
+Einigkeit,Einigkeit,MISC,,,de,1
+griechische,griechische,MISC,,,de,1
+TikTok,TikTok,MISC,,,de,1
+Smart Data 2035“,Smart Data 2035“,MISC,,,de,1
 "Christoph Herr
 ","Christoph Herr
 ",MISC,,,de,1
-Smart Data 2035“,Smart Data 2035“,MISC,,,de,1
+Pilotenstreiks ,Pilotenstreiks ,MISC,,,de,1
+USBürgerin,USBürgerin,MISC,,,de,1
+Angriff auf das Land,Angriff auf das Land,MISC,,,de,1
+"Gewalt
+","Gewalt
+",MISC,,,de,1
+Weimer,Weimer,MISC,,,de,1
+Ges…,Ges…,MISC,,,de,1
+Fake-Identitäten,Fake-Identitäten,MISC,0.0,0.0,de,1
+Smart Dat,Smart Dat,MISC,,,de,1
+grü…,grü…,MISC,,,de,1
+DAX könn…,DAX könn…,MISC,,,de,1
+Flucht aus dem Sudan,Flucht aus dem Sudan,MISC,,,de,1
+Mens…,Mens…,MISC,,,de,1
+Dana International,Dana International,MISC,,,de,1
+sudanesische,sudanesische,MISC,,,de,1
+Blutgold“,Blutgold“,MISC,,,de,1
+Frieden und Liebe,Frieden und Liebe,MISC,,,de,1
+türkischer,türkischer,MISC,,,de,1
+Staatliche Investmentvehikel,Staatliche Investmentvehikel,MISC,,,de,1
+Internationale Grundschul-Lese-Untersuchung,Internationale Grundschul-Lese-Untersuchung,MISC,,,de,1
 Libanon“,Libanon“,MISC,,,de,1
+"Westjordanland
+","Westjordanland
+",MISC,,,de,1
+Nahost-Konflikt“,Nahost-Konflikt“,MISC,,,de,1
+Free Palestine,Free Palestine,MISC,,,de,1
+israelischen Krieges,israelischen Krieges,MISC,,,de,1
+Liebe Berliner Mitbürger,Liebe Berliner Mitbürger,MISC,,,de,1
+deutsch-ukrainisches,deutsch-ukrainisches,MISC,,,de,1
+SZ,SZ,MISC,,,de,1
+Iran Krieg,Iran Krieg,MISC,,,de,1
+Käm…,Käm…,MISC,,,de,1
+EM,EM,MISC,,,de,1
+Wiener,Wiener,MISC,,,de,1
+Falscher Stolz,Falscher Stolz,MISC,,,de,1
+Taiwanern,Taiwanern,MISC,,,de,1
+Parallelkrieg,Parallelkrieg,MISC,,,de,1
+Blockade der Straße von Hormus,Blockade der Straße von Hormus,MISC,,,de,1
+Deutsch-israelische,Deutsch-israelische,MISC,,,de,1
+Israelischer Minister,Israelischer Minister,MISC,,,de,1
+Min…,Min…,MISC,,,de,1
+Österreich“,Österreich“,MISC,,,de,1
+Krieg Israels,Krieg Israels,MISC,,,de,1
+Wehrpflicht“,Wehrpflicht“,MISC,,,de,1
+Mitten in …,Mitten in …,MISC,,,de,1
+WM in Boston,WM in Boston,MISC,,,de,1
+K.-o,K.-o,MISC,,,de,1
+EU-weite,EU-weite,MISC,,,de,1
+Auflös…,Auflös…,MISC,,,de,1
+US-Außenministeri…,US-Außenministeri…,MISC,,,de,1
+Kalter Frieden,Kalter Frieden,MISC,,,de,1
 Diplomatie,Diplomatie,MISC,,,de,1
-Boarding,Boarding,MISC,,,de,1
-Peru-Flug,Peru-Flug,MISC,,,de,1
-Iran,Iran,MISC,0.0,0.0,de,1
-Crash-Szenario,Crash-Szenario,MISC,,,de,1
-Börsen-Folgen,Börsen-Folgen,MISC,,,de,1
-Jom-Kippur-Krieg,Jom-Kippur-Krieg,MISC,,,de,1
-Sudan-Konferenz,Sudan-Konferenz,MISC,,,de,1
-dritten internationalen Sudan-Konferenz,dritten internationalen Sudan-Konferenz,MISC,,,de,1
-wa…,wa…,MISC,,,de,1
-Bundeswehr-Dilemma,Bundeswehr-Dilemma,MISC,,,de,1
-Washington Post,Washington Post,MISC,,,de,1
-Angriff auf Merz,Angriff auf Merz,MISC,,,de,1
-afghanischer Grenze,afghanischer Grenze,MISC,,,de,1
-Israel-Reise“,Israel-Reise“,MISC,,,de,1
-Internationale Zusammenarbeit“,Internationale Zusammenarbeit“,MISC,,,de,1
-RiskLab,RiskLab,MISC,,,de,1
-Erwärmung global,Erwärmung global,MISC,,,de,1
-ZEIT Geschichte,ZEIT Geschichte,MISC,,,de,1
-Die Verhandlungen zwischen den USA,Die Verhandlungen zwischen den USA,MISC,,,de,1
-deutsch,deutsch,MISC,,,de,1
-Türkische,Türkische,MISC,,,de,1
+Weihnachten,Weihnachten,MISC,,,de,1
+Egisto Ott,Egisto Ott,MISC,,,de,1
+Zapa“,Zapa“,MISC,,,de,1
+Familie,Familie,MISC,,,de,1
+US-Konzern Open AI,US-Konzern Open AI,MISC,,,de,1
+US-Wirtschaft,US-Wirtschaft,MISC,,,de,1
+Mehrheitsverhältni…,Mehrheitsverhältni…,MISC,,,de,1
+Kuwait,Kuwait,MISC,0.0,0.0,de,1
+️ <li>,️ <li>,MISC,,,de,1
 … Trotz Waffenruhe,… Trotz Waffenruhe,MISC,,,de,1
+"Mexiko
+","Mexiko
+",MISC,,,de,1
+Eagle Beach,Eagle Beach,MISC,,,de,1
+Gaming,Gaming,MISC,,,de,1
+Banana Beac,Banana Beac,MISC,,,de,1
+Open AI,Open AI,MISC,,,de,1
 Aktienkurse,Aktienkurse,MISC,,,de,1
 Ru…,Ru…,MISC,,,de,1
 Was über die Waffenruhe,Was über die Waffenruhe,MISC,,,de,1
-Italienische,Italienische,MISC,,,de,1
-Wir sind…,Wir sind…,MISC,,,de,1
-US‑Bürgerin,US‑Bürgerin,MISC,,,de,1
-Tages,Tages,MISC,,,de,1
-Preis für ein Fass,Preis für ein Fass,MISC,,,de,1
-Nicolás-Maduro-Entfernungstheorie,Nicolás-Maduro-Entfernungstheorie,MISC,,,de,1
-Beginn des Jahres…,Beginn des Jahres…,MISC,,,de,1
-Öff…,Öff…,MISC,,,de,1
-ungarischen Parlamentswahl,ungarischen Parlamentswahl,MISC,,,de,1
-Rekordhoch,Rekordhoch,MISC,,,de,1
-en passant,en passant,MISC,,,de,1
-Kuwait,Kuwait,MISC,0.0,0.0,de,1
+Stargate UK,Stargate UK,MISC,,,de,1
+Covid-19-Pandemie,Covid-19-Pandemie,MISC,,,de,1
+irani…,irani…,MISC,,,de,1
+Raubkatzen,Raubkatzen,MISC,,,de,1
+Iran-Konfliktes,Iran-Konfliktes,MISC,,,de,1
+Konferenz in Paris,Konferenz in Paris,MISC,,,de,1
+Frankreich,Frankreich,MISC,0.0,0.0,de,1
+dur…,dur…,MISC,,,de,1
+Fußball-WM um Orientierung,Fußball-WM um Orientierung,MISC,,,de,1
+Jahr 2008,Jahr 2008,MISC,,,de,1
+Iran-News,Iran-News,MISC,,,de,1
+linksextreme,linksextreme,MISC,,,de,1
+Waffenstillstand zwischen den USA,Waffenstillstand zwischen den USA,MISC,,,de,1
+May 08,May 08,MISC,,,de,1
+China Daily,China Daily,MISC,,,de,1
+Nintendo Switch 2,Nintendo Switch 2,MISC,,,de,1
+Bundeswirtschaftsminis…,Bundeswirtschaftsminis…,MISC,,,de,1
+Boarding,Boarding,MISC,,,de,1
+A-10 Thunderbolt II,A-10 Thunderbolt II,MISC,,,de,1
+Peru-Flug,Peru-Flug,MISC,,,de,1
+Bundeskanzlers“,Bundeskanzlers“,MISC,,,de,1
+Washington-Reise,Washington-Reise,MISC,,,de,1
+Iran,Iran,MISC,0.0,0.0,de,1
+Crash-Szenario,Crash-Szenario,MISC,,,de,1
+Christi Himmelfahrt,Christi Himmelfahrt,MISC,,,de,1
+Börsen-Folgen,Börsen-Folgen,MISC,,,de,1
+Jom-Kippur-Krieg,Jom-Kippur-Krieg,MISC,,,de,1
+Der qatarische,Der qatarische,MISC,,,de,1
+Sudan-Konferenz,Sudan-Konferenz,MISC,,,de,1
+dritten internationalen Sudan-Konferenz,dritten internationalen Sudan-Konferenz,MISC,,,de,1
+wa…,wa…,MISC,,,de,1
+Hizbullah-Ziele,Hizbullah-Ziele,MISC,,,de,1
+Washington Post,Washington Post,MISC,,,de,1
+Libanesische Hisbollah-Miliz“,Libanesische Hisbollah-Miliz“,MISC,,,de,1
+Ärzte-ohne-Grenzen-Einsatzleiter,Ärzte-ohne-Grenzen-Einsatzleiter,MISC,,,de,1
+WM für Feierlichkeiten,WM für Feierlichkeiten,MISC,,,de,1
+Warzenschwein“,Warzenschwein“,MISC,,,de,1
+tödlichen Hantavirus-Ausbruch au,tödlichen Hantavirus-Ausbruch au,MISC,,,de,1
+Angriff auf Merz,Angriff auf Merz,MISC,,,de,1
+RiskLab,RiskLab,MISC,,,de,1
+Deutsche Exporte in die USA,Deutsche Exporte in die USA,MISC,,,de,1
 "Iran
 ","Iran
 ",MISC,,,de,1
-Warzenschwein“,Warzenschwein“,MISC,,,de,1
-griechische,griechische,MISC,,,de,1
-Käm…,Käm…,MISC,,,de,1
-Min…,Min…,MISC,,,de,1
-Krieg Israels,Krieg Israels,MISC,,,de,1
-Vertrag mit der Schweiz,Vertrag mit der Schweiz,MISC,,,de,1
-EU-weite,EU-weite,MISC,,,de,1
-TikTok,TikTok,MISC,,,de,1
-Mens…,Mens…,MISC,,,de,1
-A-10 Thunderbolt II,A-10 Thunderbolt II,MISC,,,de,1
-Frieden und Liebe,Frieden und Liebe,MISC,,,de,1
-Einigkeit,Einigkeit,MISC,,,de,1
-USBürgerin,USBürgerin,MISC,,,de,1
-Andrew-Dokumenten,Andrew-Dokumenten,MISC,,,de,1
-Weihnachten,Weihnachten,MISC,,,de,1
-Christi Himmelfahrt,Christi Himmelfahrt,MISC,,,de,1
-Zehn Monate Haft für betrunkenen Passagier“,Zehn Monate Haft für betrunkenen Passagier“,MISC,,,de,1
-"UhrAktualisiert
-","UhrAktualisiert
-",MISC,,,de,1
-Deeskalation is,Deeskalation is,MISC,,,de,1
-07.04.2026,07.04.2026,MISC,,,de,1
-Angriff im Iran ++,Angriff im Iran ++,MISC,,,de,1
-US-israelischem,US-israelischem,MISC,,,de,1
-Das zweite Besatzungsmitglied,Das zweite Besatzungsmitglied,MISC,,,de,1
-Pekings,Pekings,MISC,,,de,1
-Erlangen,Erlangen,MISC,,,de,1
-China,China,MISC,0.0,0.0,de,1
-Time Out“,Time Out“,MISC,,,de,1
-Stadt der Liebe,Stadt der Liebe,MISC,,,de,1
-BOSE,BOSE,MISC,,,de,1
-Angriff auf Regierungskomplex,Angriff auf Regierungskomplex,MISC,,,de,1
-goldenen Zeitalter,goldenen Zeitalter,MISC,,,de,1
-si…,si…,MISC,,,de,1
-Sprache,Sprache,MISC,,,de,1
-Ellie,Ellie,MISC,,,de,1
-Besuches,Besuches,MISC,,,de,1
-06.04.2026,06.04.2026,MISC,,,de,1
-Selenskyj,Selenskyj,MISC,0.0,0.0,de,1
-Artemis-Crew,Artemis-Crew,MISC,,,de,1
-Lange Zeit,Lange Zeit,MISC,,,de,1
-ETA,ETA,MISC,,,de,1
-Verkehrsinfrastruktur“,Verkehrsinfrastruktur“,MISC,,,de,1
-Anga…,Anga…,MISC,,,de,1
-Israel-Club,Israel-Club,MISC,,,de,1
-Familientisch,Familientisch,MISC,,,de,1
-Enfant terrible,Enfant terrible,MISC,,,de,1
-Trump'sche Rhetorik,Trump'sche Rhetorik,MISC,,,de,1
-Der ukrainische,Der ukrainische,MISC,,,de,1
-US-Skandalrapper,US-Skandalrapper,MISC,,,de,1
-Hormus-Kiew-Deal“,Hormus-Kiew-Deal“,MISC,,,de,1
-Stargate-Rechenzentrum,Stargate-Rechenzentrum,MISC,,,de,1
-Kanye West“,Kanye West“,MISC,,,de,1
-Ansp…,Ansp…,MISC,,,de,1
-Krieg gege…,Krieg gege…,MISC,,,de,1
-SZ,SZ,MISC,,,de,1
-Ami“ Rik De Lisle,Ami“ Rik De Lisle,MISC,,,de,1
-Volksfeind,Volksfeind,MISC,,,de,1
-Han-Kuang-Militärübungen,Han-Kuang-Militärübungen,MISC,,,de,1
-picture alliance/dpa/Pool Reuters,picture alliance/dpa/Pool Reuters,MISC,,,de,1
-europäisches,europäisches,MISC,,,de,1
-Nahost-Krieges,Nahost-Krieges,MISC,,,de,1
-Thronfolge-Ausschluss,Thronfolge-Ausschluss,MISC,,,de,1
-Russland-Sanktionen,Russland-Sanktionen,MISC,,,de,1
-Arg…,Arg…,MISC,,,de,1
-Mini…,Mini…,MISC,,,de,1
-Straße von Hormus +++  ,Straße von Hormus +++  ,MISC,,,de,1
-Feuerpause,Feuerpause,MISC,-0.25,0.0,de,1
-Angriff auf US-Kriegsschiff +++,Angriff auf US-Kriegsschiff +++,MISC,,,de,1
-In Our Time,In Our Time,MISC,,,de,1
+Erwärmung global,Erwärmung global,MISC,,,de,1
+Terror-Gedenktag,Terror-Gedenktag,MISC,,,de,1
+Tag des Angriffs israelisch,Tag des Angriffs israelisch,MISC,,,de,1
+Schlüsseltechnologien“,Schlüsseltechnologien“,MISC,,,de,1
+Digital-Patentanmeld…,Digital-Patentanmeld…,MISC,,,de,1
+KI-Bild,KI-Bild,MISC,,,de,1
+Zeckensaison in Deutschland,Zeckensaison in Deutschland,MISC,,,de,1
+Angriff auf Taiwan,Angriff auf Taiwan,MISC,,,de,1
+JavaScript,JavaScript,MISC,,,de,1
+WM“,WM“,MISC,,,de,1
+Venezuela,Venezuela,MISC,0.0,0.0,de,1
 BBC-Sendung,BBC-Sendung,MISC,,,de,1
-Plötzlich schlägt der Löwe,Plötzlich schlägt der Löwe,MISC,,,de,1
+In Our Time,In Our Time,MISC,,,de,1
+Angriff auf US-Kriegsschiff +++,Angriff auf US-Kriegsschiff +++,MISC,,,de,1
+Feuerpause,Feuerpause,MISC,-0.25,0.0,de,1
+Straße von Hormus +++  ,Straße von Hormus +++  ,MISC,,,de,1
+Mini…,Mini…,MISC,,,de,1
+Koreakrieg,Koreakrieg,MISC,,,de,1
+European Song Contest 2026,European Song Contest 2026,MISC,,,de,1
+FanmeileKein Public Viewing,FanmeileKein Public Viewing,MISC,,,de,1
+Browser,Browser,MISC,,,de,1
+Nahost-Krieges,Nahost-Krieges,MISC,,,de,1
+picture alliance/dpa/Pool Reuters,picture alliance/dpa/Pool Reuters,MISC,,,de,1
 Berlin-Warschau-Express,Berlin-Warschau-Express,MISC,,,de,1
+Eurovision Song Contest in,Eurovision Song Contest in,MISC,,,de,1
+ESC-Ergebnis im Überblick,ESC-Ergebnis im Überblick,MISC,,,de,1
+Demografi… Zeman,Demografi… Zeman,MISC,,,de,1
+Angriff auf US-Kriegsschiff +++  ,Angriff auf US-Kriegsschiff +++  ,MISC,,,de,1
+Ukraine-Konflikt,Ukraine-Konflikt,MISC,,,de,1
+Connect to the Bangaranga“,Connect to the Bangaranga“,MISC,,,de,1
+Die Verhandlungen zwischen den USA,Die Verhandlungen zwischen den USA,MISC,,,de,1
+Anti-Kriegs-Demonstra…,Anti-Kriegs-Demonstra…,MISC,,,de,1
+Ersten Weltkrieg,Ersten Weltkrieg,MISC,,,de,1
+Eurovision Song Contest …,Eurovision Song Contest …,MISC,,,de,1
+Fremdscham-Moment,Fremdscham-Moment,MISC,,,de,1
+Die Iraner,Die Iraner,MISC,,,de,1
+Die Verhandlungen in Pakistan,Die Verhandlungen in Pakistan,MISC,,,de,1
+80 Jahre…,80 Jahre…,MISC,,,de,1
 "Unsere Tipps für Posen
 <ul><li","Unsere Tipps für Posen
 <ul><li",MISC,,,de,1
-britischen Filmpreise,britischen Filmpreise,MISC,,,de,1
-Angriff auf US-Kriegsschiff +++  ,Angriff auf US-Kriegsschiff +++  ,MISC,,,de,1
-Bafta-Verleihung“,Bafta-Verleihung“,MISC,,,de,1
-Seeverkehr für,Seeverkehr für,MISC,,,de,1
-Str...,Str...,MISC,,,de,1
-impo…,impo…,MISC,,,de,1
-Urlaubswelle 2026,Urlaubswelle 2026,MISC,,,de,1
-Generation Z,Generation Z,MISC,,,de,1
-Schwerpunktthem…,Schwerpunktthem…,MISC,,,de,1
-Februar b,Februar b,MISC,,,de,1
-Monat für Monat,Monat für Monat,MISC,,,de,1
-Krise in der Straße von Hormus,Krise in der Straße von Hormus,MISC,,,de,1
-taiwanische,taiwanische,MISC,,,de,1
-Die Verhandlungen in Pakistan,Die Verhandlungen in Pakistan,MISC,,,de,1
-Die Iraner,Die Iraner,MISC,,,de,1
-Bafta-Verleihung,Bafta-Verleihung,MISC,,,de,1
-Ersten Weltkrieg,Ersten Weltkrieg,MISC,,,de,1
-Anti-Kriegs-Demonstra…,Anti-Kriegs-Demonstra…,MISC,,,de,1
-AP24.02.2026,AP24.02.2026,MISC,,,de,1
-du vo,du vo,MISC,,,de,1
-Nen…,Nen…,MISC,,,de,1
-südkoreanis…,südkoreanis…,MISC,,,de,1
-Was vier Jahre Ukrainekrieg,Was vier Jahre Ukrainekrieg,MISC,,,de,1
+Ein gewaltiger Fehler,Ein gewaltiger Fehler,MISC,,,de,1
+Breher,Breher,MISC,,,de,1
+Orion-Raumschiff,Orion-Raumschiff,MISC,,,de,1
+Großisrael,Großisrael,MISC,,,de,1
+Das Gelobte Land,Das Gelobte Land,MISC,,,de,1
+jüdischen Nation,jüdischen Nation,MISC,,,de,1
+Peking Taiwan,Peking Taiwan,MISC,,,de,1
+Geschäftsführer Gefängnisstrafen,Geschäftsführer Gefängnisstrafen,MISC,,,de,1
+IGLU-Studie aus dem Jahr 2021,IGLU-Studie aus dem Jahr 2021,MISC,,,de,1
+Das sind die besten Länder,Das sind die besten Länder,MISC,,,de,1
+Henley Opportunity Index 2026,Henley Opportunity Index 2026,MISC,,,de,1
+Times of Israel ,Times of Israel ,MISC,,,de,1
+ungarische,ungarische,MISC,,,de,1
+Mensch…,Mensch…,MISC,,,de,1
+Wir werden den Golf,Wir werden den Golf,MISC,,,de,1
+tschechische,tschechische,MISC,,,de,1
+U19Nationalspieler,U19Nationalspieler,MISC,,,de,1
+Audi Summer Tour,Audi Summer Tour,MISC,,,de,1
+Nato-Angriff,Nato-Angriff,MISC,,,de,1
+Amazon-Gerät,Amazon-Gerät,MISC,,,de,1
+FußballFieber,FußballFieber,MISC,,,de,1
+unver...,unver...,MISC,,,de,1
+Schlechtes Zeugnis für Freiheit,Schlechtes Zeugnis für Freiheit,MISC,,,de,1
+BILDplus-Gewinnspiel,BILDplus-Gewinnspiel,MISC,,,de,1
+Gaza-Protesten,Gaza-Protesten,MISC,,,de,1
+Ready-Set-Ford,Ready-Set-Ford,MISC,,,de,1
+picture al,picture al,MISC,,,de,1
+Han-Kuang-Militärübungen,Han-Kuang-Militärübungen,MISC,,,de,1
 Öl-Angst,Öl-Angst,MISC,,,de,1
-80 Jahre…,80 Jahre…,MISC,,,de,1
-russischen Invasion der Ukraine,russischen Invasion der Ukraine,MISC,,,de,1
-Koreakrieg,Koreakrieg,MISC,,,de,1
-Ukraine-Konflikt,Ukraine-Konflikt,MISC,,,de,1
+"Minister
+Itamar Ben-Gvir and Bezalel Smotrich","Minister
+Itamar Ben-Gvir and Bezalel Smotrich",MISC,,,de,1
+taiwanische,taiwanische,MISC,,,de,1
 Korruptionsprozess,Korruptionsprozess,MISC,,,de,1
 Telefonat am Mittwoch,Telefonat am Mittwoch,MISC,,,de,1
-Kriegseintritt,Kriegseintritt,MISC,,,de,1
-abs…,abs…,MISC,,,de,1
+Düsseldorfer,Düsseldorfer,MISC,,,de,1
+Block-Prozess,Block-Prozess,MISC,0.0,0.0,de,1
 Nahost-Reise,Nahost-Reise,MISC,,,de,1
+Abe…,Abe…,MISC,,,de,1
+DDR3,DDR3,MISC,,,de,1
+Lesen Sie den Abend,Lesen Sie den Abend,MISC,,,de,1
+Southport-Morden,Southport-Morden,MISC,0.0,0.0,de,1
 Dröhnen der…,Dröhnen der…,MISC,,,de,1
 08.04.2026,08.04.2026,MISC,,,de,1
+Tag nach der Ungarn-Wahl,Tag nach der Ungarn-Wahl,MISC,,,de,1
+Europas Herz ,Europas Herz ,MISC,,,de,1
 Militär…,Militär…,MISC,,,de,1
+Nakba-Tages,Nakba-Tages,MISC,,,de,1
+Komplizenschaft“,Komplizenschaft“,MISC,,,de,1
 Vietnamkrieg,Vietnamkrieg,MISC,,,de,1
-Audi Summer Tour,Audi Summer Tour,MISC,,,de,1
+Monat für Monat,Monat für Monat,MISC,,,de,1
+Nen…,Nen…,MISC,,,de,1
+Jüdische,Jüdische,MISC,,,de,1
+islamistische,islamistische,MISC,,,de,1
+BDS-Kampagne,BDS-Kampagne,MISC,,,de,1
+Ami“ Rik De Lisle,Ami“ Rik De Lisle,MISC,,,de,1
+Indopazifik“,Indopazifik“,MISC,,,de,1
+Zeckensaison“,Zeckensaison“,MISC,,,de,1
+Deeskalation is,Deeskalation is,MISC,,,de,1
+Islamistische,Islamistische,MISC,,,de,1
 Artemis-Besatzung,Artemis-Besatzung,MISC,,,de,1
-Orion-Raumschiff,Orion-Raumschiff,MISC,,,de,1
-ungarische,ungarische,MISC,,,de,1
-Vier Jahre UkraineKrieg,Vier Jahre UkraineKrieg,MISC,,,de,1
-Küchentisch,Küchentisch,MISC,,,de,1
-tschechische,tschechische,MISC,,,de,1
-Ihr Schicksal,Ihr Schicksal,MISC,,,de,1
-unser Schicksal“ +++ Russische Öllieferungen,unser Schicksal“ +++ Russische Öllieferungen,MISC,,,de,1
-Wir werden den Golf,Wir werden den Golf,MISC,,,de,1
-Times of Israel ,Times of Israel ,MISC,,,de,1
-Großisrael,Großisrael,MISC,,,de,1
-Henley Opportunity Index 2026,Henley Opportunity Index 2026,MISC,,,de,1
-Das sind die besten Länder,Das sind die besten Länder,MISC,,,de,1
-Geschäftsführer Gefängnisstrafen,Geschäftsführer Gefängnisstrafen,MISC,,,de,1
-Peking Taiwan,Peking Taiwan,MISC,,,de,1
-jüdischen Nation,jüdischen Nation,MISC,,,de,1
-Das Gelobte Land,Das Gelobte Land,MISC,,,de,1
-Krise in Nahost“,Krise in Nahost“,MISC,,,de,1
-Irankrieges,Irankrieges,MISC,,,de,1
-Libanon-Krieg,Libanon-Krieg,MISC,,,de,1
-Das Hauptgeschäftsfeld der Kartelle in Mexiko,Das Hauptgeschäftsfeld der Kartelle in Mexiko,MISC,,,de,1
-palästinensisches,palästinensisches,MISC,,,de,1
-palästinensische,palästinensische,MISC,,,de,1
-Jüdischer Mann,Jüdischer Mann,MISC,,,de,1
-Gewalt in Nahost,Gewalt in Nahost,MISC,,,de,1
-01.05.2026,01.05.2026,MISC,,,de,1
-Ukrainischer,Ukrainischer,MISC,,,de,1
-Neun Tote bei,Neun Tote bei,MISC,,,de,1
-Gaza-Flotte,Gaza-Flotte,MISC,,,de,1
-Jä…,Jä…,MISC,,,de,1
-The World's 50 Best Beaches,The World's 50 Best Beaches,MISC,,,de,1
-Gaza-Kriegs,Gaza-Kriegs,MISC,,,de,1
-i…,i…,MISC,,,de,1
-Atomruine ⁠beschädigt,Atomruine ⁠beschädigt,MISC,,,de,1
-Iran-Diplomatie,Iran-Diplomatie,MISC,,,de,1
-Drehscheibe der…,Drehscheibe der…,MISC,,,de,1
-proiranischen Hisbollah-Miliz,proiranischen Hisbollah-Miliz,MISC,,,de,1
-Die Regierung,Die Regierung,MISC,,,de,1
-Die Furcht des Kanzlers,Die Furcht des Kanzlers,MISC,,,de,1
-Heiliges Land,Heiliges Land,MISC,,,de,1
-ÖJV-Asse,ÖJV-Asse,MISC,,,de,1
-ÖJV-Medaillen,ÖJV-Medaillen,MISC,,,de,1
-El…,El…,MISC,,,de,1
-Shanghaier Media Group SMG,Shanghaier Media Group SMG,MISC,,,de,1
-Oh ja,Oh ja,MISC,,,de,1
-davonOh,davonOh,MISC,,,de,1
-LebenUnd,LebenUnd,MISC,,,de,1
-Drei“,Drei“,MISC,,,de,1
-Look Mum No Computer,Look Mum No Computer,MISC,,,de,1
-rheinland-pfälzische,rheinland-pfälzische,MISC,,,de,1
-One Direction“-Star,One Direction“-Star,MISC,,,de,1
-"One Direction""-Star Malik","One Direction""-Star Malik",MISC,,,de,1
-Nahost-Konflikt,Nahost-Konflikt,MISC,,,de,1
-Allianz-Studie,Allianz-Studie,MISC,,,de,1
-katholischen,katholischen,MISC,,,de,1
-En…,En…,MISC,,,de,1
-nation…,nation…,MISC,,,de,1
-WM gegen Deutschland,WM gegen Deutschland,MISC,,,de,1
-Bericht Jahr der Extreme,Bericht Jahr der Extreme,MISC,,,de,1
-Masters-1000-Turnier,Masters-1000-Turnier,MISC,,,de,1
-Viertelfinal-Einzug“,Viertelfinal-Einzug“,MISC,,,de,1
-Irre,Irre,MISC,,,de,1
-Au…,Au…,MISC,,,de,1
-Was ein wundervoll,Was ein wundervoll,MISC,,,de,1
-Hauses,Hauses,MISC,,,de,1
-Tag“,Tag“,MISC,,,de,1
-Ein wundervoll britischer,Ein wundervoll britischer,MISC,,,de,1
-Ahnen-Recherche,Ahnen-Recherche,MISC,,,de,1
-Wir w…,Wir w…,MISC,,,de,1
-Bolognese-Gerichten,Bolognese-Gerichten,MISC,,,de,1
-Un…,Un…,MISC,,,de,1
-Weltrekord-Kron…,Weltrekord-Kron…,MISC,,,de,1
-Raritäten,Raritäten,MISC,,,de,1
-TGC-Sammlung der Welt,TGC-Sammlung der Welt,MISC,,,de,1
-Tschechien Jakub Mensik,Tschechien Jakub Mensik,MISC,,,de,1
-Polarkreis,Polarkreis,MISC,-0.35,0.0,de,1
-Truth Social…,Truth Social…,MISC,,,de,1
-Staatsbesuch in USA“,Staatsbesuch in USA“,MISC,,,de,1
-Truth Soc…,Truth Soc…,MISC,,,de,1
-ukra…,ukra…,MISC,,,de,1
-Atomkatastrophe“,Atomkatastrophe“,MISC,,,de,1
-Nichtnachdenken,Nichtnachdenken,MISC,,,de,1
-BBC-Bericht…,BBC-Bericht…,MISC,,,de,1
-niedersächsische,niedersächsische,MISC,,,de,1
-Putenfleischproduzent“,Putenfleischproduzent“,MISC,,,de,1
-US-kongress,US-kongress,MISC,,,de,1
-Aufnahme…,Aufnahme…,MISC,,,de,1
-Ich b…,Ich b…,MISC,,,de,1
-Tourismus-Strategie,Tourismus-Strategie,MISC,,,de,1
-Paar,Paar,MISC,,,de,1
-Kongress Klartext,Kongress Klartext,MISC,,,de,1
-Münchner Eclipse,Münchner Eclipse,MISC,,,de,1
-HMS Trump,HMS Trump,MISC,,,de,1
-Medaille un…,Medaille un…,MISC,,,de,1
-Britischer,Britischer,MISC,,,de,1
-Mandelson-Skandal,Mandelson-Skandal,MISC,,,de,1
-Glitzer-Sicherung,Glitzer-Sicherung,MISC,,,de,1
-Abe…,Abe…,MISC,,,de,1
-Lesen Sie den Abend,Lesen Sie den Abend,MISC,,,de,1
-Kultur“,Kultur“,MISC,,,de,1
-Nahost-Konflikt“,Nahost-Konflikt“,MISC,,,de,1
-Liebe Berliner Mitbürger,Liebe Berliner Mitbürger,MISC,,,de,1
-Mitten in …,Mitten in …,MISC,,,de,1
-Washington-Reise,Washington-Reise,MISC,,,de,1
-WM für Feierlichkeiten,WM für Feierlichkeiten,MISC,,,de,1
-tödlichen Hantavirus-Ausbruch au,tödlichen Hantavirus-Ausbruch au,MISC,,,de,1
-Deutsche Exporte in die USA,Deutsche Exporte in die USA,MISC,,,de,1
-Nintendo Switch 2,Nintendo Switch 2,MISC,,,de,1
-Offener Brief,Offener Brief,MISC,,,de,1
-Gaming,Gaming,MISC,,,de,1
-Gaza“,Gaza“,MISC,,,de,1
-May 08,May 08,MISC,,,de,1
+los“,los“,MISC,,,de,1
+Wir suchen keinen Krieg,Wir suchen keinen Krieg,MISC,,,de,1
+Seri…,Seri…,MISC,,,de,1
+Mixed-Martial-Arts-Organisation,Mixed-Martial-Arts-Organisation,MISC,,,de,1
+Planloser Krieg,Planloser Krieg,MISC,,,de,1
+PGSA,PGSA,MISC,,,de,1
 40-Meter-Sprint,40-Meter-Sprint,MISC,,,de,1
-Rhein-Pfalz-Kreis,Rhein-Pfalz-Kreis,MISC,0.0,0.0,de,1
-Unte…,Unte…,MISC,,,de,1
-Eurovision Song Cont…,Eurovision Song Cont…,MISC,,,de,1
-European Song Contest 2026,European Song Contest 2026,MISC,,,de,1
-Browser,Browser,MISC,,,de,1
-JavaScript,JavaScript,MISC,,,de,1
-Eurovision Song Contest in,Eurovision Song Contest in,MISC,,,de,1
-ESC-Ergebnis im Überblick,ESC-Ergebnis im Überblick,MISC,,,de,1
-Connect to the Bangaranga“,Connect to the Bangaranga“,MISC,,,de,1
-Eurovision Song Contest …,Eurovision Song Contest …,MISC,,,de,1
-Fremdscham-Moment,Fremdscham-Moment,MISC,,,de,1
+Seeverkehr für,Seeverkehr für,MISC,,,de,1
 BUNTE.de-Analyse,BUNTE.de-Analyse,MISC,,,de,1
-Eurovision Song Contest“,Eurovision Song Contest“,MISC,,,de,1
+Februar b,Februar b,MISC,,,de,1
 Is…,Is…,MISC,,,de,1
 "Endergebnis
 ","Endergebnis
 ",MISC,,,de,1
-charm… Ahoi Piraten,charm… Ahoi Piraten,MISC,,,de,1
+Schwerpunktthem…,Schwerpunktthem…,MISC,,,de,1
+Generation Z,Generation Z,MISC,,,de,1
+Urlaubswelle 2026,Urlaubswelle 2026,MISC,,,de,1
+impo…,impo…,MISC,,,de,1
+Str...,Str...,MISC,,,de,1
 Choke Me,Choke Me,MISC,,,de,1
+Volksfeind,Volksfeind,MISC,,,de,1
 bulgarisch,bulgarisch,MISC,,,de,1
-China Daily,China Daily,MISC,,,de,1
-Guten Appetit,Guten Appetit,MISC,,,de,1
-Gesellschaftss…,Gesellschaftss…,MISC,,,de,1
-WM-Titel,WM-Titel,MISC,,,de,1
-Pers…,Pers…,MISC,,,de,1
-Person sei…,Person sei…,MISC,,,de,1
-USS Pinckney,USS Pinckney,MISC,,,de,1
-Griechischer,Griechischer,MISC,,,de,1
-Kalten Krieg,Kalten Krieg,MISC,,,de,1
-Supreme Court,Supreme Court,MISC,,,de,1
-Youll Never Watch Alone,Youll Never Watch Alone,MISC,,,de,1
-You‘ll Never Watch Alone“,You‘ll Never Watch Alone“,MISC,,,de,1
-Angriff auf Nonne,Angriff auf Nonne,MISC,,,de,1
-FabrikaSimf,FabrikaSimf,MISC,,,de,1
-Angriff auf US‑Schiff,Angriff auf US‑Schiff,MISC,,,de,1
-Team-WW,Team-WW,MISC,,,de,1
-jedes Jahr,jedes Jahr,MISC,,,de,1
-Nato“,Nato“,MISC,,,de,1
-Poor,Poor,MISC,,,de,1
-Sackgasse“,Sackgasse“,MISC,,,de,1
-Fußball-WM: Hoeneß,Fußball-WM: Hoeneß,MISC,,,de,1
-Hantavirus-Ausbruch,Hantavirus-Ausbruch,MISC,0.0,0.0,de,1
-Krätze“,Krätze“,MISC,,,de,1
-Gazakrieg,Gazakrieg,MISC,,,de,1
-Branchenblatt Variety,Branchenblatt Variety,MISC,,,de,1
-Truppen im Jahr 1862,Truppen im Jahr 1862,MISC,,,de,1
-mexikanischen Armee,mexikanischen Armee,MISC,,,de,1
-Schlacht bei Puebla,Schlacht bei Puebla,MISC,,,de,1
-Programm für Reise,Programm für Reise,MISC,,,de,1
-Azteken,Azteken,MISC,,,de,1
-mexikanische,mexikanische,MISC,,,de,1
-Sicherheitsallianz mit den USA,Sicherheitsallianz mit den USA,MISC,,,de,1
-Moldawier,Moldawier,MISC,,,de,1
-unverbr…,unverbr…,MISC,,,de,1
-Wahre Liebe,Wahre Liebe,MISC,,,de,1
-Mini,Mini,MISC,,,de,1
-Eine schöne Alternative,Eine schöne Alternative,MISC,,,de,1
-Neuseelands Great Walks,Neuseelands Great Walks,MISC,,,de,1
+deutsch,deutsch,MISC,,,de,1
+Kriegseintritt,Kriegseintritt,MISC,,,de,1
+Eurovision Song Cont…,Eurovision Song Cont…,MISC,,,de,1
+ZEIT Geschichte,ZEIT Geschichte,MISC,,,de,1
+ZEIT Nr. 02/2026.Ausgabe,ZEIT Nr. 02/2026.Ausgabe,MISC,,,de,1
+Kein Frieden in Sicht,Kein Frieden in Sicht,MISC,,,de,1
+Wel…,Wel…,MISC,,,de,1
+Reformation,Reformation,MISC,,,de,1
+Persischen Golfs“,Persischen Golfs“,MISC,,,de,1
+ungarischen Parlamentswahl am Sonntag,ungarischen Parlamentswahl am Sonntag,MISC,,,de,1
+WELT-Recherchen,WELT-Recherchen,MISC,,,de,1
+Pontifex,Pontifex,MISC,,,de,1
+Glitzer-Sicherung,Glitzer-Sicherung,MISC,,,de,1
+algerische,algerische,MISC,,,de,1
+Kongress Klartext,Kongress Klartext,MISC,,,de,1
+Krise in Nahost“,Krise in Nahost“,MISC,,,de,1
+Die WELT,Die WELT,MISC,,,de,1
+Impossible,Impossible,MISC,,,de,1
+Neun Tote bei,Neun Tote bei,MISC,,,de,1
+Höllenloch“,Höllenloch“,MISC,,,de,1
+Venedig-Biennale,Venedig-Biennale,MISC,,,de,1
+Dänemarkkritik,Dänemarkkritik,MISC,,,de,1
+Ukrainischer,Ukrainischer,MISC,,,de,1
+"Hockstein/Reuters
+","Hockstein/Reuters
+",MISC,,,de,1
+Hessen,Hessen,MISC,0.0,0.0,de,1
+Judenhass,Judenhass,MISC,,,de,1
+Malaria-Impfungen,Malaria-Impfungen,MISC,,,de,1
+Regierungskonfer…,Regierungskonfer…,MISC,,,de,1
+kolumbianischen,kolumbianischen,MISC,,,de,1
+Wei…,Wei…,MISC,,,de,1
+US‑Bürgerin,US‑Bürgerin,MISC,,,de,1
+Atomwaffeneinsatz,Atomwaffeneinsatz,MISC,,,de,1
+ü…,ü…,MISC,,,de,1
+Jahr 2018,Jahr 2018,MISC,,,de,1
+BSW-Fraktion,BSW-Fraktion,MISC,,,de,1
+Bergbau-Rechten,Bergbau-Rechten,MISC,,,de,1
+Virus,Virus,MISC,,,de,1
+Gazastreifens,Gazastreifens,MISC,-0.13999999999999999,0.0,de,1
+Israel be,Israel be,MISC,,,de,1
+Atomruine ⁠beschädigt,Atomruine ⁠beschädigt,MISC,,,de,1
+i…,i…,MISC,,,de,1
+Die Mine,Die Mine,MISC,,,de,1
+Gaza-Kriegs,Gaza-Kriegs,MISC,,,de,1
+Kernfrage,Kernfrage,MISC,,,de,1
+Gaza-Flotte,Gaza-Flotte,MISC,,,de,1
+CEZ,CEZ,MISC,,,de,1
+The World's 50 Best Beaches,The World's 50 Best Beaches,MISC,,,de,1
+Jä…,Jä…,MISC,,,de,1
+Kernenergie“,Kernenergie“,MISC,,,de,1
+Rekordpreis,Rekordpreis,MISC,,,de,1
+BSW-Fraktion im Landtag,BSW-Fraktion im Landtag,MISC,,,de,1
+Altersvorsorge“,Altersvorsorge“,MISC,,,de,1
+Libanon-Waffenruhe,Libanon-Waffenruhe,MISC,,,de,1
+amerikanisch-israelischen Angriffs auf den Iran,amerikanisch-israelischen Angriffs auf den Iran,MISC,,,de,1
+Free-TV,Free-TV,MISC,,,de,1
+Samsung Galaxy XR,Samsung Galaxy XR,MISC,,,de,1
+mac…,mac…,MISC,,,de,1
+Spiel w…,Spiel w…,MISC,,,de,1
+DFB-Pokal­finale,DFB-Pokal­finale,MISC,,,de,1
+DFB-Pokal,DFB-Pokal,MISC,,,de,1
+Das Hauptgeschäftsfeld der Kartelle in Mexiko,Das Hauptgeschäftsfeld der Kartelle in Mexiko,MISC,,,de,1
+Chancen“,Chancen“,MISC,,,de,1
+Die Samsung Galaxy XR,Die Samsung Galaxy XR,MISC,,,de,1
+Die Regierung,Die Regierung,MISC,,,de,1
+Die Brandmauer,Die Brandmauer,MISC,,,de,1
+Heiliges Land,Heiliges Land,MISC,,,de,1
+Freigabe d…,Freigabe d…,MISC,,,de,1
+Mittwoch i…,Mittwoch i…,MISC,,,de,1
+’s,’s,MISC,,,de,1
+proiranischen Hisbollah-Miliz,proiranischen Hisbollah-Miliz,MISC,,,de,1
+Fragile Waffenruhe,Fragile Waffenruhe,MISC,,,de,1
+01.05.2026,01.05.2026,MISC,,,de,1
+Afrikareise,Afrikareise,MISC,,,de,1
+Straße von Hormus +++ US-Verteidigungsministerium,Straße von Hormus +++ US-Verteidigungsministerium,MISC,,,de,1
+Gewalt in Nahost,Gewalt in Nahost,MISC,,,de,1
+Ki…,Ki…,MISC,,,de,1
+tutti“,tutti“,MISC,,,de,1
+Jüdischer Mann,Jüdischer Mann,MISC,,,de,1
+Ärmelkanal-Migration,Ärmelkanal-Migration,MISC,,,de,1
+Ägyptische,Ägyptische,MISC,,,de,1
+Tote trotz Waffenruhe“,Tote trotz Waffenruhe“,MISC,,,de,1
+CZ 8021,CZ 8021,MISC,,,de,1
+CO-…,CO-…,MISC,,,de,1
+Ärmelkanal-Überfahrten,Ärmelkanal-Überfahrten,MISC,,,de,1
+palästinensisches,palästinensisches,MISC,,,de,1
+Unmöglicher Frieden,Unmöglicher Frieden,MISC,,,de,1
+Zwei Tote,Zwei Tote,MISC,,,de,1
+Ofac,Ofac,MISC,,,de,1
+25.04.2026,25.04.2026,MISC,,,de,1
+Gesicher…,Gesicher…,MISC,,,de,1
+BBC-Bericht…,BBC-Bericht…,MISC,,,de,1
+US-kongress,US-kongress,MISC,,,de,1
+Ahnen-Recherche,Ahnen-Recherche,MISC,,,de,1
+Feind-Geheimnisse“,Feind-Geheimnisse“,MISC,,,de,1
+Jahr 2025,Jahr 2025,MISC,,,de,1
+Putenfleischproduzent“,Putenfleischproduzent“,MISC,,,de,1
+niedersächsische,niedersächsische,MISC,,,de,1
+Bolognese-Gerichten,Bolognese-Gerichten,MISC,,,de,1
+Tag“,Tag“,MISC,,,de,1
+Un…,Un…,MISC,,,de,1
+Weltrekord-Kron…,Weltrekord-Kron…,MISC,,,de,1
+Geri…,Geri…,MISC,,,de,1
+Raritäten,Raritäten,MISC,,,de,1
+TGC-Sammlung der Welt,TGC-Sammlung der Welt,MISC,,,de,1
 Untersuchungsausschuss,Untersuchungsausschuss,MISC,,,de,1
+Ein wundervoll britischer,Ein wundervoll britischer,MISC,,,de,1
+Hauses,Hauses,MISC,,,de,1
 Fr…,Fr…,MISC,,,de,1
-Krieg zwischen Is…,Krieg zwischen Is…,MISC,,,de,1
-Kurs…,Kurs…,MISC,,,de,1
-Kapitulationstisch,Kapitulationstisch,MISC,,,de,1
-EU-Außenminister,EU-Außenminister,MISC,0.0,0.0,de,1
-Erfahrun…,Erfahrun…,MISC,,,de,1
-europäischer,europäischer,MISC,,,de,1
-Euro,Euro,MISC,,,de,1
-Sexy Fish,Sexy Fish,MISC,,,de,1
-Ivy-Kette,Ivy-Kette,MISC,,,de,1
-Londoner,Londoner,MISC,,,de,1
-Israels Unabhängigkeitstag,Israels Unabhängigkeitstag,MISC,,,de,1
-Israelisches Militär,Israelisches Militär,MISC,,,de,1
-Wetter“,Wetter“,MISC,,,de,1
-Nuklear-Bewaffnung,Nuklear-Bewaffnung,MISC,,,de,1
-österreichischen,österreichischen,MISC,,,de,1
-Eurovisions-Glück,Eurovisions-Glück,MISC,,,de,1
-ESC-Bilanz,ESC-Bilanz,MISC,,,de,1
-EU-Außenminister disktuieren,EU-Außenminister disktuieren,MISC,,,de,1
-Waf…,Waf…,MISC,,,de,1
-israelisch-libanesischen Grenze,israelisch-libanesischen Grenze,MISC,,,de,1
-Bundestagswahl 2017,Bundestagswahl 2017,MISC,,,de,1
-Ein Luxus-Flussschiff,Ein Luxus-Flussschiff,MISC,,,de,1
-Griechische,Griechische,MISC,,,de,1
-Verfassungsartikels 9 …,Verfassungsartikels 9 …,MISC,,,de,1
-CDU-Parteitag,CDU-Parteitag,MISC,,,de,1
-Adis Ahmetović,Adis Ahmetović,MISC,,,de,1
-Mullah-Regime,Mullah-Regime,MISC,0.0,0.0,de,1
-Kr…,Kr…,MISC,,,de,1
-Anhebun…,Anhebun…,MISC,,,de,1
-Gesetz für Verbot von Tabakverkauf,Gesetz für Verbot von Tabakverkauf,MISC,,,de,1
-Israel-Sanktionen,Israel-Sanktionen,MISC,,,de,1
-Glaubwürdigkeit in Gefahr,Glaubwürdigkeit in Gefahr,MISC,,,de,1
-Der Streit,Der Streit,MISC,,,de,1
-Außenmi…,Außenmi…,MISC,,,de,1
-Jahr 2016,Jahr 2016,MISC,,,de,1
-US-Delegati…,US-Delegati…,MISC,,,de,1
-Regierung werd…,Regierung werd…,MISC,,,de,1
-Die rote Linie,Die rote Linie,MISC,,,de,1
-Die Straße von Hormus,Die Straße von Hormus,MISC,,,de,1
-Pariser Konferenz,Pariser Konferenz,MISC,,,de,1
-USA abe…,USA abe…,MISC,,,de,1
-Blockade“,Blockade“,MISC,,,de,1
-vom Krieg,vom Krieg,MISC,,,de,1
-Gesamtpreis,Gesamtpreis,MISC,,,de,1
-MAGA,MAGA,MISC,,,de,1
-südspanischen,südspanischen,MISC,,,de,1
-Der Ex-Präsident,Der Ex-Präsident,MISC,,,de,1
-Yoo…,Yoo…,MISC,,,de,1
-Fußball-WM“,Fußball-WM“,MISC,,,de,1
-Trump-Milei-Deal,Trump-Milei-Deal,MISC,,,de,1
-Wochen Krieg,Wochen Krieg,MISC,,,de,1
-Frieden?“,Frieden?“,MISC,,,de,1
-Pfad…,Pfad…,MISC,,,de,1
-afrikanischer,afrikanischer,MISC,,,de,1
-im Jahr 1969,im Jahr 1969,MISC,,,de,1
-Welt“,Welt“,MISC,,,de,1
-Europa-Tour,Europa-Tour,MISC,,,de,1
-ABBfoto,ABBfoto,MISC,,,de,1
-schlesischen,schlesischen,MISC,,,de,1
-Krieg im Iran“,Krieg im Iran“,MISC,,,de,1
-Der tödliche Angriff auf französische Blauhelmsoldaten,Der tödliche Angriff auf französische Blauhelmsoldaten,MISC,,,de,1
-Angriff vom Samstag,Angriff vom Samstag,MISC,,,de,1
-Die Verhandlungen zwischen Iran,Die Verhandlungen zwischen Iran,MISC,,,de,1
-Make Korea great again“,Make Korea great again“,MISC,,,de,1
-Wahlbetrug“,Wahlbetrug“,MISC,,,de,1
-Nasa,Nasa,MISC,,,de,1
-Mond-Raumstation,Mond-Raumstation,MISC,,,de,1
-Make America great again“-Bewegung,Make America great again“-Bewegung,MISC,,,de,1
-Schmidts Familie,Schmidts Familie,MISC,,,de,1
-Brasilianische,Brasilianische,MISC,,,de,1
+Exilwissenschaft,Exilwissenschaft,MISC,,,de,1
+HMS Trump,HMS Trump,MISC,,,de,1
+Staatsbesuch in USA“,Staatsbesuch in USA“,MISC,,,de,1
+Polarkreis,Polarkreis,MISC,-0.35,0.0,de,1
+Bericht Jahr der Extreme,Bericht Jahr der Extreme,MISC,,,de,1
+Paar,Paar,MISC,,,de,1
+Tschechien Jakub Mensik,Tschechien Jakub Mensik,MISC,,,de,1
+Masters-1000-Turnier,Masters-1000-Turnier,MISC,,,de,1
+Was ein wundervoll,Was ein wundervoll,MISC,,,de,1
+Viertelfinal-Einzug“,Viertelfinal-Einzug“,MISC,,,de,1
+Irre,Irre,MISC,,,de,1
+Au…,Au…,MISC,,,de,1
+Bildungsoffensive,Bildungsoffensive,MISC,,,de,1
+großen Krieges,großen Krieges,MISC,,,de,1
+Taxi,Taxi,MISC,,,de,1
+Mandelson-Skandal,Mandelson-Skandal,MISC,,,de,1
+Friedensvertrag,Friedensvertrag,MISC,,,de,1
+Gaza-Hilfsschiffe,Gaza-Hilfsschiffe,MISC,,,de,1
+Fast ein Jahr,Fast ein Jahr,MISC,,,de,1
+Jahresauftakt“,Jahresauftakt“,MISC,,,de,1
+Der Schah,Der Schah,MISC,,,de,1
+VW,VW,MISC,,,de,1
+somalischen,somalischen,MISC,,,de,1
+Tag nach Mercedes,Tag nach Mercedes,MISC,,,de,1
+Gaza-Aktivisten,Gaza-Aktivisten,MISC,,,de,1
+English,English,MISC,,,de,1
+Frieden die Hisbollah,Frieden die Hisbollah,MISC,,,de,1
+Freiluftsaison,Freiluftsaison,MISC,,,de,1
+“ Israels,“ Israels,MISC,,,de,1
+Drehscheibe der…,Drehscheibe der…,MISC,,,de,1
+Iran-Diplomatie,Iran-Diplomatie,MISC,,,de,1
+Angriff auf ein Gala-Dinner,Angriff auf ein Gala-Dinner,MISC,,,de,1
+Angriff bei Gala,Angriff bei Gala,MISC,,,de,1
+Litani-Fluss,Litani-Fluss,MISC,,,de,1
+Jahresauftakt,Jahresauftakt,MISC,,,de,1
+Ölpreis,Ölpreis,MISC,0.0,0.0,de,1
+Ungarn-Szenario,Ungarn-Szenario,MISC,,,de,1
+Atomkatastrophe“,Atomkatastrophe“,MISC,,,de,1
+Zuckersteuer he…,Zuckersteuer he…,MISC,,,de,1
+Kind in Deutschland,Kind in Deutschland,MISC,,,de,1
+ukra…,ukra…,MISC,,,de,1
+Nahverkehrszugs,Nahverkehrszugs,MISC,,,de,1
+Truth Soc…,Truth Soc…,MISC,,,de,1
+28.04.2026,28.04.2026,MISC,,,de,1
+En…,En…,MISC,,,de,1
+Truth Social…,Truth Social…,MISC,,,de,1
+Angriff im Hilton-Hotel,Angriff im Hilton-Hotel,MISC,,,de,1
+Attentat beim Pressedinner,Attentat beim Pressedinner,MISC,,,de,1
+Jakarta,Jakarta,MISC,-0.12142857142857143,0.0,de,1
+nation…,nation…,MISC,,,de,1
+kanadischen,kanadischen,MISC,,,de,1
+katholischen,katholischen,MISC,,,de,1
+Allianz-Studie,Allianz-Studie,MISC,,,de,1
+vie…,vie…,MISC,,,de,1
+moldawischen,moldawischen,MISC,,,de,1
 Macht-Masche,Macht-Masche,MISC,,,de,1
 See-Blockade,See-Blockade,MISC,,,de,1
 Atomstaubs“ +++ Trump,Atomstaubs“ +++ Trump,MISC,,,de,1
 Uran,Uran,MISC,,,de,1
-Flucht in die Schweiz,Flucht in die Schweiz,MISC,,,de,1
+schlesischen,schlesischen,MISC,,,de,1
+Krätze“,Krätze“,MISC,,,de,1
+Europa-Tour,Europa-Tour,MISC,,,de,1
+Arabischen,Arabischen,MISC,,,de,1
+Neuseelands Great Walks,Neuseelands Great Walks,MISC,,,de,1
+Eine schöne Alternative,Eine schöne Alternative,MISC,,,de,1
+Pariser Konferenz,Pariser Konferenz,MISC,,,de,1
+Welt“,Welt“,MISC,,,de,1
+USA abe…,USA abe…,MISC,,,de,1
+Blockade“,Blockade“,MISC,,,de,1
+Mini,Mini,MISC,,,de,1
+Brasilianische,Brasilianische,MISC,,,de,1
+Schmidts Familie,Schmidts Familie,MISC,,,de,1
+Fußball-WM: Hoeneß,Fußball-WM: Hoeneß,MISC,,,de,1
+Person sei…,Person sei…,MISC,,,de,1
+Die rote Linie,Die rote Linie,MISC,,,de,1
+ABBfoto,ABBfoto,MISC,,,de,1
+Krieg im Iran“,Krieg im Iran“,MISC,,,de,1
+Kalten Krieg,Kalten Krieg,MISC,,,de,1
+USS Pinckney,USS Pinckney,MISC,,,de,1
+Der tödliche Angriff auf französische Blauhelmsoldaten,Der tödliche Angriff auf französische Blauhelmsoldaten,MISC,,,de,1
+Angriff vom Samstag,Angriff vom Samstag,MISC,,,de,1
+Mond-Raumstation,Mond-Raumstation,MISC,,,de,1
+Die Verhandlungen zwischen Iran,Die Verhandlungen zwischen Iran,MISC,,,de,1
+Pers…,Pers…,MISC,,,de,1
+Drogenboote,Drogenboote,MISC,,,de,1
+Sackgasse“,Sackgasse“,MISC,,,de,1
+WM-Titel,WM-Titel,MISC,,,de,1
+Nasa,Nasa,MISC,,,de,1
+Wahre Liebe,Wahre Liebe,MISC,,,de,1
+vom Krieg,vom Krieg,MISC,,,de,1
+Irankrieges,Irankrieges,MISC,,,de,1
+GoetheInstitut Dakar,GoetheInstitut Dakar,MISC,,,de,1
+Münchner Eclipse,Münchner Eclipse,MISC,,,de,1
+Krise in Nahost,Krise in Nahost,MISC,,,de,1
+Hantavirus-Ausbruch,Hantavirus-Ausbruch,MISC,0.0,0.0,de,1
+Kerosin-Mangel,Kerosin-Mangel,MISC,,,de,1
+Kerosin-Knappheit,Kerosin-Knappheit,MISC,,,de,1
+BaobabBaum,BaobabBaum,MISC,,,de,1
+Guten Appetit,Guten Appetit,MISC,,,de,1
+Libanon-Krieg,Libanon-Krieg,MISC,,,de,1
+Goethe‑Institut,Goethe‑Institut,MISC,,,de,1
+TSMC,TSMC,MISC,0.0,0.0,de,1
+deutschem,deutschem,MISC,,,de,1
+Don…,Don…,MISC,,,de,1
+Bundesregierun…,Bundesregierun…,MISC,,,de,1
+WM spielen,WM spielen,MISC,,,de,1
+Truppen im Jahr 1862,Truppen im Jahr 1862,MISC,,,de,1
+mexikanischen Armee,mexikanischen Armee,MISC,,,de,1
+unverbr…,unverbr…,MISC,,,de,1
+Wochen Krieg,Wochen Krieg,MISC,,,de,1
+Gesamtpreis,Gesamtpreis,MISC,,,de,1
+Kriegs am Golf,Kriegs am Golf,MISC,,,de,1
+südspanischen,südspanischen,MISC,,,de,1
+Energiekrise“,Energiekrise“,MISC,,,de,1
+Sicherheitsallianz mit den USA,Sicherheitsallianz mit den USA,MISC,,,de,1
+mexikanische,mexikanische,MISC,,,de,1
+Frieden?“,Frieden?“,MISC,,,de,1
+Schlacht bei Puebla,Schlacht bei Puebla,MISC,,,de,1
+Pfad…,Pfad…,MISC,,,de,1
+Azteken,Azteken,MISC,,,de,1
+afrikanischer,afrikanischer,MISC,,,de,1
+im Jahr 1969,im Jahr 1969,MISC,,,de,1
+Programm für Reise,Programm für Reise,MISC,,,de,1
+Krieg zwischen Is…,Krieg zwischen Is…,MISC,,,de,1
+israelisch-libanesischen Grenze,israelisch-libanesischen Grenze,MISC,,,de,1
+Regierung werd…,Regierung werd…,MISC,,,de,1
+ESC-Bilanz,ESC-Bilanz,MISC,,,de,1
+ÖJV-Medaillen,ÖJV-Medaillen,MISC,,,de,1
+davonOh,davonOh,MISC,,,de,1
+Anhebun…,Anhebun…,MISC,,,de,1
+Oh ja,Oh ja,MISC,,,de,1
+Shanghaier Media Group SMG,Shanghaier Media Group SMG,MISC,,,de,1
+Gesetz für Verbot von Tabakverkauf,Gesetz für Verbot von Tabakverkauf,MISC,,,de,1
+El…,El…,MISC,,,de,1
+Israel-Sanktionen,Israel-Sanktionen,MISC,,,de,1
+LebenUnd,LebenUnd,MISC,,,de,1
+Glaubwürdigkeit in Gefahr,Glaubwürdigkeit in Gefahr,MISC,,,de,1
+Der Streit,Der Streit,MISC,,,de,1
+Außenmi…,Außenmi…,MISC,,,de,1
+ÖJV-Asse,ÖJV-Asse,MISC,,,de,1
+Medaille un…,Medaille un…,MISC,,,de,1
+WM gegen Deutschland,WM gegen Deutschland,MISC,,,de,1
+Die Vertreibungen von Palästinensern,Die Vertreibungen von Palästinensern,MISC,,,de,1
+Kr…,Kr…,MISC,,,de,1
+486 mutm…,486 mutm…,MISC,,,de,1
+Truth Social,Truth Social,MISC,,,de,1
+prorussische,prorussische,MISC,,,de,1
+Ilias,Ilias,MISC,,,de,1
 "Stockholm
 22.04.2026","Stockholm
 22.04.2026",MISC,,,de,1
-Friedensvertrag,Friedensvertrag,MISC,,,de,1
-Angriff bei Gala,Angriff bei Gala,MISC,,,de,1
-Ofac,Ofac,MISC,,,de,1
-Gazastreifens,Gazastreifens,MISC,-0.13999999999999999,0.0,de,1
-Israel be,Israel be,MISC,,,de,1
-Polit-Pop,Polit-Pop,MISC,,,de,1
-Die Mine,Die Mine,MISC,,,de,1
-Virus,Virus,MISC,,,de,1
-CEZ,CEZ,MISC,,,de,1
-Kernenergie“,Kernenergie“,MISC,,,de,1
-Rekordpreis,Rekordpreis,MISC,,,de,1
-BSW-Fraktion im Landtag,BSW-Fraktion im Landtag,MISC,,,de,1
-Bergbau-Rechten,Bergbau-Rechten,MISC,,,de,1
-BSW-Fraktion,BSW-Fraktion,MISC,,,de,1
-Days Of Ash“,Days Of Ash“,MISC,,,de,1
-Malaria-Impfungen,Malaria-Impfungen,MISC,,,de,1
-Regierungskonfer…,Regierungskonfer…,MISC,,,de,1
-Gesicher…,Gesicher…,MISC,,,de,1
-Angriff auf ein Gala-Dinner,Angriff auf ein Gala-Dinner,MISC,,,de,1
-ü…,ü…,MISC,,,de,1
-Freiluftsaison,Freiluftsaison,MISC,,,de,1
-Ölpreis,Ölpreis,MISC,0.0,0.0,de,1
-Zuckersteuer he…,Zuckersteuer he…,MISC,,,de,1
-Kind in Deutschland,Kind in Deutschland,MISC,,,de,1
-Ungarn-Szenario,Ungarn-Szenario,MISC,,,de,1
-Angriff im Hilton-Hotel,Angriff im Hilton-Hotel,MISC,,,de,1
-Attentat beim Pressedinner,Attentat beim Pressedinner,MISC,,,de,1
-kanadischen,kanadischen,MISC,,,de,1
-Frieden die Hisbollah,Frieden die Hisbollah,MISC,,,de,1
-Litani-Fluss,Litani-Fluss,MISC,,,de,1
-Großer Fehler“,Großer Fehler“,MISC,,,de,1
-Der Schah,Der Schah,MISC,,,de,1
-somalischen,somalischen,MISC,,,de,1
-mö…,mö…,MISC,,,de,1
-Fast ein Jahr,Fast ein Jahr,MISC,,,de,1
-English,English,MISC,,,de,1
-kolumbianischen,kolumbianischen,MISC,,,de,1
-Altersvorsorge“,Altersvorsorge“,MISC,,,de,1
-Ilias,Ilias,MISC,,,de,1
-Samsung Galaxy XR,Samsung Galaxy XR,MISC,,,de,1
-Spiel w…,Spiel w…,MISC,,,de,1
-DFB-Pokal­finale,DFB-Pokal­finale,MISC,,,de,1
-DFB-Pokal,DFB-Pokal,MISC,,,de,1
-Free-TV,Free-TV,MISC,,,de,1
-Fachkräftemangel in Deutschland,Fachkräftemangel in Deutschland,MISC,,,de,1
-Chancen“,Chancen“,MISC,,,de,1
-Die Brandmauer,Die Brandmauer,MISC,,,de,1
-Frieden im Gazastreifen,Frieden im Gazastreifen,MISC,,,de,1
-Freigabe d…,Freigabe d…,MISC,,,de,1
-Mittwoch i…,Mittwoch i…,MISC,,,de,1
-’s,’s,MISC,,,de,1
-Impossible,Impossible,MISC,,,de,1
-moldawischen,moldawischen,MISC,,,de,1
-prorussische,prorussische,MISC,,,de,1
-Richter,Richter,MISC,,,de,1
-mac…,mac…,MISC,,,de,1
-Das biblische Wort Der Mensch,Das biblische Wort Der Mensch,MISC,,,de,1
-Libanon-Waffenruhe,Libanon-Waffenruhe,MISC,,,de,1
-Die Samsung Galaxy XR,Die Samsung Galaxy XR,MISC,,,de,1
-Der Sohn,Der Sohn,MISC,,,de,1
-Ki…,Ki…,MISC,,,de,1
-tutti“,tutti“,MISC,,,de,1
-U2,U2,MISC,,,de,1
-Ärmelkanal-Migration,Ärmelkanal-Migration,MISC,,,de,1
-Afrikareise,Afrikareise,MISC,,,de,1
-Ägyptische,Ägyptische,MISC,,,de,1
-CZ 8021,CZ 8021,MISC,,,de,1
-CO-…,CO-…,MISC,,,de,1
-Ärmelkanal-Überfahrten,Ärmelkanal-Überfahrten,MISC,,,de,1
-irische,irische,MISC,,,de,1
-Unmöglicher Frieden,Unmöglicher Frieden,MISC,,,de,1
-Zwei Tote,Zwei Tote,MISC,,,de,1
-Tote trotz Waffenruhe“,Tote trotz Waffenruhe“,MISC,,,de,1
-Fragile Waffenruhe,Fragile Waffenruhe,MISC,,,de,1
-Die Chancen für uns,Die Chancen für uns,MISC,,,de,1
-IRANKRIeg,IRANKRIeg,MISC,,,de,1
-Fußball-WM in die USA,Fußball-WM in die USA,MISC,,,de,1
-Regime Interpol,Regime Interpol,MISC,,,de,1
-Russland,Russland,MISC,0.0,0.0,de,1
-Bed…,Bed…,MISC,,,de,1
-NATO-Mitglied,NATO-Mitglied,MISC,,,de,1
-NATO-Partner,NATO-Partner,MISC,,,de,1
-Me…,Me…,MISC,,,de,1
-KI-generiert,KI-generiert,MISC,,,de,1
-Paralympischen Winterspielen Silber,Paralympischen Winterspielen Silber,MISC,,,de,1
-Tag der Paralympics,Tag der Paralympics,MISC,,,de,1
-Orangefarbener Staub“,Orangefarbener Staub“,MISC,,,de,1
-indischer,indischer,MISC,,,de,1
-Fre…,Fre…,MISC,,,de,1
-Taliban-Regimes,Taliban-Regimes,MISC,,,de,1
-Krieg gegen die Taliban,Krieg gegen die Taliban,MISC,,,de,1
-El S…,El S…,MISC,,,de,1
-Winterspiele,Winterspiele,MISC,,,de,1
-Nervenkrieg,Nervenkrieg,MISC,,,de,1
-Die Presse“,Die Presse“,MISC,,,de,1
-Klinikbrand in Indien,Klinikbrand in Indien,MISC,,,de,1
-Gazastreifen“,Gazastreifen“,MISC,,,de,1
-Angriff von USA,Angriff von USA,MISC,,,de,1
-Christliche,Christliche,MISC,,,de,1
-Angelusgebet am Sonntag,Angelusgebet am Sonntag,MISC,,,de,1
-gegenwärtigen Krieg,gegenwärtigen Krieg,MISC,,,de,1
-Digitalkonferenz South by Southwest,Digitalkonferenz South by Southwest,MISC,,,de,1
-Dritten Weltkrieg,Dritten Weltkrieg,MISC,,,de,1
-Der Bodeneinsatz,Der Bodeneinsatz,MISC,,,de,1
-Visible Earth/NASA/d…,Visible Earth/NASA/d…,MISC,,,de,1
-Frieden gef,Frieden gef,MISC,,,de,1
-iran…,iran…,MISC,,,de,1
-Syrien-Experten,Syrien-Experten,MISC,,,de,1
-Spitzentechnologie“,Spitzentechnologie“,MISC,,,de,1
-IranKrieg,IranKrieg,MISC,,,de,1
-serbischen Grenze,serbischen Grenze,MISC,,,de,1
-China-Krediten,China-Krediten,MISC,,,de,1
-Krieg in der Ukraine“,Krieg in der Ukraine“,MISC,,,de,1
-US-Angriffen,US-Angriffen,MISC,,,de,1
-Schwedische,Schwedische,MISC,,,de,1
-Beh…,Beh…,MISC,,,de,1
-dahinterliegt,dahinterliegt,MISC,,,de,1
-Kuds-Einheit,Kuds-Einheit,MISC,,,de,1
-Tankflugzeug-Crash,Tankflugzeug-Crash,MISC,,,de,1
-Log-in-Seiten,Log-in-Seiten,MISC,,,de,1
-Hacker-Gruppe „Handala“,Hacker-Gruppe „Handala“,MISC,,,de,1
-Palantir,Palantir,MISC,-0.5,0.0,de,1
-Tech-Krieg,Tech-Krieg,MISC,,,de,1
-Silbern und riesig der Tank,Silbern und riesig der Tank,MISC,,,de,1
-Abkommen,Abkommen,MISC,,,de,1
-Fo…,Fo…,MISC,,,de,1
-Deutschen Buchpreis,Deutschen Buchpreis,MISC,,,de,1
-Die Hauptstadt von 2017,Die Hauptstadt von 2017,MISC,,,de,1
-Die Lebensentscheidung“,Die Lebensentscheidung“,MISC,,,de,1
-Ir…,Ir…,MISC,,,de,1
-russischen Staatsfonds,russischen Staatsfonds,MISC,,,de,1
-At…,At…,MISC,,,de,1
-"The Shadow Commander
-","The Shadow Commander
+Gesundheit“,Gesundheit“,MISC,,,de,1
+Die Straße von Hormus,Die Straße von Hormus,MISC,,,de,1
+Flucht in die Schweiz,Flucht in die Schweiz,MISC,,,de,1
+Nahost-Konflikt,Nahost-Konflikt,MISC,,,de,1
+Drei“,Drei“,MISC,,,de,1
+Ein Luxus-Flussschiff,Ein Luxus-Flussschiff,MISC,,,de,1
+"One Direction""-Star Malik","One Direction""-Star Malik",MISC,,,de,1
+One Direction“-Star,One Direction“-Star,MISC,,,de,1
+rheinland-pfälzische,rheinland-pfälzische,MISC,,,de,1
+Adis Ahmetović,Adis Ahmetović,MISC,,,de,1
+Look Mum No Computer,Look Mum No Computer,MISC,,,de,1
+US-Delegati…,US-Delegati…,MISC,,,de,1
+Dänischer,Dänischer,MISC,,,de,1
+Eurovisions-Glück,Eurovisions-Glück,MISC,,,de,1
+Israels Unabhängigkeitstag,Israels Unabhängigkeitstag,MISC,,,de,1
+Euro,Euro,MISC,,,de,1
+Sexy Fish,Sexy Fish,MISC,,,de,1
+Ivy-Kette,Ivy-Kette,MISC,,,de,1
+FabrikaSimf,FabrikaSimf,MISC,,,de,1
+Angriff auf Nonne,Angriff auf Nonne,MISC,,,de,1
+Londoner,Londoner,MISC,,,de,1
+argentinische,argentinische,MISC,,,de,1
+US-Zölle“,US-Zölle“,MISC,,,de,1
+Israelisches Militär,Israelisches Militär,MISC,,,de,1
+You‘ll Never Watch Alone“,You‘ll Never Watch Alone“,MISC,,,de,1
+Balikatan«-Manöver“,Balikatan«-Manöver“,MISC,,,de,1
+Youll Never Watch Alone,Youll Never Watch Alone,MISC,,,de,1
+Balikatan«-Manöver,Balikatan«-Manöver,MISC,,,de,1
+österreichischen,österreichischen,MISC,,,de,1
+Angriff auf US‑Schiff,Angriff auf US‑Schiff,MISC,,,de,1
+Team-WW,Team-WW,MISC,,,de,1
+Britischer,Britischer,MISC,,,de,1
+Kurs…,Kurs…,MISC,,,de,1
+Gesellschaftss…,Gesellschaftss…,MISC,,,de,1
+Nazi-Deutschland,Nazi-Deutschland,MISC,,,de,1
+geschichtsvergessen“,geschichtsvergessen“,MISC,,,de,1
+Poor,Poor,MISC,,,de,1
+Nato“,Nato“,MISC,,,de,1
+Waf…,Waf…,MISC,,,de,1
+Un Poeta“,Un Poeta“,MISC,,,de,1
+Zoll-Rückerstattungen“,Zoll-Rückerstattungen“,MISC,,,de,1
+EU-Außenminister disktuieren,EU-Außenminister disktuieren,MISC,,,de,1
+Kapitulationstisch,Kapitulationstisch,MISC,,,de,1
+EU-Außenminister,EU-Außenminister,MISC,0.0,0.0,de,1
+kolumbianische,kolumbianische,MISC,,,de,1
+Wirtschaft und Sicherheit,Wirtschaft und Sicherheit,MISC,,,de,1
+jedes Jahr,jedes Jahr,MISC,,,de,1
+Wir sind…,Wir sind…,MISC,,,de,1
+"Alsayed/dpa
+","Alsayed/dpa
 ",MISC,,,de,1
-militä…,militä…,MISC,,,de,1
-Wii,Wii,MISC,,,de,1
-Wir schätzen weite…,Wir schätzen weite…,MISC,,,de,1
-Kriegs in Iran,Kriegs in Iran,MISC,,,de,1
-sowjetisches,sowjetisches,MISC,,,de,1
-Eastern Sentry,Eastern Sentry,MISC,,,de,1
-NATO-Mission,NATO-Mission,MISC,,,de,1
-deutschsprachigen,deutschsprachigen,MISC,,,de,1
-Nintendos Wii Sports,Nintendos Wii Sports,MISC,,,de,1
-Se…,Se…,MISC,,,de,1
-WII Sports,WII Sports,MISC,,,de,1
-Video auf X,Video auf X,MISC,,,de,1
-israelisch-amerikanischen Angriffe,israelisch-amerikanischen Angriffe,MISC,,,de,1
-G…,G…,MISC,,,de,1
-CNN-Reporter,CNN-Reporter,MISC,,,de,1
-serbischen,serbischen,MISC,,,de,1
-Deutschla…,Deutschla…,MISC,,,de,1
-Tag vo…,Tag vo…,MISC,,,de,1
-US-Botschaf…,US-Botschaf…,MISC,,,de,1
-H200,H200,MISC,,,de,1
-Essay,Essay,MISC,,,de,1
-Israelischer Angriff in,Israelischer Angriff in,MISC,,,de,1
-Demo,Demo,MISC,,,de,1
-englische,englische,MISC,,,de,1
-malaiischen,malaiischen,MISC,,,de,1
-Freiheit für Iran“-Demonstration,Freiheit für Iran“-Demonstration,MISC,,,de,1
-EVP-Kontakte,EVP-Kontakte,MISC,,,de,1
-Amerikanischer,Amerikanischer,MISC,,,de,1
-MAGA-Rechte,MAGA-Rechte,MISC,,,de,1
-Angriff auf Kabul,Angriff auf Kabul,MISC,,,de,1
-Angriff gegen China,Angriff gegen China,MISC,,,de,1
-MAGA-Bewegung,MAGA-Bewegung,MISC,,,de,1
-ESC-Debakel,ESC-Debakel,MISC,,,de,1
-WBC,WBC,MISC,,,de,1
-World Baseball Classic,World Baseball Classic,MISC,,,de,1
-EU-Gesundheitskommissar Olivér Várhelyi,EU-Gesundheitskommissar Olivér Várhelyi,MISC,,,de,1
-Groq-LPUs,Groq-LPUs,MISC,,,de,1
-"Südlibanon
-","Südlibanon
-",MISC,,,de,1
-Unser interaktives Tool,Unser interaktives Tool,MISC,,,de,1
-Nicht-nordisch,Nicht-nordisch,MISC,,,de,1
-South Pars,South Pars,MISC,-0.05000000000000001,0.0,de,1
-seh…,seh…,MISC,,,de,1
-Appelle ins Land,Appelle ins Land,MISC,,,de,1
-W…,W…,MISC,,,de,1
-Kriegs im Iran,Kriegs im Iran,MISC,,,de,1
-Hindernisse,Hindernisse,MISC,,,de,1
-Verkäufer,Verkäufer,MISC,,,de,1
-Ukraine-Invasion,Ukraine-Invasion,MISC,,,de,1
-Tag der Demokratiegeschichte,Tag der Demokratiegeschichte,MISC,,,de,1
-Europäischen Rat,Europäischen Rat,MISC,,,de,1
-Der schwarze Turban,Der schwarze Turban,MISC,,,de,1
-Regime Change“,Regime Change“,MISC,,,de,1
-Do…,Do…,MISC,,,de,1
-DFB-Team,DFB-Team,MISC,,,de,1
-israelisch-amerikanischen,israelisch-amerikanischen,MISC,,,de,1
-Verkaufsgeb…,Verkaufsgeb…,MISC,,,de,1
-Natürlich bin ich verärgert,Natürlich bin ich verärgert,MISC,,,de,1
-Nicht-Nominierung“,Nicht-Nominierung“,MISC,,,de,1
-Luftraum geschlossen</li><li,Luftraum geschlossen</li><li,MISC,,,de,1
-Krieg in Iran,Krieg in Iran,MISC,,,de,1
-Extrem-Manöver Cold Response,Extrem-Manöver Cold Response,MISC,,,de,1
-Nato-Übung,Nato-Übung,MISC,,,de,1
-Jahr 101,Jahr 101,MISC,,,de,1
-Griechisch,Griechisch,MISC,,,de,1
-Türsteher,Türsteher,MISC,,,de,1
-Furcht vor Gewaltspirale,Furcht vor Gewaltspirale,MISC,,,de,1
-obersten iranischen Führers,obersten iranischen Führers,MISC,,,de,1
-Nad…,Nad…,MISC,,,de,1
-Reak…,Reak…,MISC,,,de,1
-Luftangriffe,Luftangriffe,MISC,,,de,1
-Zukun…,Zukun…,MISC,,,de,1
-NATO-Verbündeten,NATO-Verbündeten,MISC,,,de,1
-Ar…,Ar…,MISC,,,de,1
-Tag für Tag,Tag für Tag,MISC,,,de,1
-"Iran-Schlag
-","Iran-Schlag
-",MISC,,,de,1
-Nicht unser Krieg,Nicht unser Krieg,MISC,,,de,1
-Angriff in Teheran,Angriff in Teheran,MISC,,,de,1
-Rakete auf Entzugsklinik,Rakete auf Entzugsklinik,MISC,,,de,1
-Kommandeur de…,Kommandeur de…,MISC,,,de,1
-Vier Tote nach russischen Angriffen,Vier Tote nach russischen Angriffen,MISC,,,de,1
-Luftangriff,Luftangriff,MISC,0.0,0.0,de,1
-Ober-Mullah,Ober-Mullah,MISC,,,de,1
-Teheran ereig…,Teheran ereig…,MISC,,,de,1
-Formel-1-Tests,Formel-1-Tests,MISC,,,de,1
-Der entschlossene Einsatz der USA,Der entschlossene Einsatz der USA,MISC,,,de,1
-Formel-1-Reifentest,Formel-1-Reifentest,MISC,,,de,1
-Nachbarl…,Nachbarl…,MISC,,,de,1
-AFP,AFP,MISC,,,de,1
-Web…,Web…,MISC,,,de,1
-Angriffe von USA,Angriffe von USA,MISC,,,de,1
-Bra…,Bra…,MISC,,,de,1
-US-Kriegsminister,US-Kriegsminister,MISC,,,de,1
-Der Krieg in Nahost,Der Krieg in Nahost,MISC,,,de,1
-Angriff auf Gasfeld,Angriff auf Gasfeld,MISC,,,de,1
-neuen Jahr,neuen Jahr,MISC,,,de,1
-kroatische,kroatische,MISC,,,de,1
-Fünf Jahre bis zum russischen Atomreaktor auf dem Mond,Fünf Jahre bis zum russischen Atomreaktor auf dem Mond,MISC,,,de,1
-Hamas-Anschlagsplänen,Hamas-Anschlagsplänen,MISC,,,de,1
-Hamas-Terroristen,Hamas-Terroristen,MISC,,,de,1
-Vergnügungspa…,Vergnügungspa…,MISC,,,de,1
-Britische Kampfflugzeuge,Britische Kampfflugzeuge,MISC,,,de,1
-Al-Kuds-Brigaden,Al-Kuds-Brigaden,MISC,,,de,1
-Ankara/Brüssel,Ankara/Brüssel,MISC,,,de,1
-CDU-geführte Landesregierung,CDU-geführte Landesregierung,MISC,,,de,1
-Austr…,Austr…,MISC,,,de,1
-Arche Nova,Arche Nova,MISC,0.0,0.0,de,1
-Asien Cup“,Asien Cup“,MISC,,,de,1
-"EU-Land
-Solidarität","EU-Land
-Solidarität",MISC,,,de,1
-CHP-Politiker,CHP-Politiker,MISC,,,de,1
-G7-Staaten,G7-Staaten,MISC,,,de,1
-Ausfuhr auf Rekordkurs,Ausfuhr auf Rekordkurs,MISC,,,de,1
-Ausfuhren,Ausfuhren,MISC,,,de,1
+Tages,Tages,MISC,,,de,1
+Treff…,Treff…,MISC,,,de,1
+Deutschland kö…,Deutschland kö…,MISC,,,de,1
+Dienstag me…,Dienstag me…,MISC,,,de,1
+Asyl,Asyl,MISC,,,de,1
+nic…,nic…,MISC,0.0,0.0,de,1
+Angriff auf Mädchenschule,Angriff auf Mädchenschule,MISC,,,de,1
+WM-Verzicht,WM-Verzicht,MISC,0.0,0.0,de,1
+Angriff auf Teheran …,Angriff auf Teheran …,MISC,,,de,1
+Angriff auf Teheran,Angriff auf Teheran,MISC,,,de,1
 Weltmeisterschaft in den USA,Weltmeisterschaft in den USA,MISC,,,de,1
-Elektro-Flaggschiffs,Elektro-Flaggschiffs,MISC,,,de,1
+Frauen-Teams,Frauen-Teams,MISC,,,de,1
 J…,J…,MISC,,,de,1
 Jüdisches Leben in Europa“,Jüdisches Leben in Europa“,MISC,,,de,1
 Wall Street Journal ,Wall Street Journal ,MISC,,,de,1
 Iran-Experten,Iran-Experten,MISC,,,de,1
 Tag elf im Krieg,Tag elf im Krieg,MISC,,,de,1
-Huthi-Miliz,Huthi-Miliz,MISC,,,de,1
 Der Iran-Krieg,Der Iran-Krieg,MISC,,,de,1
 selbstb…,selbstb…,MISC,,,de,1
-Mar-a-Lago,Mar-a-Lago,MISC,,,de,1
-Tag von Angriffen“,Tag von Angriffen“,MISC,,,de,1
-Gefährliche Eskalation“,Gefährliche Eskalation“,MISC,,,de,1
-Die Gewalt radikaler Siedl…,Die Gewalt radikaler Siedl…,MISC,,,de,1
-Orang-Utans,Orang-Utans,MISC,,,de,1
-Boxring,Boxring,MISC,,,de,1
-Angst um die Familie - HSV-Star Sahiti,Angst um die Familie - HSV-Star Sahiti,MISC,,,de,1
-Doppelter Mond,Doppelter Mond,MISC,,,de,1
-Angelusgebet,Angelusgebet,MISC,,,de,1
-Amerikas Krieg,Amerikas Krieg,MISC,,,de,1
-Neuer Sipri-Bericht“,Neuer Sipri-Bericht“,MISC,,,de,1
-EUV,EUV,MISC,,,de,1
-Schöner trinken,Schöner trinken,MISC,,,de,1
-vatikanischen,vatikanischen,MISC,,,de,1
-Kosovaren,Kosovaren,MISC,,,de,1
-"Staatsfernsehens
-","Staatsfernsehens
-",MISC,,,de,1
-Österreichischer,Österreichischer,MISC,,,de,1
-Ein junger Mann,Ein junger Mann,MISC,,,de,1
-ZEIT Geschichte Nr. 01/2026.Ausgabe,ZEIT Geschichte Nr. 01/2026.Ausgabe,MISC,,,de,1
-Teheran …,Teheran …,MISC,,,de,1
-Zusamme…,Zusamme…,MISC,,,de,1
-Portugiesischer,Portugiesischer,MISC,,,de,1
-Waldschäden,Waldschäden,MISC,,,de,1
-z…,z…,MISC,,,de,1
-UKForcesTracker,UKForcesTracker,MISC,,,de,1
-dänischer,dänischer,MISC,,,de,1
-05.03.2026,05.03.2026,MISC,,,de,1
-Kriegs vor der Haustür,Kriegs vor der Haustür,MISC,,,de,1
-Matthiae-Mahl“,Matthiae-Mahl“,MISC,,,de,1
-Senat in Brasilia,Senat in Brasilia,MISC,,,de,1
-jüngsten Irankriegs,jüngsten Irankriegs,MISC,,,de,1
-Russland Iran,Russland Iran,MISC,,,de,1
-Krieges feuert Iran,Krieges feuert Iran,MISC,,,de,1
-US-Zölle,US-Zölle,MISC,,,de,1
-China-Schock,China-Schock,MISC,,,de,1
-US-Angriff ge…,US-Angriff ge…,MISC,,,de,1
-Franken Rundfunkbeitrag,Franken Rundfunkbeitrag,MISC,,,de,1
-Militärbudget“,Militärbudget“,MISC,,,de,1
-HMS Prince of Wales,HMS Prince of Wales,MISC,,,de,1
-Abkommen gestern,Abkommen gestern,MISC,,,de,1
-Iran dara…,Iran dara…,MISC,,,de,1
-Um di…,Um di…,MISC,,,de,1
-Nahost-Überblick,Nahost-Überblick,MISC,,,de,1
-h…,h…,MISC,,,de,1
-Frauen-Teams,Frauen-Teams,MISC,,,de,1
-Angriff auf Teheran,Angriff auf Teheran,MISC,,,de,1
-Krieg von 1967,Krieg von 1967,MISC,,,de,1
-Termine,Termine,MISC,,,de,1
-China Eastern,China Eastern,MISC,,,de,1
-Ahoi Piraten,Ahoi Piraten,MISC,0.7,0.0,de,1
-Im Jahr 2025,Im Jahr 2025,MISC,,,de,1
-Dubai,Dubai,MISC,-0.02413793103448276,0.0,de,1
-Crans-Montana,Crans-Montana,MISC,0.2333333333333333,0.0,de,1
-Stärkeren,Stärkeren,MISC,,,de,1
-Islamabad sucht die Entscheidung,Islamabad sucht die Entscheidung,MISC,,,de,1
-DDR u,DDR u,MISC,,,de,1
-Du kannst im Grunde spielen,Du kannst im Grunde spielen,MISC,,,de,1
-Champions League“,Champions League“,MISC,,,de,1
-neue Krieg,neue Krieg,MISC,,,de,1
-LNG-Tankers,LNG-Tankers,MISC,,,de,1
-"Ukraine-Krieg
-","Ukraine-Krieg
-",MISC,,,de,1
+Krieges der USA,Krieges der USA,MISC,,,de,1
+Nahost-Krieg,Nahost-Krieg,MISC,,,de,1
+Klinikbrand in Indien,Klinikbrand in Indien,MISC,,,de,1
+Geschosse t,Geschosse t,MISC,,,de,1
 Viereinhalb Jahre Haft für früheren IS-Terroristen,Viereinhalb Jahre Haft für früheren IS-Terroristen,MISC,,,de,1
-Persischen Golfs,Persischen Golfs,MISC,,,de,1
-Super Preis,Super Preis,MISC,,,de,1
-Nato-Abwehrsystem,Nato-Abwehrsystem,MISC,,,de,1
-Angriff auf Teheran …,Angriff auf Teheran …,MISC,,,de,1
-Negativ-Trend,Negativ-Trend,MISC,,,de,1
-Sechs Tage,Sechs Tage,MISC,,,de,1
-Sechstagekrieg,Sechstagekrieg,MISC,,,de,1
-Kriegs in der Ukraine,Kriegs in der Ukraine,MISC,,,de,1
-The Notwist,The Notwist,MISC,,,de,1
-demokratischen,demokratischen,MISC,,,de,1
-Die Golfstaaten,Die Golfstaaten,MISC,,,de,1
-Kreuzfahrer,Kreuzfahrer,MISC,,,de,1
-Sicherheitsapparates,Sicherheitsapparates,MISC,,,de,1
-EU-Bürger in Deutschland“,EU-Bürger in Deutschland“,MISC,,,de,1
-Französischer,Französischer,MISC,,,de,1
-Insider glauben jetzt,Insider glauben jetzt,MISC,,,de,1
-IMAGO/VCG,IMAGO/VCG,MISC,,,de,1
-Elektroauto SU7,Elektroauto SU7,MISC,,,de,1
-ESC-Teilnehmer,ESC-Teilnehmer,MISC,,,de,1
-M…,M…,MISC,,,de,1
 Neues Gesetz in,Neues Gesetz in,MISC,,,de,1
 Untersuchun…,Untersuchun…,MISC,,,de,1
-Das Tor zur Hölle,Das Tor zur Hölle,MISC,,,de,1
-Pha…,Pha…,MISC,,,de,1
-Athletenparade“,Athletenparade“,MISC,,,de,1
-Nahost-Krieg,Nahost-Krieg,MISC,,,de,1
-Treff…,Treff…,MISC,,,de,1
-Krieges der USA,Krieges der USA,MISC,,,de,1
-Deutschland kö…,Deutschland kö…,MISC,,,de,1
-Bl…,Bl…,MISC,,,de,1
-Digitale Souveränität“,Digitale Souveränität“,MISC,,,de,1
-Dienstag me…,Dienstag me…,MISC,,,de,1
-Alte…,Alte…,MISC,,,de,1
-Asyl,Asyl,MISC,,,de,1
-nic…,nic…,MISC,0.0,0.0,de,1
-Angriff auf Mädchenschule,Angriff auf Mädchenschule,MISC,,,de,1
-04.03.2026,04.03.2026,MISC,,,de,1
-WM-Verzicht,WM-Verzicht,MISC,0.0,0.0,de,1
-Autovermieter“,Autovermieter“,MISC,,,de,1
-Geschosse t,Geschosse t,MISC,,,de,1
-Winter-Paralympics 2026,Winter-Paralympics 2026,MISC,,,de,1
-NCAA Division I Men’s,NCAA Division I Men’s,MISC,,,de,1
-Koreanisch,Koreanisch,MISC,,,de,1
 Basidsch-Miliz,Basidsch-Miliz,MISC,,,de,1
 Sicherheitsrat der Vereinten Nationen,Sicherheitsrat der Vereinten Nationen,MISC,,,de,1
 Busbrand“,Busbrand“,MISC,,,de,1
 Energy Bern,Energy Bern,MISC,,,de,1
 Volksr…,Volksr…,MISC,,,de,1
 Koreaner,Koreaner,MISC,,,de,1
+Koreanisch,Koreanisch,MISC,,,de,1
 Person b,Person b,MISC,,,de,1
-Women’s Basketball Tournaments,Women’s Basketball Tournaments,MISC,,,de,1
 Busbrand,Busbrand,MISC,0.0,0.0,de,1
 F…,F…,MISC,0.0,0.0,de,1
-Winter-Paralympics,Winter-Paralympics,MISC,,,de,1
 Elektroauto,Elektroauto,MISC,0.11666666666666665,0.0,de,1
-Athletenparade,Athletenparade,MISC,,,de,1
 NCAA Division I Mens,NCAA Division I Mens,MISC,,,de,1
-Weltglücksbericht landen die Nordeuropäer,Weltglücksbericht landen die Nordeuropäer,MISC,,,de,1
-teurer</li><li,teurer</li><li,MISC,,,de,1
-Marine Tra…,Marine Tra…,MISC,,,de,1
-Die Debatte über „europäische Souveränität,Die Debatte über „europäische Souveränität,MISC,,,de,1
-Wende,Wende,MISC,,,de,1
-Missi…,Missi…,MISC,,,de,1
-ge…,ge…,MISC,,,de,1
-Kabinett,Kabinett,MISC,,,de,1
-Münchner Sicherheitskonferenz,Münchner Sicherheitskonferenz,MISC,-0.35,0.5,de,1
-Ja…,Ja…,MISC,,,de,1
-Battlefield 3,Battlefield 3,MISC,,,de,1
-Schlacht um die Insel,Schlacht um die Insel,MISC,,,de,1
-Teekannen“,Teekannen“,MISC,,,de,1
-Co nach Europa,Co nach Europa,MISC,,,de,1
-Persona non grata,Persona non grata,MISC,,,de,1
+Women’s Basketball Tournaments,Women’s Basketball Tournaments,MISC,,,de,1
+NCAA Division I Men’s,NCAA Division I Men’s,MISC,,,de,1
+Mar-a-Lago,Mar-a-Lago,MISC,,,de,1
+Tag von Angriffen“,Tag von Angriffen“,MISC,,,de,1
+Gefährliche Eskalation“,Gefährliche Eskalation“,MISC,,,de,1
+Die Gewalt radikaler Siedl…,Die Gewalt radikaler Siedl…,MISC,,,de,1
+jüngsten Irankriegs,jüngsten Irankriegs,MISC,,,de,1
+Russland Iran,Russland Iran,MISC,,,de,1
+US-Zölle,US-Zölle,MISC,,,de,1
+China-Schock,China-Schock,MISC,,,de,1
+US-Angriff ge…,US-Angriff ge…,MISC,,,de,1
+Franken Rundfunkbeitrag,Franken Rundfunkbeitrag,MISC,,,de,1
+HMS Prince of Wales,HMS Prince of Wales,MISC,,,de,1
+Iran dara…,Iran dara…,MISC,,,de,1
+Um di…,Um di…,MISC,,,de,1
+Nahost-Überblick,Nahost-Überblick,MISC,,,de,1
+h…,h…,MISC,,,de,1
+Matthiae-Mahl“,Matthiae-Mahl“,MISC,,,de,1
+EUV,EUV,MISC,,,de,1
+Schöner trinken,Schöner trinken,MISC,,,de,1
+vatikanischen,vatikanischen,MISC,,,de,1
+Kosovaren,Kosovaren,MISC,,,de,1
+Österreichischer,Österreichischer,MISC,,,de,1
+Neuer Sipri-Bericht“,Neuer Sipri-Bericht“,MISC,,,de,1
+Angelusgebet,Angelusgebet,MISC,,,de,1
+G7-Staaten,G7-Staaten,MISC,,,de,1
+Hamas-Anschlagsplänen,Hamas-Anschlagsplänen,MISC,,,de,1
+Angst um die Familie - HSV-Star Sahiti,Angst um die Familie - HSV-Star Sahiti,MISC,,,de,1
+Elektro-Flaggschiffs,Elektro-Flaggschiffs,MISC,,,de,1
+Ausfuhren,Ausfuhren,MISC,,,de,1
+neuen Jahr,neuen Jahr,MISC,,,de,1
+Ausfuhr auf Rekordkurs,Ausfuhr auf Rekordkurs,MISC,,,de,1
+kroatische,kroatische,MISC,,,de,1
+Fünf Jahre bis zum russischen Atomreaktor auf dem Mond,Fünf Jahre bis zum russischen Atomreaktor auf dem Mond,MISC,,,de,1
+Hamas-Terroristen,Hamas-Terroristen,MISC,,,de,1
+CHP-Politiker,CHP-Politiker,MISC,,,de,1
+Britische Kampfflugzeuge,Britische Kampfflugzeuge,MISC,,,de,1
+Al-Kuds-Brigaden,Al-Kuds-Brigaden,MISC,,,de,1
+Ankara/Brüssel,Ankara/Brüssel,MISC,,,de,1
+CDU-geführte Landesregierung,CDU-geführte Landesregierung,MISC,,,de,1
+Austr…,Austr…,MISC,,,de,1
+Asien Cup“,Asien Cup“,MISC,,,de,1
+"EU-Land
+Solidarität","EU-Land
+Solidarität",MISC,,,de,1
+LNG-Tankers,LNG-Tankers,MISC,,,de,1
+neue Krieg,neue Krieg,MISC,,,de,1
+Champions League“,Champions League“,MISC,,,de,1
+WII Sports,WII Sports,MISC,,,de,1
+KI-generiert,KI-generiert,MISC,,,de,1
+Paralympischen Winterspielen Silber,Paralympischen Winterspielen Silber,MISC,,,de,1
+Tag der Paralympics,Tag der Paralympics,MISC,,,de,1
+Orangefarbener Staub“,Orangefarbener Staub“,MISC,,,de,1
+Fre…,Fre…,MISC,,,de,1
+indischer,indischer,MISC,,,de,1
+Taliban-Regimes,Taliban-Regimes,MISC,,,de,1
+Krieg gegen die Taliban,Krieg gegen die Taliban,MISC,,,de,1
+El S…,El S…,MISC,,,de,1
+Winterspiele,Winterspiele,MISC,,,de,1
+Schwedische,Schwedische,MISC,,,de,1
+Beh…,Beh…,MISC,,,de,1
+Kriegs in Iran,Kriegs in Iran,MISC,,,de,1
+sowjetisches,sowjetisches,MISC,,,de,1
+Eastern Sentry,Eastern Sentry,MISC,,,de,1
+NATO-Mission,NATO-Mission,MISC,,,de,1
+Wii,Wii,MISC,,,de,1
+Me…,Me…,MISC,,,de,1
+NATO-Partner,NATO-Partner,MISC,,,de,1
+NATO-Mitglied,NATO-Mitglied,MISC,,,de,1
+Syrien-Experten,Syrien-Experten,MISC,,,de,1
+Christliche,Christliche,MISC,,,de,1
+gegenwärtigen Krieg,gegenwärtigen Krieg,MISC,,,de,1
+Digitalkonferenz South by Southwest,Digitalkonferenz South by Southwest,MISC,,,de,1
+Dritten Weltkrieg,Dritten Weltkrieg,MISC,,,de,1
+Der Bodeneinsatz,Der Bodeneinsatz,MISC,,,de,1
+Visible Earth/NASA/d…,Visible Earth/NASA/d…,MISC,,,de,1
+iran…,iran…,MISC,,,de,1
+Spitzentechnologie“,Spitzentechnologie“,MISC,,,de,1
+Bed…,Bed…,MISC,,,de,1
+serbischen Grenze,serbischen Grenze,MISC,,,de,1
+China-Krediten,China-Krediten,MISC,,,de,1
+Gazastreifen“,Gazastreifen“,MISC,,,de,1
+Die Presse“,Die Presse“,MISC,,,de,1
+Regime Interpol,Regime Interpol,MISC,,,de,1
+Nervenkrieg,Nervenkrieg,MISC,,,de,1
+Russland,Russland,MISC,0.0,0.0,de,1
+Nintendos Wii Sports,Nintendos Wii Sports,MISC,,,de,1
+Video auf X,Video auf X,MISC,,,de,1
+Du kannst im Grunde spielen,Du kannst im Grunde spielen,MISC,,,de,1
+israelisch-amerikanischen Angriffe,israelisch-amerikanischen Angriffe,MISC,,,de,1
+Kriegs in der Ukraine,Kriegs in der Ukraine,MISC,,,de,1
+The Notwist,The Notwist,MISC,,,de,1
+demokratischen,demokratischen,MISC,,,de,1
+Die Golfstaaten,Die Golfstaaten,MISC,,,de,1
+Französischer,Französischer,MISC,,,de,1
+Insider glauben jetzt,Insider glauben jetzt,MISC,,,de,1
+IMAGO/VCG,IMAGO/VCG,MISC,,,de,1
+ESC-Teilnehmer,ESC-Teilnehmer,MISC,,,de,1
+M…,M…,MISC,,,de,1
+Nato-Abwehrsystem,Nato-Abwehrsystem,MISC,,,de,1
+Termine,Termine,MISC,,,de,1
+Super Preis,Super Preis,MISC,,,de,1
+China Eastern,China Eastern,MISC,,,de,1
+Ahoi Piraten,Ahoi Piraten,MISC,,,de,1
+Crans-Montana,Crans-Montana,MISC,0.2333333333333333,0.0,de,1
+Islamabad sucht die Entscheidung,Islamabad sucht die Entscheidung,MISC,,,de,1
+DDR u,DDR u,MISC,,,de,1
+Sechstagekrieg,Sechstagekrieg,MISC,,,de,1
+Sechs Tage,Sechs Tage,MISC,,,de,1
+Krieg von 1967,Krieg von 1967,MISC,,,de,1
+Hacker-Gruppe „Handala“,Hacker-Gruppe „Handala“,MISC,,,de,1
+G…,G…,MISC,,,de,1
+militä…,militä…,MISC,,,de,1
+Se…,Se…,MISC,,,de,1
+At…,At…,MISC,,,de,1
+dahinterliegt,dahinterliegt,MISC,,,de,1
+Tankflugzeug-Crash,Tankflugzeug-Crash,MISC,,,de,1
+Log-in-Seiten,Log-in-Seiten,MISC,,,de,1
+Palantir,Palantir,MISC,-0.5,0.0,de,1
+Der Krieg in Nahost,Der Krieg in Nahost,MISC,,,de,1
+Tech-Krieg,Tech-Krieg,MISC,,,de,1
+Silbern und riesig der Tank,Silbern und riesig der Tank,MISC,,,de,1
+Deutschen Buchpreis,Deutschen Buchpreis,MISC,,,de,1
+Die Hauptstadt von 2017,Die Hauptstadt von 2017,MISC,,,de,1
+Die Lebensentscheidung“,Die Lebensentscheidung“,MISC,,,de,1
+russischen Staatsfonds,russischen Staatsfonds,MISC,,,de,1
+US-Kriegsminister,US-Kriegsminister,MISC,,,de,1
+Ein junger Mann,Ein junger Mann,MISC,,,de,1
+ZEIT Geschichte Nr. 01/2026.Ausgabe,ZEIT Geschichte Nr. 01/2026.Ausgabe,MISC,,,de,1
+Teheran …,Teheran …,MISC,,,de,1
+World Weather Attribution,World Weather Attribution,MISC,,,de,1
+Hamas-Massaker,Hamas-Massaker,MISC,,,de,1
+Offener Krieg,Offener Krieg,MISC,,,de,1
+russischen Angriffskriegs,russischen Angriffskriegs,MISC,,,de,1
+KabulPakistan,KabulPakistan,MISC,,,de,1
+offenen Krieg,offenen Krieg,MISC,,,de,1
+Afghanische,Afghanische,MISC,,,de,1
+Pakistan,Pakistan,MISC,0.0,0.0,de,1
+Mercosur-Handelsabkommen,Mercosur-Handelsabkommen,MISC,,,de,1
+Wah…,Wah…,MISC,,,de,1
+Zwölf-Tage-Kriegs,Zwölf-Tage-Kriegs,MISC,,,de,1
+Junge Erwachsene,Junge Erwachsene,MISC,,,de,1
+Hilfsgüter kommen k,Hilfsgüter kommen k,MISC,,,de,1
+schlimmste Krieg,schlimmste Krieg,MISC,,,de,1
+Krieg im Sudan,Krieg im Sudan,MISC,,,de,1
+Rohstoff-Lagerstätten,Rohstoff-Lagerstätten,MISC,,,de,1
+Invasion in den Irak 2003,Invasion in den Irak 2003,MISC,,,de,1
+sozialdemokratische,sozialdemokratische,MISC,,,de,1
+DOK-FILM,DOK-FILM,MISC,,,de,1
+NZZ FORMAT,NZZ FORMAT,MISC,,,de,1
+Ein Zeichen des Wandels,Ein Zeichen des Wandels,MISC,,,de,1
+Nuklear-Frage,Nuklear-Frage,MISC,,,de,1
+Schlacht zum Vertrag,Schlacht zum Vertrag,MISC,,,de,1
+AfD-Gutachten,AfD-Gutachten,MISC,,,de,1
+"Getty Images
+","Getty Images
+",MISC,,,de,1
+Die deutschen Basketballer,Die deutschen Basketballer,MISC,,,de,1
+Europameister,Europameister,MISC,,,de,1
+ein Jahr Gefängnis,ein Jahr Gefängnis,MISC,,,de,1
+Berlin,Berlin,MISC,0.006493506493506494,0.0,de,1
+Null“ atombombenfähiges Nuklearmaterial,Null“ atombombenfähiges Nuklearmaterial,MISC,,,de,1
+Demokrat d…,Demokrat d…,MISC,,,de,1
+Südfront,Südfront,MISC,,,de,1
+Flamingos,Flamingos,MISC,,,de,1
+Gegenangriff im Nebel,Gegenangriff im Nebel,MISC,,,de,1
+pharaonischen,pharaonischen,MISC,,,de,1
+Ägypten,Ägypten,MISC,0.0,0.0,de,1
+Das ist ja gespenstisch,Das ist ja gespenstisch,MISC,,,de,1
+Churchill-Statue,Churchill-Statue,MISC,-0.35,0.0,de,1
+Donne… Kopiere,Donne… Kopiere,MISC,,,de,1
 Freundliche Appelle,Freundliche Appelle,MISC,,,de,1
-Europa-Markt,Europa-Markt,MISC,,,de,1
-Roter Teppich,Roter Teppich,MISC,,,de,1
-Angriffskrieg gegen den Iran,Angriffskrieg gegen den Iran,MISC,,,de,1
-UNIFIL-Soldaten,UNIFIL-Soldaten,MISC,,,de,1
-indonesischer,indonesischer,MISC,,,de,1
-Bericht Krieg,Bericht Krieg,MISC,,,de,1
-indonesisch…,indonesisch…,MISC,,,de,1
-Iranüberblick am Morgen,Iranüberblick am Morgen,MISC,,,de,1
-China-Experte,China-Experte,MISC,,,de,1
-Mon…,Mon…,MISC,,,de,1
-Sieben Stunden Zeitverschiebung,Sieben Stunden Zeitverschiebung,MISC,,,de,1
-Bundesk…,Bundesk…,MISC,,,de,1
+Nachrichtensender Al-Arabiya,Nachrichtensender Al-Arabiya,MISC,,,de,1
+Münchner Sicherheitskonferenz,Münchner Sicherheitskonferenz,MISC,-0.35,0.5,de,1
+Stadt der Liebe,Stadt der Liebe,MISC,,,de,1
+Time Out“,Time Out“,MISC,,,de,1
+Ansp…,Ansp…,MISC,,,de,1
+ETA,ETA,MISC,,,de,1
+en passant,en passant,MISC,,,de,1
+Italienische,Italienische,MISC,,,de,1
+Andrew-Dokumenten,Andrew-Dokumenten,MISC,,,de,1
+Vertrag mit der Schweiz,Vertrag mit der Schweiz,MISC,,,de,1
+abs…,abs…,MISC,,,de,1
+russischen Invasion der Ukraine,russischen Invasion der Ukraine,MISC,,,de,1
+Der Sieg,Der Sieg,MISC,,,de,1
+Was vier Jahre Ukrainekrieg,Was vier Jahre Ukrainekrieg,MISC,,,de,1
+unser Schicksal“ +++ Russische Öllieferungen,unser Schicksal“ +++ Russische Öllieferungen,MISC,,,de,1
+Ihr Schicksal,Ihr Schicksal,MISC,,,de,1
+Küchentisch,Küchentisch,MISC,,,de,1
+Vier Jahre UkraineKrieg,Vier Jahre UkraineKrieg,MISC,,,de,1
+südkoreanis…,südkoreanis…,MISC,,,de,1
+BOSE,BOSE,MISC,,,de,1
+goldenen Zeitalter,goldenen Zeitalter,MISC,,,de,1
+Marine Tra…,Marine Tra…,MISC,,,de,1
+Verbraucherschutz“,Verbraucherschutz“,MISC,,,de,1
+Die Debatte über „europäische Souveränität,Die Debatte über „europäische Souveränität,MISC,,,de,1
+euro…,euro…,MISC,,,de,1
 Be…,Be…,MISC,,,de,1
+Sieben Stunden Zeitverschiebung,Sieben Stunden Zeitverschiebung,MISC,,,de,1
+China-Experte,China-Experte,MISC,,,de,1
+Putins Krieg,Putins Krieg,MISC,,,de,1
+Gi…,Gi…,MISC,,,de,1
+Tag s,Tag s,MISC,,,de,1
+Mit göttlicher Figur,Mit göttlicher Figur,MISC,,,de,1
+China-Politik,China-Politik,MISC,,,de,1
+weiterlesenBlitz-Aufstieg,weiterlesenBlitz-Aufstieg,MISC,,,de,1
+JetsMerz,JetsMerz,MISC,,,de,1
+"Jüdischen
+Allgemeinen","Jüdischen
+Allgemeinen",MISC,,,de,1
+China-Besuches,China-Besuches,MISC,,,de,1
+Merz und Xi,Merz und Xi,MISC,,,de,1
+Instagram,Instagram,MISC,0.175,0.0,de,1
+"Angriff auf den Iran
+","Angriff auf den Iran
+",MISC,,,de,1
+Angriff gegen Iran,Angriff gegen Iran,MISC,,,de,1
+Zusamme…,Zusamme…,MISC,,,de,1
+Sicherheitsapparates,Sicherheitsapparates,MISC,,,de,1
+Autovermieter“,Autovermieter“,MISC,,,de,1
+04.03.2026,04.03.2026,MISC,,,de,1
+Alte…,Alte…,MISC,,,de,1
+Digitale Souveränität“,Digitale Souveränität“,MISC,,,de,1
+Bl…,Bl…,MISC,,,de,1
+Athletenparade“,Athletenparade“,MISC,,,de,1
+Winter-Paralympics 2026,Winter-Paralympics 2026,MISC,,,de,1
+Athletenparade,Athletenparade,MISC,,,de,1
+Winter-Paralympics,Winter-Paralympics,MISC,,,de,1
+Pha…,Pha…,MISC,,,de,1
+Das Tor zur Hölle,Das Tor zur Hölle,MISC,,,de,1
+"Ukraine-Krieg
+","Ukraine-Krieg
+",MISC,,,de,1
+Stärkeren,Stärkeren,MISC,,,de,1
+Dubai,Dubai,MISC,-0.02413793103448276,0.0,de,1
+Im Jahr 2025,Im Jahr 2025,MISC,,,de,1
+Negativ-Trend,Negativ-Trend,MISC,,,de,1
+Elektroauto SU7,Elektroauto SU7,MISC,,,de,1
+Huthi-Miliz,Huthi-Miliz,MISC,,,de,1
+Orang-Utans,Orang-Utans,MISC,,,de,1
+Boxring,Boxring,MISC,,,de,1
+05.03.2026,05.03.2026,MISC,,,de,1
+Waldschäden,Waldschäden,MISC,,,de,1
+UKForcesTracker,UKForcesTracker,MISC,,,de,1
+dänischer,dänischer,MISC,,,de,1
+portugiesischen,portugiesischen,MISC,,,de,1
+Der Krieg vor Indiens Haustür,Der Krieg vor Indiens Haustür,MISC,,,de,1
+Portugiesischer,Portugiesischer,MISC,,,de,1
+"Staatsfernsehens
+","Staatsfernsehens
+",MISC,,,de,1
+Kriegs vor der Haustür,Kriegs vor der Haustür,MISC,,,de,1
+Vergnügungspa…,Vergnügungspa…,MISC,,,de,1
+Militärbudget“,Militärbudget“,MISC,,,de,1
+Abkommen gestern,Abkommen gestern,MISC,,,de,1
+Senat in Brasilia,Senat in Brasilia,MISC,,,de,1
+Krieges feuert Iran,Krieges feuert Iran,MISC,,,de,1
+Amerikas Krieg,Amerikas Krieg,MISC,,,de,1
+Doppelter Mond,Doppelter Mond,MISC,,,de,1
+Arche Nova,Arche Nova,MISC,0.0,0.0,de,1
+EU-Bürger in Deutschland“,EU-Bürger in Deutschland“,MISC,,,de,1
+Kreuzfahrer,Kreuzfahrer,MISC,,,de,1
+Operation …,Operation …,MISC,,,de,1
+US-Botschaf…,US-Botschaf…,MISC,,,de,1
+Der entschlossene Einsatz der USA,Der entschlossene Einsatz der USA,MISC,,,de,1
+Angriffe von USA,Angriffe von USA,MISC,,,de,1
+Web…,Web…,MISC,,,de,1
+Formel-1-Reifentest,Formel-1-Reifentest,MISC,,,de,1
+Formel-1-Tests,Formel-1-Tests,MISC,,,de,1
+Vier Tote nach russischen Angriffen,Vier Tote nach russischen Angriffen,MISC,,,de,1
+Kommandeur de…,Kommandeur de…,MISC,,,de,1
+israelisch-amerikanischen,israelisch-amerikanischen,MISC,,,de,1
+MAGA-Bewegung,MAGA-Bewegung,MISC,,,de,1
+MAGA-Rechte,MAGA-Rechte,MISC,,,de,1
+Freiheit für Iran“-Demonstration,Freiheit für Iran“-Demonstration,MISC,,,de,1
+Demo,Demo,MISC,,,de,1
+Essay,Essay,MISC,,,de,1
+Do…,Do…,MISC,,,de,1
+Regime Change“,Regime Change“,MISC,,,de,1
+Der schwarze Turban,Der schwarze Turban,MISC,,,de,1
+Uhr)</li><li,Uhr)</li><li,MISC,,,de,1
+"Iran-Schlag
+","Iran-Schlag
+",MISC,,,de,1
+Luftraum geschlossen</li><li,Luftraum geschlossen</li><li,MISC,,,de,1
+Furcht vor Gewaltspirale,Furcht vor Gewaltspirale,MISC,,,de,1
+deutschsprachigen,deutschsprachigen,MISC,,,de,1
+Ir…,Ir…,MISC,,,de,1
+Fo…,Fo…,MISC,,,de,1
+Abkommen,Abkommen,MISC,,,de,1
+Kuds-Einheit,Kuds-Einheit,MISC,,,de,1
+"The Shadow Commander
+","The Shadow Commander
+",MISC,,,de,1
+serbischen,serbischen,MISC,,,de,1
+CNN-Reporter,CNN-Reporter,MISC,,,de,1
+Wir schätzen weite…,Wir schätzen weite…,MISC,,,de,1
+obersten iranischen Führers,obersten iranischen Führers,MISC,,,de,1
+US-Angriffen,US-Angriffen,MISC,,,de,1
+Krieg in der Ukraine“,Krieg in der Ukraine“,MISC,,,de,1
+IranKrieg,IranKrieg,MISC,,,de,1
+Frieden gef,Frieden gef,MISC,,,de,1
+Angelusgebet am Sonntag,Angelusgebet am Sonntag,MISC,,,de,1
+Angriff von USA,Angriff von USA,MISC,,,de,1
+Luftangriffe,Luftangriffe,MISC,,,de,1
+Deutschla…,Deutschla…,MISC,,,de,1
+Tag vo…,Tag vo…,MISC,,,de,1
+Preis für ein Fass,Preis für ein Fass,MISC,,,de,1
+Kriegs gegen de,Kriegs gegen de,MISC,,,de,1
+Mon…,Mon…,MISC,,,de,1
+Bundesk…,Bundesk…,MISC,,,de,1
 Angriff auf Synagoge,Angriff auf Synagoge,MISC,,,de,1
 März-Schnellschätzung,März-Schnellschätzung,MISC,,,de,1
 Kolumbianische,Kolumbianische,MISC,,,de,1
@@ -1411,11 +1394,42 @@ Krieg zu bete…,Krieg zu bete…,MISC,,,de,1
 jemenitischen,jemenitischen,MISC,,,de,1
 Am Samstag,Am Samstag,MISC,,,de,1
 Öffentlichen K…,Öffentlichen K…,MISC,,,de,1
-euro…,euro…,MISC,,,de,1
-schärf…,schärf…,MISC,,,de,1
-World Weather Attribution,World Weather Attribution,MISC,,,de,1
-syrische Übergangsregierung an konkrete …,syrische Übergangsregierung an konkrete …,MISC,,,de,1
-syrische Übergangsregierung,syrische Übergangsregierung,MISC,,,de,1
+indonesisch…,indonesisch…,MISC,,,de,1
+indonesischer,indonesischer,MISC,,,de,1
+UNIFIL-Soldaten,UNIFIL-Soldaten,MISC,,,de,1
+Wende,Wende,MISC,,,de,1
+Missi…,Missi…,MISC,,,de,1
+ge…,ge…,MISC,,,de,1
+Kabinett,Kabinett,MISC,,,de,1
+Iranüberblick am Morgen,Iranüberblick am Morgen,MISC,,,de,1
+Bericht Krieg,Bericht Krieg,MISC,,,de,1
+"Südlibanon
+","Südlibanon
+",MISC,,,de,1
+Explosio…,Explosio…,MISC,,,de,1
+"Kraft
+","Kraft
+",MISC,,,de,1
+Raumfahrtbehörden,Raumfahrtbehörden,MISC,,,de,1
+Mondloses Europa,Mondloses Europa,MISC,,,de,1
+Amt al…,Amt al…,MISC,,,de,1
+se fü…,se fü…,MISC,,,de,1
+Das Treffen des Kanzlers,Das Treffen des Kanzlers,MISC,,,de,1
+Wie leben Syrer,Wie leben Syrer,MISC,,,de,1
+Syrien-Rückkehr“,Syrien-Rückkehr“,MISC,,,de,1
+Z…,Z…,MISC,,,de,1
+Ab…,Ab…,MISC,,,de,1
+Eurovision Song Contest Asia,Eurovision Song Contest Asia,MISC,,,de,1
+Todesstrafen-Gesetz,Todesstrafen-Gesetz,MISC,,,de,1
+Bundeskanzl…,Bundeskanzl…,MISC,,,de,1
+CCC,CCC,MISC,,,de,1
+Hohe Beschäftigungsquote,Hohe Beschäftigungsquote,MISC,,,de,1
+libanesischer,libanesischer,MISC,,,de,1
+Israels Premier,Israels Premier,MISC,,,de,1
+Ja…,Ja…,MISC,,,de,1
+Battlefield 3,Battlefield 3,MISC,,,de,1
+Schlacht um die Insel,Schlacht um die Insel,MISC,,,de,1
+Teekannen“,Teekannen“,MISC,,,de,1
 Innenministerium v…,Innenministerium v…,MISC,,,de,1
 Jahr 2001,Jahr 2001,MISC,,,de,1
 Mit Hasan in Gaza“,Mit Hasan in Gaza“,MISC,,,de,1
@@ -1426,264 +1440,281 @@ Ein Jahr vor den Wahlen,Ein Jahr vor den Wahlen,MISC,,,de,1
 DAAD-Galerie,DAAD-Galerie,MISC,,,de,1
 Lost and Found,Lost and Found,MISC,,,de,1
 Weltweite Klimaschutzaktion“,Weltweite Klimaschutzaktion“,MISC,,,de,1
-Hilfsgüter kommen k,Hilfsgüter kommen k,MISC,,,de,1
-Junge Erwachsene,Junge Erwachsene,MISC,,,de,1
 Krieg Landminen,Krieg Landminen,MISC,,,de,1
 Angriff auf Schwerwasserreaktor,Angriff auf Schwerwasserreaktor,MISC,,,de,1
-Zwölf-Tage-Kriegs,Zwölf-Tage-Kriegs,MISC,,,de,1
+Unters…,Unters…,MISC,,,de,1
+un…,un…,MISC,,,de,1
+syris…,syris…,MISC,,,de,1
+Feng,Feng,MISC,,,de,1
+heise+,heise+,MISC,,,de,1
 schön auf Sentosa,schön auf Sentosa,MISC,,,de,1
-schlimmste Krieg,schlimmste Krieg,MISC,,,de,1
 slowakische,slowakische,MISC,,,de,1
-Bezugs…,Bezugs…,MISC,,,de,1
-Donne… Kopiere,Donne… Kopiere,MISC,,,de,1
+Deutschlandbesuch,Deutschlandbesuch,MISC,,,de,1
+syrische Übergangsregierung,syrische Übergangsregierung,MISC,,,de,1
+Co nach Europa,Co nach Europa,MISC,,,de,1
+Persona non grata,Persona non grata,MISC,,,de,1
+Europa-Markt,Europa-Markt,MISC,,,de,1
+Roter Teppich,Roter Teppich,MISC,,,de,1
+Angriffskrieg gegen den Iran,Angriffskrieg gegen den Iran,MISC,,,de,1
+schärf…,schärf…,MISC,,,de,1
+syrische Übergangsregierung an konkrete …,syrische Übergangsregierung an konkrete …,MISC,,,de,1
 Chamäleon von Damaskus,Chamäleon von Damaskus,MISC,,,de,1
+Angriff auf CNN-Team,Angriff auf CNN-Team,MISC,,,de,1
 Fastenbrech…,Fastenbrech…,MISC,,,de,1
-"Alsayed/dpa
-","Alsayed/dpa
-",MISC,,,de,1
+du vo,du vo,MISC,,,de,1
 Deutschsprachige,Deutschsprachige,MISC,,,de,1
 nationalsozialistischen,nationalsozialistischen,MISC,,,de,1
+Bezugs…,Bezugs…,MISC,,,de,1
 Währungsunion,Währungsunion,MISC,,,de,1
-Krieg im Sudan,Krieg im Sudan,MISC,,,de,1
 Kriegen am Golf,Kriegen am Golf,MISC,,,de,1
-sozialdemokratische,sozialdemokratische,MISC,,,de,1
-Invasion in den Irak 2003,Invasion in den Irak 2003,MISC,,,de,1
-Angriff auf CNN-Team,Angriff auf CNN-Team,MISC,,,de,1
-Rohstoff-Lagerstätten,Rohstoff-Lagerstätten,MISC,,,de,1
-Deutschlandbesuch,Deutschlandbesuch,MISC,,,de,1
-Kriegs gegen de,Kriegs gegen de,MISC,,,de,1
-Explosio…,Explosio…,MISC,,,de,1
-un…,un…,MISC,,,de,1
-Fluchtminist…,Fluchtminist…,MISC,,,de,1
-Newsletter,Newsletter,MISC,,,de,1
-Zeit gepl…,Zeit gepl…,MISC,,,de,1
-Tü…,Tü…,MISC,,,de,1
-Bayern-Basketballer,Bayern-Basketballer,MISC,,,de,1
-Euroleague,Euroleague,MISC,,,de,1
-Ukrainische,Ukrainische,MISC,,,de,1
-Produktionspotenzials bis zum Jahr …,Produktionspotenzials bis zum Jahr …,MISC,,,de,1
+Persisch,Persisch,MISC,,,de,1
+Zweite…,Zweite…,MISC,,,de,1
+Eurovision Song Contest goes Asien,Eurovision Song Contest goes Asien,MISC,,,de,1
+Fußball-WM in die USA,Fußball-WM in die USA,MISC,,,de,1
+Kanye West“,Kanye West“,MISC,,,de,1
+Krieg gege…,Krieg gege…,MISC,,,de,1
+Der ukrainische,Der ukrainische,MISC,,,de,1
+Artemis-Crew,Artemis-Crew,MISC,,,de,1
+Selenskyj,Selenskyj,MISC,0.0,0.0,de,1
+06.04.2026,06.04.2026,MISC,,,de,1
+Angriff im Iran ++,Angriff im Iran ++,MISC,,,de,1
+US-israelischem,US-israelischem,MISC,,,de,1
+Das zweite Besatzungsmitglied,Das zweite Besatzungsmitglied,MISC,,,de,1
+Pekings,Pekings,MISC,,,de,1
+Erlangen,Erlangen,MISC,,,de,1
+China,China,MISC,0.0,0.0,de,1
+Angriff auf Regierungskomplex,Angriff auf Regierungskomplex,MISC,,,de,1
+si…,si…,MISC,,,de,1
+Sprache,Sprache,MISC,,,de,1
+Ellie,Ellie,MISC,,,de,1
+Besuches,Besuches,MISC,,,de,1
+Stargate-Rechenzentrum,Stargate-Rechenzentrum,MISC,,,de,1
+Hormus-Kiew-Deal“,Hormus-Kiew-Deal“,MISC,,,de,1
+US-Skandalrapper,US-Skandalrapper,MISC,,,de,1
+"UhrAktualisiert
+","UhrAktualisiert
+",MISC,,,de,1
+Nicolás-Maduro-Entfernungstheorie,Nicolás-Maduro-Entfernungstheorie,MISC,,,de,1
+Beginn des Jahres…,Beginn des Jahres…,MISC,,,de,1
+Öff…,Öff…,MISC,,,de,1
+ungarischen Parlamentswahl,ungarischen Parlamentswahl,MISC,,,de,1
+Rekordhoch,Rekordhoch,MISC,,,de,1
+Zehn Monate Haft für betrunkenen Passagier“,Zehn Monate Haft für betrunkenen Passagier“,MISC,,,de,1
+Türkische,Türkische,MISC,,,de,1
+07.04.2026,07.04.2026,MISC,,,de,1
+Trump'sche Rhetorik,Trump'sche Rhetorik,MISC,,,de,1
+Verkehrsinfrastruktur“,Verkehrsinfrastruktur“,MISC,,,de,1
+Anga…,Anga…,MISC,,,de,1
+Kosovo,Kosovo,MISC,-0.35,0.0,de,1
+Israel-Club,Israel-Club,MISC,,,de,1
+Familientisch,Familientisch,MISC,,,de,1
+Enfant terrible,Enfant terrible,MISC,,,de,1
+Lange Zeit,Lange Zeit,MISC,,,de,1
+Die Chancen für uns,Die Chancen für uns,MISC,,,de,1
+Serie a…,Serie a…,MISC,,,de,1
+"AprilscherzDer Eurovision Song Contest goes Asien
+","AprilscherzDer Eurovision Song Contest goes Asien
+",MISC,,,de,1
+Wohlstand der Gesellschaft,Wohlstand der Gesellschaft,MISC,,,de,1
 DHL,DHL,MISC,,,de,1
 SMS,SMS,MISC,,,de,1
-"Jüdischen
-Allgemeinen","Jüdischen
-Allgemeinen",MISC,,,de,1
 Hisbollah-Kommandeur,Hisbollah-Kommandeur,MISC,,,de,1
 Soziale,Soziale,MISC,,,de,1
 Weltkrieg,Weltkrieg,MISC,,,de,1
 I…,I…,MISC,,,de,1
 Proz…,Proz…,MISC,,,de,1
-österreichischer,österreichischer,MISC,,,de,1
-portugiesischen,portugiesischen,MISC,,,de,1
-Israels Premier,Israels Premier,MISC,,,de,1
-Golf-Kreuzfahrt,Golf-Kreuzfahrt,MISC,,,de,1
-Serie a…,Serie a…,MISC,,,de,1
-Wohlstand der Gesellschaft,Wohlstand der Gesellschaft,MISC,,,de,1
-System Herrschaftsmethode“,System Herrschaftsmethode“,MISC,,,de,1
-H…,H…,MISC,,,de,1
-Mit göttlicher Figur,Mit göttlicher Figur,MISC,,,de,1
-Instagram,Instagram,MISC,0.175,0.0,de,1
-Neues vom Finanzplatz,Neues vom Finanzplatz,MISC,,,de,1
-14 Jahre alter Junge,14 Jahre alter Junge,MISC,,,de,1
-Merz und Xi,Merz und Xi,MISC,,,de,1
-China-Besuches,China-Besuches,MISC,,,de,1
-Ein Jahr nach der großen Zolloffensive,Ein Jahr nach der großen Zolloffensive,MISC,,,de,1
-armenische,armenische,MISC,,,de,1
-Yoke-Lenker,Yoke-Lenker,MISC,,,de,1
-Elektrolimousine EQS,Elektrolimousine EQS,MISC,,,de,1
-Steer-by-Wire,Steer-by-Wire,MISC,,,de,1
 SKD,SKD,MISC,,,de,1
-JetsMerz,JetsMerz,MISC,,,de,1
 Tacheles“,Tacheles“,MISC,,,de,1
 weiterlesenZweitliga-Schlusslicht Münster,weiterlesenZweitliga-Schlusslicht Münster,MISC,,,de,1
-se fü…,se fü…,MISC,,,de,1
-Das Treffen des Kanzlers,Das Treffen des Kanzlers,MISC,,,de,1
-Wie leben Syrer,Wie leben Syrer,MISC,,,de,1
-Syrien-Rückkehr“,Syrien-Rückkehr“,MISC,,,de,1
-Z…,Z…,MISC,,,de,1
-Ab…,Ab…,MISC,,,de,1
-Verbraucherschutz“,Verbraucherschutz“,MISC,,,de,1
-Eurovision Song Contest Asia,Eurovision Song Contest Asia,MISC,,,de,1
-Todesstrafen-Gesetz,Todesstrafen-Gesetz,MISC,,,de,1
-Bundeskanzl…,Bundeskanzl…,MISC,,,de,1
-CCC,CCC,MISC,,,de,1
-Hohe Beschäftigungsquote,Hohe Beschäftigungsquote,MISC,,,de,1
-Gi…,Gi…,MISC,,,de,1
-libanesischer,libanesischer,MISC,,,de,1
-Putins Krieg,Putins Krieg,MISC,,,de,1
-Amt al…,Amt al…,MISC,,,de,1
-China-Politik,China-Politik,MISC,,,de,1
-Mondloses Europa,Mondloses Europa,MISC,,,de,1
-Premier Keir …,Premier Keir …,MISC,,,de,1
 Apollo Go eingegange,Apollo Go eingegange,MISC,,,de,1
 Russisches,Russisches,MISC,,,de,1
 Irankriegs a…,Irankriegs a…,MISC,,,de,1
 01.04.2026,01.04.2026,MISC,,,de,1
 Wir h…,Wir h…,MISC,,,de,1
 Iran-Konflikte,Iran-Konflikte,MISC,,,de,1
-"AprilscherzDer Eurovision Song Contest goes Asien
-","AprilscherzDer Eurovision Song Contest goes Asien
-",MISC,,,de,1
-Raumfahrtbehörden,Raumfahrtbehörden,MISC,,,de,1
-weiterlesenBlitz-Aufstieg,weiterlesenBlitz-Aufstieg,MISC,,,de,1
-Eurovision Song Contest goes Asien,Eurovision Song Contest goes Asien,MISC,,,de,1
-Tag s,Tag s,MISC,,,de,1
-Zweite…,Zweite…,MISC,,,de,1
-Persisch,Persisch,MISC,,,de,1
-"Kraft
-","Kraft
-",MISC,,,de,1
-Unters…,Unters…,MISC,,,de,1
-syris…,syris…,MISC,,,de,1
+Premier Keir …,Premier Keir …,MISC,,,de,1
+Produktionspotenzials bis zum Jahr …,Produktionspotenzials bis zum Jahr …,MISC,,,de,1
+Ukrainische,Ukrainische,MISC,,,de,1
+Euroleague,Euroleague,MISC,,,de,1
+Elektrolimousine EQS,Elektrolimousine EQS,MISC,,,de,1
+System Herrschaftsmethode“,System Herrschaftsmethode“,MISC,,,de,1
+H…,H…,MISC,,,de,1
+Neues vom Finanzplatz,Neues vom Finanzplatz,MISC,,,de,1
+14 Jahre alter Junge,14 Jahre alter Junge,MISC,,,de,1
+Ein Jahr nach der großen Zolloffensive,Ein Jahr nach der großen Zolloffensive,MISC,,,de,1
+armenische,armenische,MISC,,,de,1
+Yoke-Lenker,Yoke-Lenker,MISC,,,de,1
+Steer-by-Wire,Steer-by-Wire,MISC,,,de,1
+Bayern-Basketballer,Bayern-Basketballer,MISC,,,de,1
+Golf-Kreuzfahrt,Golf-Kreuzfahrt,MISC,,,de,1
+IRANKRIeg,IRANKRIeg,MISC,,,de,1
+Fluchtminist…,Fluchtminist…,MISC,,,de,1
+österreichischer,österreichischer,MISC,,,de,1
+Newsletter,Newsletter,MISC,,,de,1
+Zeit gepl…,Zeit gepl…,MISC,,,de,1
+Tü…,Tü…,MISC,,,de,1
+Und plötzlich,Und plötzlich,MISC,,,de,1
+Fracking,Fracking,MISC,,,de,1
+gek... +++,gek... +++,MISC,,,de,1
+Europäischen Rat,Europäischen Rat,MISC,,,de,1
+Zusamm…,Zusamm…,MISC,,,de,1
+Inter…,Inter…,MISC,,,de,1
+Parlamentsw…,Parlamentsw…,MISC,,,de,1
+Krieges der Amerikaner,Krieges der Amerikaner,MISC,,,de,1
+Ländle?</li><li,Ländle?</li><li,MISC,,,de,1
 MAGA-Methoden,MAGA-Methoden,MISC,,,de,1
-Südfront,Südfront,MISC,,,de,1
+teurer</li><li,teurer</li><li,MISC,,,de,1
+Angriff auf Gasfeld,Angriff auf Gasfeld,MISC,,,de,1
+Weltglücksbericht landen die Nordeuropäer,Weltglücksbericht landen die Nordeuropäer,MISC,,,de,1
+Nicht-nordisch,Nicht-nordisch,MISC,,,de,1
+South Pars,South Pars,MISC,-0.05000000000000001,0.0,de,1
+seh…,seh…,MISC,,,de,1
+Appelle ins Land,Appelle ins Land,MISC,,,de,1
+Kriegs im Iran,Kriegs im Iran,MISC,,,de,1
+Hindernisse,Hindernisse,MISC,,,de,1
+Verkäufer,Verkäufer,MISC,,,de,1
+Ukraine-Invasion,Ukraine-Invasion,MISC,,,de,1
+Ans…,Ans…,MISC,,,de,1
+Ha…,Ha…,MISC,,,de,1
+Südlicher Stotterfrosch“,Südlicher Stotterfrosch“,MISC,,,de,1
+BTS-Comeback-Album,BTS-Comeback-Album,MISC,,,de,1
+Cuenca,Cuenca,MISC,,,de,1
+Kettenreaktionen“,Kettenreaktionen“,MISC,,,de,1
+Regierung mi…,Regierung mi…,MISC,,,de,1
+Typs Patriot,Typs Patriot,MISC,,,de,1
+Angriff im bahrainischen Sitra,Angriff im bahrainischen Sitra,MISC,,,de,1
+Angriff auf Atomanlage Natans“,Angriff auf Atomanlage Natans“,MISC,,,de,1
+BTS-…,BTS-…,MISC,,,de,1
+Neues BTS-Album,Neues BTS-Album,MISC,,,de,1
+FIFA ,FIFA ,MISC,,,de,1
+K-Pop-Stars,K-Pop-Stars,MISC,,,de,1
+HVG,HVG,MISC,,,de,1
+AC/DC-Tour,AC/DC-Tour,MISC,,,de,1
+Kommunen,Kommunen,MISC,,,de,1
+Landtagswahl 2026,Landtagswahl 2026,MISC,,,de,1
+japanische,japanische,MISC,,,de,1
+zehn Jahre später,zehn Jahre später,MISC,,,de,1
+Tag der Demokratiegeschichte,Tag der Demokratiegeschichte,MISC,,,de,1
+DFB-Team,DFB-Team,MISC,,,de,1
+Kopf-an-Kopf-Rennen,Kopf-an-Kopf-Rennen,MISC,,,de,1
+Unser interaktives Tool,Unser interaktives Tool,MISC,,,de,1
+Teheran ereig…,Teheran ereig…,MISC,,,de,1
+Angriff in Teheran,Angriff in Teheran,MISC,,,de,1
+Nachbarl…,Nachbarl…,MISC,,,de,1
+Bra…,Bra…,MISC,,,de,1
+Nicht unser Krieg,Nicht unser Krieg,MISC,,,de,1
+Tag für Tag,Tag für Tag,MISC,,,de,1
+Krieg in Iran,Krieg in Iran,MISC,,,de,1
+Extrem-Manöver Cold Response,Extrem-Manöver Cold Response,MISC,,,de,1
+Nato-Übung,Nato-Übung,MISC,,,de,1
+Jahr 101,Jahr 101,MISC,,,de,1
+Griechisch,Griechisch,MISC,,,de,1
+Türsteher,Türsteher,MISC,,,de,1
+Nad…,Nad…,MISC,,,de,1
+Reak…,Reak…,MISC,,,de,1
+Zukun…,Zukun…,MISC,,,de,1
+NATO-Verbündeten,NATO-Verbündeten,MISC,,,de,1
+Ar…,Ar…,MISC,,,de,1
+Ober-Mullah,Ober-Mullah,MISC,,,de,1
+Luftangriff,Luftangriff,MISC,0.0,0.0,de,1
+Rakete auf Entzugsklinik,Rakete auf Entzugsklinik,MISC,,,de,1
+Amerikanischer,Amerikanischer,MISC,,,de,1
+Groq-LPUs,Groq-LPUs,MISC,,,de,1
+H200,H200,MISC,,,de,1
+EU-Gesundheitskommissar Olivér Várhelyi,EU-Gesundheitskommissar Olivér Várhelyi,MISC,,,de,1
+Israelischer Angriff in,Israelischer Angriff in,MISC,,,de,1
+englische,englische,MISC,,,de,1
+malaiischen,malaiischen,MISC,,,de,1
+EVP-Kontakte,EVP-Kontakte,MISC,,,de,1
+UN-Bericht,UN-Bericht,MISC,,,de,1
+Nicht-Nominierung“,Nicht-Nominierung“,MISC,,,de,1
+Angriff auf Kabul,Angriff auf Kabul,MISC,,,de,1
+Angriff gegen China,Angriff gegen China,MISC,,,de,1
+ESC-Debakel,ESC-Debakel,MISC,,,de,1
+WBC,WBC,MISC,,,de,1
+World Baseball Classic,World Baseball Classic,MISC,,,de,1
+Verkaufsgeb…,Verkaufsgeb…,MISC,,,de,1
+Natürlich bin ich verärgert,Natürlich bin ich verärgert,MISC,,,de,1
+Ein mittelalterliches Juwel,Ein mittelalterliches Juwel,MISC,,,de,1
+Harter Wahlkampf,Harter Wahlkampf,MISC,,,de,1
+Taliban re,Taliban re,MISC,,,de,1
+AWS,AWS,MISC,,,de,1
+WM der Geschichte,WM der Geschichte,MISC,,,de,1
+Viele Jahre lang,Viele Jahre lang,MISC,,,de,1
+Online-Prozess,Online-Prozess,MISC,,,de,1
+Tag,Tag,MISC,0.11666666666666665,0.0,de,1
+UPDATE startest du jeden Morgen,UPDATE startest du jeden Morgen,MISC,,,de,1
+Thammanoon Sudtoop,Thammanoon Sudtoop,MISC,,,de,1
+Portionen,Portionen,MISC,,,de,1
+Türkischer,Türkischer,MISC,,,de,1
+sozialer,sozialer,MISC,,,de,1
+Alphabet und Meta,Alphabet und Meta,MISC,,,de,1
+Social-Media-Sucht,Social-Media-Sucht,MISC,,,de,1
+Australischer,Australischer,MISC,,,de,1
+Transformationsindex,Transformationsindex,MISC,,,de,1
+Bertelsmann-Stiftung,Bertelsmann-Stiftung,MISC,,,de,1
+Demokratie und Marktwirtschaft,Demokratie und Marktwirtschaft,MISC,,,de,1
+Iran-K…,Iran-K…,MISC,,,de,1
+WM-Teilnahme,WM-Teilnahme,MISC,,,de,1
+Pla…,Pla…,MISC,,,de,1
+Smart-Home-Unternehmen,Smart-Home-Unternehmen,MISC,,,de,1
+Das Smart-Home-Unternehmen tado°,Das Smart-Home-Unternehmen tado°,MISC,,,de,1
+islamische,islamische,MISC,,,de,1
+lan…,lan…,MISC,,,de,1
+Holocaust,Holocaust,MISC,,,de,1
+amerikanisch-israelische,amerikanisch-israelische,MISC,,,de,1
+Gross…,Gross…,MISC,,,de,1
+Prozess“,Prozess“,MISC,,,de,1
+Wikinger,Wikinger,MISC,,,de,1
+Darts-Party in Berlin“,Darts-Party in Berlin“,MISC,,,de,1
+FAZ-App,FAZ-App,MISC,,,de,1
+Azzurri“,Azzurri“,MISC,,,de,1
+Neue Frau,Neue Frau,MISC,,,de,1
+26.03.2026,26.03.2026,MISC,,,de,1
+Nato-Partner,Nato-Partner,MISC,,,de,1
+entg…,entg…,MISC,,,de,1
+FinFisher,FinFisher,MISC,,,de,1
+IMAGO,IMAGO,MISC,,,de,1
+Rückschlag im Weltraum,Rückschlag im Weltraum,MISC,,,de,1
+Land s…,Land s…,MISC,,,de,1
+Musical Dome,Musical Dome,MISC,,,de,1
+slowenischen,slowenischen,MISC,,,de,1
+Kölner,Kölner,MISC,,,de,1
+Kik,Kik,MISC,,,de,1
+Angriff auf Israel +++ Trump,Angriff auf Israel +++ Trump,MISC,,,de,1
+Luftangriffen Rauch,Luftangriffen Rauch,MISC,,,de,1
+thüringische,thüringische,MISC,,,de,1
+Fünf Tage Aufschub,Fünf Tage Aufschub,MISC,,,de,1
+Tata AutoComp Systems,Tata AutoComp Systems,MISC,,,de,1
+Autoindustrie“,Autoindustrie“,MISC,,,de,1
 Daten-Analyse,Daten-Analyse,MISC,,,de,1
-Nuklear-Frage,Nuklear-Frage,MISC,,,de,1
-Berlin,Berlin,MISC,0.006711409395973154,0.0,de,1
 Christlicher,Christlicher,MISC,,,de,1
 jüdischen Pessach-Fests,jüdischen Pessach-Fests,MISC,,,de,1
-ein Jahr Gefängnis,ein Jahr Gefängnis,MISC,,,de,1
 Unser Land,Unser Land,MISC,,,de,1
 Todesopfer der islamistischen Anschläge,Todesopfer der islamistischen Anschläge,MISC,,,de,1
 Jahre später,Jahre später,MISC,,,de,1
 Islamischen,Islamischen,MISC,,,de,1
 Todesopfer der Anschläge,Todesopfer der Anschläge,MISC,,,de,1
 Wahl am Sonntag,Wahl am Sonntag,MISC,,,de,1
-Die deutschen Basketballer,Die deutschen Basketballer,MISC,,,de,1
 Terrorgruppe,Terrorgruppe,MISC,,,de,1
-slowenischen,slowenischen,MISC,,,de,1
-Null“ atombombenfähiges Nuklearmaterial,Null“ atombombenfähiges Nuklearmaterial,MISC,,,de,1
-Flamingos,Flamingos,MISC,,,de,1
-Frieden und Wohlstand,Frieden und Wohlstand,MISC,,,de,1
-Autoindustrie“,Autoindustrie“,MISC,,,de,1
-grö…,grö…,MISC,,,de,1
-Chemie“,Chemie“,MISC,,,de,1
-BKA-Präsident,BKA-Präsident,MISC,,,de,1
-Drogenschmuggel nach Europa“,Drogenschmuggel nach Europa“,MISC,,,de,1
-pharaonischen,pharaonischen,MISC,,,de,1
-Starlink,Starlink,MISC,,,de,1
 Jahr …,Jahr …,MISC,,,de,1
-Kik,Kik,MISC,,,de,1
-Angriff auf Israel +++ Trump,Angriff auf Israel +++ Trump,MISC,,,de,1
-Luftangriffen Rauch,Luftangriffen Rauch,MISC,,,de,1
-thüringische,thüringische,MISC,,,de,1
-Ägypten,Ägypten,MISC,0.0,0.0,de,1
-Gegenangriff im Nebel,Gegenangriff im Nebel,MISC,,,de,1
-Fünf Tage Aufschub,Fünf Tage Aufschub,MISC,,,de,1
-Tata AutoComp Systems,Tata AutoComp Systems,MISC,,,de,1
-Harter Wahlkampf,Harter Wahlkampf,MISC,,,de,1
-Kopf-an-Kopf-Rennen,Kopf-an-Kopf-Rennen,MISC,,,de,1
-Ein mittelalterliches Juwel,Ein mittelalterliches Juwel,MISC,,,de,1
-Cuenca,Cuenca,MISC,,,de,1
-zehn Jahre später,zehn Jahre später,MISC,,,de,1
-FIFA ,FIFA ,MISC,,,de,1
-"Angriff auf den Iran
-","Angriff auf den Iran
-",MISC,,,de,1
-Südlicher Stotterfrosch“,Südlicher Stotterfrosch“,MISC,,,de,1
-Ha…,Ha…,MISC,,,de,1
-Nachrichtensender Al-Arabiya,Nachrichtensender Al-Arabiya,MISC,,,de,1
-Ans…,Ans…,MISC,,,de,1
-Angriff gegen Iran,Angriff gegen Iran,MISC,,,de,1
-Zusamm…,Zusamm…,MISC,,,de,1
-Operation …,Operation …,MISC,,,de,1
-Inter…,Inter…,MISC,,,de,1
-Parlamentsw…,Parlamentsw…,MISC,,,de,1
-Uhr)</li><li,Uhr)</li><li,MISC,,,de,1
-Krieges der Amerikaner,Krieges der Amerikaner,MISC,,,de,1
-Ländle?</li><li,Ländle?</li><li,MISC,,,de,1
-japanische,japanische,MISC,,,de,1
-Schlacht zum Vertrag,Schlacht zum Vertrag,MISC,,,de,1
-Landtagswahl 2026,Landtagswahl 2026,MISC,,,de,1
-AfD-Gutachten,AfD-Gutachten,MISC,,,de,1
-Europameister,Europameister,MISC,,,de,1
-Kettenreaktionen“,Kettenreaktionen“,MISC,,,de,1
-Regierung mi…,Regierung mi…,MISC,,,de,1
-Typs Patriot,Typs Patriot,MISC,,,de,1
-Angriff im bahrainischen Sitra,Angriff im bahrainischen Sitra,MISC,,,de,1
-"Getty Images
-","Getty Images
-",MISC,,,de,1
-Angriff auf Atomanlage Natans“,Angriff auf Atomanlage Natans“,MISC,,,de,1
-Kommunen,Kommunen,MISC,,,de,1
-BTS-…,BTS-…,MISC,,,de,1
-BTS-Comeback-Album,BTS-Comeback-Album,MISC,,,de,1
-Neues BTS-Album,Neues BTS-Album,MISC,,,de,1
-K-Pop-Stars,K-Pop-Stars,MISC,,,de,1
-HVG,HVG,MISC,,,de,1
-AC/DC-Tour,AC/DC-Tour,MISC,,,de,1
-Trump-Strasse,Trump-Strasse,MISC,,,de,1
-Das ist ja gespenstisch,Das ist ja gespenstisch,MISC,,,de,1
-Feng,Feng,MISC,,,de,1
-FAZ-App,FAZ-App,MISC,,,de,1
-Neue Frau,Neue Frau,MISC,,,de,1
-26.03.2026,26.03.2026,MISC,,,de,1
-Nato-Partner,Nato-Partner,MISC,,,de,1
-KabulPakistan,KabulPakistan,MISC,,,de,1
-entg…,entg…,MISC,,,de,1
-FinFisher,FinFisher,MISC,,,de,1
-IMAGO,IMAGO,MISC,,,de,1
-Rückschlag im Weltraum,Rückschlag im Weltraum,MISC,,,de,1
-Azzurri“,Azzurri“,MISC,,,de,1
-russischen Angriffskriegs,russischen Angriffskriegs,MISC,,,de,1
-Das Smart-Home-Unternehmen tado°,Das Smart-Home-Unternehmen tado°,MISC,,,de,1
-Smart-Home-Unternehmen,Smart-Home-Unternehmen,MISC,,,de,1
-Pla…,Pla…,MISC,,,de,1
-WM der Geschichte,WM der Geschichte,MISC,,,de,1
-Offener Krieg,Offener Krieg,MISC,,,de,1
-offenen Krieg,offenen Krieg,MISC,,,de,1
-islamische,islamische,MISC,,,de,1
-Neues Gesetz in Hongkong,Neues Gesetz in Hongkong,MISC,,,de,1
-Afghanische,Afghanische,MISC,,,de,1
-heise+,heise+,MISC,,,de,1
-Wah…,Wah…,MISC,,,de,1
-Und plötzlich,Und plötzlich,MISC,,,de,1
-Fracking,Fracking,MISC,,,de,1
-Mercosur-Handelsabkommen,Mercosur-Handelsabkommen,MISC,,,de,1
-gek... +++,gek... +++,MISC,,,de,1
-Taliban re,Taliban re,MISC,,,de,1
-lan…,lan…,MISC,,,de,1
-Holocaust,Holocaust,MISC,,,de,1
-amerikanisch-israelische,amerikanisch-israelische,MISC,,,de,1
-Gross…,Gross…,MISC,,,de,1
-Prozess“,Prozess“,MISC,,,de,1
-Pakistan,Pakistan,MISC,0.0,0.0,de,1
-Wikinger,Wikinger,MISC,,,de,1
-Darts-Party in Berlin“,Darts-Party in Berlin“,MISC,,,de,1
-Viele Jahre lang,Viele Jahre lang,MISC,,,de,1
-Online-Prozess,Online-Prozess,MISC,,,de,1
-Tag,Tag,MISC,0.13999999999999999,0.0,de,1
-UPDATE startest du jeden Morgen,UPDATE startest du jeden Morgen,MISC,,,de,1
+Starlink,Starlink,MISC,,,de,1
+Drogenschmuggel nach Europa“,Drogenschmuggel nach Europa“,MISC,,,de,1
+Terrororganisationen“,Terrororganisationen“,MISC,,,de,1
+Das Phantom der Oper,Das Phantom der Oper,MISC,,,de,1
 Musktheater“,Musktheater“,MISC,,,de,1
-NZZ FORMAT,NZZ FORMAT,MISC,,,de,1
-Mega Sale,Mega Sale,MISC,,,de,1
-Ein Zeichen des Wandels,Ein Zeichen des Wandels,MISC,,,de,1
 Anwohner …,Anwohner …,MISC,,,de,1
 Afrikanische,Afrikanische,MISC,,,de,1
 Die Bundesregierung,Die Bundesregierung,MISC,,,de,1
 Haftstrafen für Hamas-Mitgliedschaft“,Haftstrafen für Hamas-Mitgliedschaft“,MISC,,,de,1
 Waffenlager in Europa,Waffenlager in Europa,MISC,,,de,1
-Terrororganisationen“,Terrororganisationen“,MISC,,,de,1
-Demokrat d…,Demokrat d…,MISC,,,de,1
 Dateibibliothek,Dateibibliothek,MISC,,,de,1
-Churchill-Statue,Churchill-Statue,MISC,-0.35,0.0,de,1
+BKA-Präsident,BKA-Präsident,MISC,,,de,1
 Brandanschläge“,Brandanschläge“,MISC,,,de,1
 Thailändischer,Thailändischer,MISC,,,de,1
-Das Phantom der Oper,Das Phantom der Oper,MISC,,,de,1
-Kölner,Kölner,MISC,,,de,1
-Musical Dome,Musical Dome,MISC,,,de,1
-Australischer,Australischer,MISC,,,de,1
-Thammanoon Sudtoop,Thammanoon Sudtoop,MISC,,,de,1
-Portionen,Portionen,MISC,,,de,1
-Hamas-Massaker,Hamas-Massaker,MISC,,,de,1
-sozialer,sozialer,MISC,,,de,1
-Alphabet und Meta,Alphabet und Meta,MISC,,,de,1
-Social-Media-Sucht,Social-Media-Sucht,MISC,,,de,1
-Transformationsindex,Transformationsindex,MISC,,,de,1
-DOK-FILM,DOK-FILM,MISC,,,de,1
-Bertelsmann-Stiftung,Bertelsmann-Stiftung,MISC,,,de,1
-Demokratie und Marktwirtschaft,Demokratie und Marktwirtschaft,MISC,,,de,1
-Iran-K…,Iran-K…,MISC,,,de,1
-WM-Teilnahme,WM-Teilnahme,MISC,,,de,1
-Land s…,Land s…,MISC,,,de,1
-AWS,AWS,MISC,,,de,1
-Israels Regierung,Israels Regierung,MISC,,,de,1
+Neues Gesetz in Hongkong,Neues Gesetz in Hongkong,MISC,,,de,1
+Frieden und Wohlstand,Frieden und Wohlstand,MISC,,,de,1
+Trump-Strasse,Trump-Strasse,MISC,,,de,1
+grö…,grö…,MISC,,,de,1
+Chemie“,Chemie“,MISC,,,de,1
+Brisanz gew…,Brisanz gew…,MISC,,,de,1
