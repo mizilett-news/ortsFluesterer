@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Deutschland',de,Germany,#82ddf1,#82ddf1,3,0.433424336574,EUROPE,4011882-4,2921044,51.500000000000,10.500000000000,A,Germany,WCE
 'Hamas',de,Syria,#6197ed,#6197ed,3,0.432802742752,EUROPE-AFRICA,4089137-9,170017,35.131790000000,36.757830000000,P,Syria,MED
 'Westjordanland',de,Palestinian Territory,#5b97ec,#5b97ec,3,0.432133087563,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
-'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,3,0.430288837740,EUROPE-AFRICA,4485908-9,7303419,31.783360000000,35.233880000000,P,Palestinian Territory,MED
 'Tel Aviv',de,Israel,#5a98ec,#5a98ec,3,0.426949352214,EUROPE-AFRICA,4119545-0,293397,32.080880000000,34.780570000000,P,Israel,MED
 'Dubai',de,United Arab Emirates,#4c59eb,#4c59eb,2,0.426484295579,ASIA,4204044-9,292223,25.077250000000,55.309270000000,P,United Arab Emirates,ARP
 'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,3,0.416086978636,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Britisches Territorium im Indischen Ozean,EIO
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,3,0.380302179402,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican,MED
 'Russland',de,Russia,#d393f3,#d393f3,3,0.375954039406,ASIA,4076899-5,2017370,60.000000000000,100.000000000000,A,Russia,ESB
 'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.375559257692,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
+'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,2,0.365745677079,EUROPE-AFRICA,4485908-9,7303419,31.783360000000,35.233880000000,P,Palestinian Territory,MED
 'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.365363962628,ARCTIC,4056316-9,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Tokelau',de,Tokelau,#d23017,#d23017,2,0.364173472997,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
 'Heard-Insel',de,Heard Island and McDonald Islands,#A67724,#A67724,2,0.361859992232,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
