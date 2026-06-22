@@ -1,487 +1,462 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Donald Trump,Donald Trump,PER,-0.03917033773861967,0.04295154185022027,de,227
+Donald Trump,Donald Trump,PER,-0.020498511904761898,0.04575892857142858,de,224
 Friedrich Merz,Friedrich Merz,PER,-0.08076923076923077,0.08974358974358974,de,39
-Liveblog Irankrieg,Liveblog Irankrieg,PER,0.034374999999999996,0.0,de,32
-Papst Leo XIV,Papst Leo XIV,PER,-0.014814814814814812,0.0,de,27
+Liveblog Irankrieg,Liveblog Irankrieg,PER,0.06999999999999999,0.0,de,30
 König Charles III,König Charles III,PER,0.038461538461538464,0.0,de,26
-Xi Jinping,Xi Jinping,PER,0.23000000000000004,0.0,de,20
-Sarah Engels,Sarah Engels,PER,0.0,0.0,de,20
-Benjamin Netanjahu,Benjamin Netanjahu,PER,-0.05249999999999999,0.125,de,20
+Papst Leo XIV,Papst Leo XIV,PER,-0.015999999999999997,0.0,de,25
+Benjamin Netanjahu,Benjamin Netanjahu,PER,-0.04999999999999999,0.11904761904761904,de,21
+Xi Jinping,Xi Jinping,PER,0.21904761904761907,0.0,de,21
 Liveblog Ukrainekrieg,Liveblog Ukrainekrieg,PER,-0.16315789473684209,0.05263157894736842,de,19
+António Guterres,António Guterres,PER,-0.3638888888888889,0.0,de,18
 Ahmed al-Scharaa,Ahmed al-Scharaa,PER,-0.09444444444444444,0.0,de,18
 Charles III,Charles III,PER,0.026470588235294128,0.0,de,17
 Wladimir Putin,Wladimir Putin,PER,0.0823529411764706,0.058823529411764705,de,17
-Kimi Antonelli,Kimi Antonelli,PER,0.46,0.0,de,15
+Sarah Engels,Sarah Engels,PER,0.0625,0.0,de,16
 Raúl Castro,Raúl Castro,PER,-0.039999999999999994,0.0,de,15
-Leo XIV,Leo XIV,PER,-0.05384615384615384,0.0,de,13
+Kimi Antonelli,Kimi Antonelli,PER,0.46,0.0,de,15
 Sumud Flotilla,Sumud Flotilla,PER,-0.13076923076923078,0.07692307692307693,de,13
+Leo XIV,Leo XIV,PER,-0.05384615384615384,0.0,de,13
+Johann Wadephul,Johann Wadephul,PER,0.02692307692307693,0.038461538461538464,de,13
 Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.10769230769230768,0.0,de,13
 Boris Pistorius,Boris Pistorius,PER,-0.04583333333333333,0.0,de,12
-Donald Trumps,Donald Trumps,PER,-0.09090909090909091,0.09090909090909091,de,11
-Johann Wadephul,Johann Wadephul,PER,0.21363636363636365,0.045454545454545456,de,11
+Pete Hegseth,Pete Hegseth,PER,0.225,0.0,de,12
 Cheng Li-wun,Cheng Li-wun,PER,0.21818181818181817,0.0,de,11
-Pete Hegseth,Pete Hegseth,PER,0.2,0.0,de,10
 Marco Rubio,Marco Rubio,PER,0.275,0.0,de,10
 Keir Starmer,Keir Starmer,PER,0.015000000000000003,0.0,de,10
-António Guterres,António Guterres,PER,-0.07777777777777778,0.0,de,9
+Donald Trumps,Donald Trumps,PER,0.0,0.1111111111111111,de,9
+Péter Magyar,Péter Magyar,PER,-0.08148148148148147,0.0,de,9
 George Russell,George Russell,PER,0.46111111111111114,0.0,de,9
-Lewis Hamilton,Lewis Hamilton,PER,0.125,0.25,de,8
 Shelly Kittleson,Shelly Kittleson,PER,0.21874999999999997,0.0,de,8
-Viktor Orbán,Viktor Orbán,PER,-0.04166666666666668,0.0,de,8
-Péter Magyar,Péter Magyar,PER,-0.09166666666666666,0.0,de,8
+Lewis Hamilton,Lewis Hamilton,PER,0.125,0.25,de,8
+Josef Stalin,Josef Stalin,PER,-0.029166666666666664,0.0,de,8
+Viktor Orbán,Viktor Orbán,PER,0.09523809523809523,0.0,de,7
 Liveblog USA,Liveblog USA,PER,0.11666666666666665,0.0,de,6
-Mara Salvatrucha,Mara Salvatrucha,PER,-0.39999999999999997,0.0,de,6
-Julian Nagelsmann,Julian Nagelsmann,PER,-0.11666666666666665,0.0,de,6
+Kaja Kallas,Kaja Kallas,PER,-0.061111111111111116,0.0,de,6
 Reza Pahlavi,Reza Pahlavi,PER,-0.3333333333333333,0.16666666666666666,de,6
-Israels Premier Netanjahu,Israels Premier Netanjahu,PER,-0.41999999999999993,0.0,de,5
-Max Verstappen,Max Verstappen,PER,0.2,0.0,de,5
+Mara Salvatrucha,Mara Salvatrucha,PER,-0.39999999999999997,0.0,de,6
+Sohn Nikolaus II,Sohn Nikolaus II,PER,0.0,0.0,de,5
+Giorgia Meloni,Giorgia Meloni,PER,0.0,0.0,de,5
 Céline Dion,Céline Dion,PER,0.26,0.0,de,5
+Max Verstappen,Max Verstappen,PER,0.2,0.0,de,5
 Tulsi Gabbard,Tulsi Gabbard,PER,0.27999999999999997,0.0,de,5
-Gideon Saar,Gideon Saar,PER,-0.09000000000000001,0.0,de,5
-Emmanuel Macron,Emmanuel Macron,PER,0.15999999999999998,0.26666666666666666,de,5
+Joseph Stalin,Joseph Stalin,PER,0.0,0.0,de,5
 Premier Starmer,Premier Starmer,PER,0.13999999999999999,0.0,de,5
-Mesut Özil,Mesut Özil,PER,0.0,0.5,de,4
-Yair Golan,Yair Golan,PER,-0.175,0.0,de,4
-Christoph Baumgartner,Christoph Baumgartner,PER,-0.75,0.0,de,4
-Wolfram Weimer,Wolfram Weimer,PER,0.175,0.0,de,4
-US-Republikaner Graham,US-Republikaner Graham,PER,0.0,0.0,de,4
-Frank-Walter Steinmeier,Frank-Walter Steinmeier,PER,0.0,0.0,de,4
-Viktor Orban,Viktor Orban,PER,0.3125,0.0,de,4
-Axel Springer,Axel Springer,PER,0.0,0.0,de,4
+Alexander III,Alexander III,PER,0.0,0.0,de,5
+Emmanuel Macron,Emmanuel Macron,PER,0.15999999999999998,0.26666666666666666,de,5
+Bundeswirtschaftsministerin Katherina Reiche,Bundeswirtschaftsministerin Katherina Reiche,PER,0.73,0.0,de,5
+Israels Premier Netanjahu,Israels Premier Netanjahu,PER,-0.41999999999999993,0.0,de,5
+Noam Bettan,Noam Bettan,PER,0.0,0.0,de,4
 Kanye Wests,Kanye Wests,PER,-0.15000000000000002,0.0,de,4
-Miguel Díaz-Canel,Miguel Díaz-Canel,PER,0.0,0.0,de,4
-Kaja Kallas,Kaja Kallas,PER,0.2583333333333333,0.0,de,4
-Jan Philipp Burgard,Jan Philipp Burgard,PER,-0.175,0.0,de,4
 Katy Perry,Katy Perry,PER,0.2125,0.0,de,4
 Chan Thao Phoumy,Chan Thao Phoumy,PER,0.0,0.0,de,4
-Anna Heiser,Anna Heiser,PER,-0.6999999999999998,0.0,de,4
-Andreas Rettig,Andreas Rettig,PER,0.35,0.0,de,4
-Israel Katz,Israel Katz,PER,0.175,0.0,de,4
-Gil Shohat,Gil Shohat,PER,-0.5249999999999999,0.0,de,4
-Noam Bettan,Noam Bettan,PER,0.0,0.0,de,4
 Fred Again,Fred Again,PER,0.0,0.0,de,4
-José Mourinho,José Mourinho,PER,0.75,0.0,de,4
+Christoph Baumgartner,Christoph Baumgartner,PER,-0.75,0.0,de,4
+Viktor Orban,Viktor Orban,PER,0.3125,0.0,de,4
+Gil Shohat,Gil Shohat,PER,-0.5249999999999999,0.0,de,4
+Israels Polizeiminister Ben-Gvir,Israels Polizeiminister Ben-Gvir,PER,0.0,0.0,de,4
+Axel Springer,Axel Springer,PER,0.0,0.0,de,4
+Jan Philipp Burgard,Jan Philipp Burgard,PER,-0.175,0.0,de,4
+US-Republikaner Graham,US-Republikaner Graham,PER,0.0,0.0,de,4
+Andreas Rettig,Andreas Rettig,PER,0.35,0.0,de,4
+Frank-Walter Steinmeier,Frank-Walter Steinmeier,PER,0.0,0.0,de,4
+Miguel Díaz-Canel,Miguel Díaz-Canel,PER,0.0,0.0,de,4
+Anna Heiser,Anna Heiser,PER,-0.6999999999999998,0.0,de,4
 Joachim Krause,Joachim Krause,PER,0.175,0.0,de,4
+José Mourinho,José Mourinho,PER,0.75,0.0,de,4
 Collien Fernandes,Collien Fernandes,PER,-0.25,0.0,de,4
-Robert Golob,Robert Golob,PER,0.14166666666666666,0.0,de,4
-Julio Segador,Julio Segador,PER,0.0,0.0,de,3
-Bianca Jagger,Bianca Jagger,PER,0.3333333333333333,0.0,de,3
-Dietmar Schönherr,Dietmar Schönherr,PER,-0.05000000000000001,0.0,de,3
-Isar Aerospace,Isar Aerospace,PER,0.0,0.0,de,3
+Mesut Özil,Mesut Özil,PER,0.0,0.5,de,4
 Michael Kofman,Michael Kofman,PER,-0.3333333333333333,0.0,de,3
-Mohammed Odeh,Mohammed Odeh,PER,-0.6666666666666666,0.0,de,3
-Brad Pitt,Brad Pitt,PER,-0.2333333333333333,0.0,de,3
-Prinz Harry,Prinz Harry,PER,0.0,0.0,de,3
-Israels Premier,Israels Premier,PER,-0.26666666666666666,0.0,de,3
-Irans Fußballerinnen,Irans Fußballerinnen,PER,0.0,0.0,de,3
-Harry Kane,Harry Kane,PER,0.0,0.0,de,3
-Tayyip Erdogan,Tayyip Erdogan,PER,0.2333333333333333,0.6666666666666666,de,3
-Sergej Lawrow,Sergej Lawrow,PER,0.3499999999999999,0.4444444444444444,de,3
-Zayn Malik,Zayn Malik,PER,-0.11666666666666665,0.8333333333333334,de,3
-Gianni Infantino,Gianni Infantino,PER,0.2333333333333333,0.0,de,3
-Israels Militär,Israels Militär,PER,-0.10000000000000002,0.0,de,3
-Israels Parlament,Israels Parlament,PER,0.2333333333333333,0.0,de,3
-Bundeswirtschaftsministerin Katherina Reiche,Bundeswirtschaftsministerin Katherina Reiche,PER,0.6999999999999998,0.0,de,3
-Verteidigungsminister Pistorius,Verteidigungsminister Pistorius,PER,0.0,0.0,de,3
-Francesca Albanese,Francesca Albanese,PER,0.0,0.0,de,3
-Nikodemus Schnabel,Nikodemus Schnabel,PER,0.4666666666666666,0.0,de,3
-Giorgia Meloni,Giorgia Meloni,PER,0.0,0.0,de,3
 Wirtschaftsministerin Reiche,Wirtschaftsministerin Reiche,PER,0.6999999999999998,0.0,de,3
-Swetlana Gannuschkina,Swetlana Gannuschkina,PER,-0.10000000000000002,0.0,de,3
-Andrew Tate,Andrew Tate,PER,0.0,0.0,de,3
-Egisto Ott,Egisto Ott,PER,0.0,0.0,de,3
-Navid Kermani,Navid Kermani,PER,0.0,0.0,de,3
-Chan al-Ahmar,Chan al-Ahmar,PER,-0.43333333333333335,0.0,de,3
-Iss al-Did al-Haddad,Iss al-Did al-Haddad,PER,-0.3333333333333333,0.0,de,3
-Bodo Ramelow,Bodo Ramelow,PER,0.0,0.0,de,3
-Stevie Young,Stevie Young,PER,0.0,0.0,de,3
-Diego Garcia,Diego Garcia,PER,0.0,0.0,de,3
-Ingo Zamperoni,Ingo Zamperoni,PER,0.2333333333333333,0.0,de,3
-Eric Nussbaumer,Eric Nussbaumer,PER,0.0,0.3333333333333333,de,3
 Hofdame Mirian,Hofdame Mirian,PER,0.2333333333333333,0.0,de,3
+Chan al-Ahmar,Chan al-Ahmar,PER,-0.43333333333333335,0.0,de,3
+Francesca Albanese,Francesca Albanese,PER,0.0,0.0,de,3
+Tayyip Erdogan,Tayyip Erdogan,PER,0.2333333333333333,0.6666666666666666,de,3
+Andrew Tate,Andrew Tate,PER,0.0,0.0,de,3
+Ingo Zamperoni,Ingo Zamperoni,PER,0.2333333333333333,0.0,de,3
+Julian Nagelsmann,Julian Nagelsmann,PER,0.0,0.0,de,3
+Iss al-Did al-Haddad,Iss al-Did al-Haddad,PER,-0.3333333333333333,0.0,de,3
+Harry Kane,Harry Kane,PER,0.0,0.0,de,3
 Constantin Schreiber,Constantin Schreiber,PER,0.4666666666666666,0.0,de,3
+Israels Parlament,Israels Parlament,PER,0.2333333333333333,0.0,de,3
+Zayn Malik,Zayn Malik,PER,-0.11666666666666665,0.8333333333333334,de,3
+JD Vance,JD Vance,PER,0.3333333333333333,0.0,de,3
+Gideon Saar,Gideon Saar,PER,-0.3333333333333333,0.0,de,3
+Israels Militär,Israels Militär,PER,-0.10000000000000002,0.0,de,3
+Nikodemus Schnabel,Nikodemus Schnabel,PER,0.4666666666666666,0.0,de,3
+Verteidigungsminister Pistorius,Verteidigungsminister Pistorius,PER,0.0,0.0,de,3
+Prinz Harry,Prinz Harry,PER,0.0,0.0,de,3
+Isar Aerospace,Isar Aerospace,PER,0.0,0.0,de,3
+Brad Pitt,Brad Pitt,PER,-0.2333333333333333,0.0,de,3
+Gianni Infantino,Gianni Infantino,PER,0.2333333333333333,0.0,de,3
+Jeff Landry,Jeff Landry,PER,0.0,0.3333333333333333,de,3
+Dietmar Schönherr,Dietmar Schönherr,PER,-0.05000000000000001,0.0,de,3
+Sergej Lawrow,Sergej Lawrow,PER,0.3499999999999999,0.4444444444444444,de,3
+Egisto Ott,Egisto Ott,PER,0.0,0.0,de,3
+Bianca Jagger,Bianca Jagger,PER,0.3333333333333333,0.0,de,3
+Itamar Ben-Gvir,Itamar Ben-Gvir,PER,0.11666666666666665,0.16666666666666666,de,3
 Abu Dhabi,Abu Dhabi,PER,0.0,0.0,de,3
+Mohammed Odeh,Mohammed Odeh,PER,-0.6666666666666666,0.0,de,3
+Navid Kermani,Navid Kermani,PER,0.0,0.0,de,3
+Bodo Ramelow,Bodo Ramelow,PER,0.0,0.0,de,3
+Lukas Rietzschel,Lukas Rietzschel,PER,0.0,0.0,de,3
 Steve Witkoff,Steve Witkoff,PER,0.0,0.0,de,3
-Sanae Takaichi,Sanae Takaichi,PER,0.2333333333333333,0.0,de,3
-Nayib Bukele,Nayib Bukele,PER,0.7,0.0,de,2
-Trump Fortschritte,Trump Fortschritte,PER,0.5,0.0,de,2
-Todd Blanche,Todd Blanche,PER,0.0,0.0,de,2
-Mossad-Chef David Barnea,Mossad-Chef David Barnea,PER,0.5,0.0,de,2
-Keir Starmers,Keir Starmers,PER,0.0,0.0,de,2
-Jared Kushner,Jared Kushner,PER,0.0,0.0,de,2
-Alamara Djabi,Alamara Djabi,PER,-0.5,0.0,de,2
-Abbas Araghtschi,Abbas Araghtschi,PER,0.35,0.0,de,2
-José Luis Rodríguez Zapatero,José Luis Rodríguez Zapatero,PER,0.0,0.0,de,2
-Javier Milei,Javier Milei,PER,0.15000000000000002,0.0,de,2
-Bettina Meier,Bettina Meier,PER,0.0,0.0,de,2
-Ex-Präsident Raúl Castro,Ex-Präsident Raúl Castro,PER,0.7,0.0,de,2
-Jan Marsalek,Jan Marsalek,PER,0.0,0.0,de,2
-Albert Ostermaier,Albert Ostermaier,PER,0.0,0.0,de,2
-Ali Laridschani,Ali Laridschani,PER,0.425,0.0,de,2
-Fidel Castro,Fidel Castro,PER,0.425,0.0,de,2
-Chinas Staatschef Xi,Chinas Staatschef Xi,PER,0.0,0.0,de,2
-Christoph Heusgen,Christoph Heusgen,PER,0.35,0.5,de,2
-bestreikte Länderpavillons,bestreikte Länderpavillons,PER,0.0,0.0,de,2
-Paul Ronzheimer,Paul Ronzheimer,PER,0.0,0.0,de,2
-Israel-Korrespondentin Mareike Enghusen,Israel-Korrespondentin Mareike Enghusen,PER,0.0,0.0,de,2
-Bernd Fasching,Bernd Fasching,PER,0.5,0.0,de,2
+Sébastien Migné,Sébastien Migné,PER,0.0,0.0,de,3
+Bilal El Khannouss,Bilal El Khannouss,PER,1.0,0.0,de,2
+Peter Magyar,Peter Magyar,PER,0.25,0.25,de,2
+Daniel Altmaier,Daniel Altmaier,PER,0.35,0.0,de,2
+Falko Ernst,Falko Ernst,PER,-0.7749999999999999,0.0,de,2
+Eckert Ayensa,Eckert Ayensa,PER,0.0,0.0,de,2
 Jenny Barke,Jenny Barke,PER,0.0,0.0,de,2
-Existenz von Ölblockade,Existenz von Ölblockade,PER,0.11666666666666665,0.0,de,2
-Péter Szijjártó,Péter Szijjártó,PER,0.35,0.5,de,2
-Kai Wegner,Kai Wegner,PER,-0.35,0.0,de,2
+Magyars Tisza,Magyars Tisza,PER,0.0,0.0,de,2
+Bernd Baumann,Bernd Baumann,PER,0.0,0.0,de,2
+Mohammad Bagher Ghalibaf,Mohammad Bagher Ghalibaf,PER,0.0,0.5,de,2
 Michaela Polleres,Michaela Polleres,PER,0.5,0.0,de,2
-Friedhelm Greis,Friedhelm Greis,PER,0.7,0.0,de,2
-Kash Patel,Kash Patel,PER,0.35,0.0,de,2
-Nikol Paschinjan,Nikol Paschinjan,PER,0.35,0.0,de,2
-Marcus Bachmann,Marcus Bachmann,PER,0.15000000000000002,0.0,de,2
+Leonardo Genoni,Leonardo Genoni,PER,0.0,0.0,de,2
+Christoph Heusgen,Christoph Heusgen,PER,0.35,0.5,de,2
+Israels Militärchef,Israels Militärchef,PER,0.0,0.0,de,2
+Schwarzmeerhalbinsel Krim,Schwarzmeerhalbinsel Krim,PER,-1.0,0.0,de,2
+Pedro Pinho,Pedro Pinho,PER,0.0,0.0,de,2
+Keir Starmers,Keir Starmers,PER,0.0,0.0,de,2
+Ron Prosor,Ron Prosor,PER,0.0,0.0,de,2
+Chinas PräsidentXi Jinping,Chinas PräsidentXi Jinping,PER,1.0,0.0,de,2
+Trumps Amerika,Trumps Amerika,PER,0.0,0.5,de,2
+Julio Segador,Julio Segador,PER,0.0,0.0,de,2
+Karim Khan,Karim Khan,PER,0.425,0.0,de,2
+Karl Lauterbach,Karl Lauterbach,PER,0.175,0.25,de,2
+Misha Glenny,Misha Glenny,PER,0.35,0.0,de,2
+Shehbaz Sharif,Shehbaz Sharif,PER,-0.5,0.0,de,2
+Paul Ronzheimer,Paul Ronzheimer,PER,0.0,0.0,de,2
+Bernd Fasching,Bernd Fasching,PER,0.5,0.0,de,2
+Odd Arne Westad,Odd Arne Westad,PER,0.0,0.0,de,2
 Israels Seeblockade,Israels Seeblockade,PER,0.0,0.0,de,2
+CDU-Vize Silvia,CDU-Vize Silvia,PER,0.0,0.0,de,2
+Mossad-Chef David Barnea,Mossad-Chef David Barnea,PER,0.5,0.0,de,2
+Anthony Randazzo,Anthony Randazzo,PER,0.0,0.0,de,2
+Franjo Pooth,Franjo Pooth,PER,0.0,0.0,de,2
+CDU-Bundesvize Michael Kretschmer,CDU-Bundesvize Michael Kretschmer,PER,-0.35,0.0,de,2
+Angela Merkel,Angela Merkel,PER,0.0,0.0,de,2
+Ex-Staatschef Radew,Ex-Staatschef Radew,PER,1.0,0.0,de,2
+Jared Kushner,Jared Kushner,PER,0.0,0.0,de,2
+Sabrina Fritz,Sabrina Fritz,PER,0.0,0.0,de,2
+Albert Ostermaier,Albert Ostermaier,PER,0.0,0.0,de,2
+Javier Milei,Javier Milei,PER,0.15000000000000002,0.0,de,2
+Chinas Staatschef Xi,Chinas Staatschef Xi,PER,0.0,0.0,de,2
+Alamara Djabi,Alamara Djabi,PER,-0.5,0.0,de,2
+Israel Katz,Israel Katz,PER,0.0,0.0,de,2
+Nayib Bukele,Nayib Bukele,PER,0.7,0.0,de,2
+Bettina Meier,Bettina Meier,PER,0.0,0.0,de,2
+Jan Marsalek,Jan Marsalek,PER,0.0,0.0,de,2
+José Luis Rodríguez Zapatero,José Luis Rodríguez Zapatero,PER,0.0,0.0,de,2
 Anna Osius,Anna Osius,PER,0.0,0.0,de,2
 Itamar Ben Gvir,Itamar Ben Gvir,PER,-0.35,0.0,de,2
-Joe Kaeser,Joe Kaeser,PER,0.0,0.0,de,2
-Franjo Pooth,Franjo Pooth,PER,0.0,0.0,de,2
-Recep Tayyip Erdogan,Recep Tayyip Erdogan,PER,-0.35,0.0,de,2
-US-Außenminister Rubio,US-Außenminister Rubio,PER,0.0,0.0,de,2
-Gerhard Conrad,Gerhard Conrad,PER,0.0,0.0,de,2
-Armin Laschet,Armin Laschet,PER,0.0,0.0,de,2
-Finanzminister Klingbeil,Finanzminister Klingbeil,PER,0.0,0.0,de,2
-Thorsten Frei,Thorsten Frei,PER,0.7,0.0,de,2
-Thaksin Shinawatra,Thaksin Shinawatra,PER,0.0,0.0,de,2
-CDU-Bundesvize Michael Kretschmer,CDU-Bundesvize Michael Kretschmer,PER,-0.35,0.0,de,2
-Peter Magyar,Peter Magyar,PER,0.25,0.25,de,2
-Jelina Switolina,Jelina Switolina,PER,-0.35,0.0,de,2
-Magyars Tisza,Magyars Tisza,PER,0.0,0.0,de,2
-Narges Mohammadi,Narges Mohammadi,PER,-0.35,0.0,de,2
-Vicente Fox Mexikos,Vicente Fox Mexikos,PER,0.0,0.0,de,2
-Giuseppe Pasini,Giuseppe Pasini,PER,0.35,0.0,de,2
-Martin Jäger,Martin Jäger,PER,0.7,0.0,de,2
-Mousa Hajuj,Mousa Hajuj,PER,0.0,0.0,de,2
-Christi Himmelfahrt,Christi Himmelfahrt,PER,0.5,0.0,de,2
+Israels Polizeiminister,Israels Polizeiminister,PER,0.0,0.0,de,2
+Todd Blanche,Todd Blanche,PER,0.0,0.0,de,2
+will Streit,will Streit,PER,0.0,0.0,de,2
+Mohammad Ghalibaf,Mohammad Ghalibaf,PER,0.0,0.0,de,2
+Philippa Vögeding,Philippa Vögeding,PER,-0.35,0.0,de,2
+Julia Stoschek,Julia Stoschek,PER,0.0,0.0,de,2
 Ursula von der Leyen,Ursula von der Leyen,PER,1.0,0.0,de,2
-Michael Wolffsohn,Michael Wolffsohn,PER,-0.15000000000000002,0.0,de,2
-Elad Carmel,Elad Carmel,PER,0.0,0.5,de,2
-Asiens Hormus-Krise,Asiens Hormus-Krise,PER,-0.85,0.0,de,2
 Frank Dikötter,Frank Dikötter,PER,1.0,0.0,de,2
 Hurrikan Melissa,Hurrikan Melissa,PER,0.0,0.0,de,2
 Mark Carney,Mark Carney,PER,0.35,0.0,de,2
-Senator de la Rosa,Senator de la Rosa,PER,0.0,0.0,de,2
 Taiwan pimpt,Taiwan pimpt,PER,0.0,0.0,de,2
-JD Vance,JD Vance,PER,0.5,0.0,de,2
-Jan-Christoph Kitzler,Jan-Christoph Kitzler,PER,0.0,0.0,de,2
-Mohammad Bagher Ghalibaf,Mohammad Bagher Ghalibaf,PER,0.0,0.5,de,2
-Eckert Ayensa,Eckert Ayensa,PER,0.0,0.0,de,2
-Kyriakos Mitsotakis,Kyriakos Mitsotakis,PER,0.0,0.0,de,2
-will Streit,will Streit,PER,0.0,0.0,de,2
-Fatih Birol,Fatih Birol,PER,0.575,0.0,de,2
-Bundestagsvizepräsident Ramelow,Bundestagsvizepräsident Ramelow,PER,0.0,0.0,de,2
-Teheran schön,Teheran schön,PER,1.0,0.0,de,2
-Israels Militärchef,Israels Militärchef,PER,0.0,0.0,de,2
-Li Qiang,Li Qiang,PER,0.0,0.0,de,2
-Mohammad Ghalibaf,Mohammad Ghalibaf,PER,0.0,0.0,de,2
-Wu Yize,Wu Yize,PER,0.0,0.0,de,2
+Finanzminister Klingbeil,Finanzminister Klingbeil,PER,0.0,0.0,de,2
+Asiens Hormus-Krise,Asiens Hormus-Krise,PER,-0.85,0.0,de,2
 Jair Lapid,Jair Lapid,PER,0.85,0.0,de,2
-Chinas PräsidentXi Jinping,Chinas PräsidentXi Jinping,PER,1.0,0.0,de,2
-Julia Stoschek,Julia Stoschek,PER,0.0,0.0,de,2
-CDU-Vize Silvia,CDU-Vize Silvia,PER,0.0,0.0,de,2
-Philippa Vögeding,Philippa Vögeding,PER,-0.35,0.0,de,2
-Oscar Schmidt,Oscar Schmidt,PER,0.0,0.0,de,2
+Don Trump,Don Trump,PER,0.0,0.0,de,2
+Gerhard Conrad,Gerhard Conrad,PER,0.0,0.0,de,2
+László Német SVD,László Német SVD,PER,0.0,0.0,de,2
+Ex-Präsident Raúl Castro,Ex-Präsident Raúl Castro,PER,0.7,0.0,de,2
 Michael Lotem,Michael Lotem,PER,0.0,0.0,de,2
-Misha Glenny,Misha Glenny,PER,0.35,0.0,de,2
-Shehbaz Sharif,Shehbaz Sharif,PER,-0.5,0.0,de,2
-Odd Arne Westad,Odd Arne Westad,PER,0.0,0.0,de,2
-Aliko Dangote,Aliko Dangote,PER,0.0,0.0,de,2
-Ex-Staatschef Radew,Ex-Staatschef Radew,PER,1.0,0.0,de,2
-Japans Ministerpräsidentin,Japans Ministerpräsidentin,PER,0.5,0.5,de,2
-Leonardo Genoni,Leonardo Genoni,PER,0.0,0.0,de,2
-Eva-Maria Michelmann,Eva-Maria Michelmann,PER,0.0,0.0,de,2
-Nvidia fahrerlose Autos,Nvidia fahrerlose Autos,PER,0.0,0.0,de,2
-Elon Musk,Elon Musk,PER,1.0,0.0,de,2
 Christian Ulmen,Christian Ulmen,PER,0.0,0.0,de,2
-Chinas Hegemonie,Chinas Hegemonie,PER,-0.7,0.0,de,2
-Christopher Clark,Christopher Clark,PER,0.6,0.0,de,2
-Anthony Randazzo,Anthony Randazzo,PER,0.0,0.0,de,2
-Ming Yang,Ming Yang,PER,0.0,0.0,de,2
-Schwarzmeerhalbinsel Krim,Schwarzmeerhalbinsel Krim,PER,-1.0,0.0,de,2
-Flor de Caña,Flor de Caña,PER,0.5,0.0,de,2
-Pedro Pinho,Pedro Pinho,PER,0.0,0.0,de,2
+Giuseppe Pasini,Giuseppe Pasini,PER,0.35,0.0,de,2
+Jelina Switolina,Jelina Switolina,PER,-0.35,0.0,de,2
+Jan-Christoph Kitzler,Jan-Christoph Kitzler,PER,0.0,0.0,de,2
+Oscar Schmidt,Oscar Schmidt,PER,0.0,0.0,de,2
+Teheran schön,Teheran schön,PER,1.0,0.0,de,2
+Li Qiang,Li Qiang,PER,0.0,0.0,de,2
+Joe Kaeser,Joe Kaeser,PER,0.0,0.0,de,2
 bin Salman,bin Salman,PER,0.0,0.0,de,2
-Karim Khan,Karim Khan,PER,0.425,0.0,de,2
+Israel-Korrespondentin Mareike Enghusen,Israel-Korrespondentin Mareike Enghusen,PER,0.0,0.0,de,2
+bestreikte Länderpavillons,bestreikte Länderpavillons,PER,0.0,0.0,de,2
+Péter Szijjártó,Péter Szijjártó,PER,0.35,0.5,de,2
+Kai Wegner,Kai Wegner,PER,-0.35,0.0,de,2
+Mohammed Resa Scheibani,Mohammed Resa Scheibani,PER,-0.35,0.0,de,2
+Michael Wolffsohn,Michael Wolffsohn,PER,-0.15000000000000002,0.0,de,2
+Mousa Hajuj,Mousa Hajuj,PER,0.0,0.0,de,2
+Existenz von Ölblockade,Existenz von Ölblockade,PER,0.11666666666666665,0.0,de,2
+Friedhelm Greis,Friedhelm Greis,PER,0.7,0.0,de,2
+Nikol Paschinjan,Nikol Paschinjan,PER,0.35,0.0,de,2
+Luis Díaz,Luis Díaz,PER,0.85,0.0,de,2
+Sanae Takaichi,Sanae Takaichi,PER,0.0,0.0,de,2
+Chinas Handelspraktiken,Chinas Handelspraktiken,PER,-0.7,0.0,de,2
+Karol Nawrocki,Karol Nawrocki,PER,0.35,0.0,de,2
+Marcus Bachmann,Marcus Bachmann,PER,0.15000000000000002,0.0,de,2
+Elad Carmel,Elad Carmel,PER,0.0,0.5,de,2
+Nvidia fahrerlose Autos,Nvidia fahrerlose Autos,PER,0.0,0.0,de,2
+Eva-Maria Michelmann,Eva-Maria Michelmann,PER,0.0,0.0,de,2
+Abbas Araghtschi,Abbas Araghtschi,PER,0.35,0.0,de,2
+Brooklyn Rivera,Brooklyn Rivera,PER,0.0,0.0,de,2
+Flor de Caña,Flor de Caña,PER,0.5,0.0,de,2
+Fatih Birol,Fatih Birol,PER,0.575,0.0,de,2
+Kash Patel,Kash Patel,PER,0.35,0.0,de,2
+Europas Badegewässer,Europas Badegewässer,PER,1.0,0.0,de,2
+Joseph Stalins,Joseph Stalins,PER,1.0,0.0,de,2
+US-Außenminister Rubio,US-Außenminister Rubio,PER,0.0,0.0,de,2
 Isaac Julien,Isaac Julien,PER,0.0,0.0,de,2
 Gian Lorenzo Cornado,Gian Lorenzo Cornado,PER,0.0,0.0,de,2
-Karol Nawrocki,Karol Nawrocki,PER,0.35,0.0,de,2
-Daniel Altmaier,Daniel Altmaier,PER,0.35,0.0,de,2
-Emil Berggreen,Emil Berggreen,PER,1.0,0.0,de,2
-Brooklyn Rivera,Brooklyn Rivera,PER,0.0,0.0,de,2
-Luis Díaz,Luis Díaz,PER,0.85,0.0,de,2
-Moritz Behrendt,Moritz Behrendt,PER,0.0,0.0,de,2
-Tom Göller,Tom Göller,PER,0.0,0.0,de,2
-Trumps Besu,Trumps Besu,PER,-0.5,0.0,de,2
-Startrainer José Mourinho,Startrainer José Mourinho,PER,1.0,0.0,de,2
-Chinas Börsen,Chinas Börsen,PER,0.0,0.0,de,2
-Basidsch-Kommandeur Soleimani,Basidsch-Kommandeur Soleimani,PER,0.7,0.0,de,2
-Eyal Weizman,Eyal Weizman,PER,-0.5,0.0,de,2
-Erdogans Kalkül,Erdogans Kalkül,PER,0.0,0.0,de,2
-Tino Chrupalla,Tino Chrupalla,PER,0.0,0.0,de,2
-Israels Armeechef,Israels Armeechef,PER,-0.7,0.0,de,2
-Bernd Baumann,Bernd Baumann,PER,0.0,0.0,de,2
-Leroy Sané,Leroy Sané,PER,0.0,0.0,de,2
-Aussie Ark,Aussie Ark,PER,0.9,0.0,de,2
-Johnny Depp,Johnny Depp,PER,-0.5,0.0,de,2
-Kylian Mbappé,Kylian Mbappé,PER,-0.425,0.0,de,2
-Oliver Soos,Oliver Soos,PER,0.0,0.0,de,2
-getöten Israeli,getöten Israeli,PER,-0.5,0.5,de,2
-Ilia II,Ilia II,PER,-0.5,0.0,de,2
-Steffen Seibert,Steffen Seibert,PER,0.27499999999999997,0.0,de,2
-Antonio Rüdiger,Antonio Rüdiger,PER,0.0,0.0,de,2
-Robert Fico,Robert Fico,PER,-0.5,0.0,de,2
-Falko Ernst,Falko Ernst,PER,-0.7749999999999999,0.0,de,2
-Israels Polizeiminister Ben-Gvir,Israels Polizeiminister Ben-Gvir,PER,0.0,0.0,de,2
+Japans Ministerpräsidentin,Japans Ministerpräsidentin,PER,0.5,0.5,de,2
 Ungarns Außenminister,Ungarns Außenminister,PER,0.17499999999999996,0.16666666666666666,de,2
-László Német SVD,László Német SVD,PER,0.0,0.0,de,2
-Mohammed Resa Scheibani,Mohammed Resa Scheibani,PER,-0.35,0.0,de,2
+Senator de la Rosa,Senator de la Rosa,PER,0.0,0.0,de,2
 Narendra Modi,Narendra Modi,PER,0.0,0.0,de,2
+Eyal Weizman,Eyal Weizman,PER,-0.5,0.0,de,2
+Thorsten Frei,Thorsten Frei,PER,0.7,0.0,de,2
+Aliko Dangote,Aliko Dangote,PER,0.0,0.0,de,2
+Kylian Mbappé,Kylian Mbappé,PER,-0.425,0.0,de,2
+Elon Musk,Elon Musk,PER,1.0,0.0,de,2
 Syriens Übergangspräsident,Syriens Übergangspräsident,PER,0.0,0.0,de,2
+Vicente Fox Mexikos,Vicente Fox Mexikos,PER,0.0,0.0,de,2
+Martin Jäger,Martin Jäger,PER,0.7,0.0,de,2
+Bundestagsvizepräsident Ramelow,Bundestagsvizepräsident Ramelow,PER,0.0,0.0,de,2
+Fidel Castro,Fidel Castro,PER,0.425,0.0,de,2
+Robert Fico,Robert Fico,PER,-0.5,0.0,de,2
+Wu Yize,Wu Yize,PER,0.0,0.0,de,2
+Narges Mohammadi,Narges Mohammadi,PER,-0.35,0.0,de,2
+Startrainer José Mourinho,Startrainer José Mourinho,PER,1.0,0.0,de,2
+Thaksin Shinawatra,Thaksin Shinawatra,PER,0.0,0.0,de,2
+Emil Berggreen,Emil Berggreen,PER,1.0,0.0,de,2
+Christi Himmelfahrt,Christi Himmelfahrt,PER,0.5,0.0,de,2
+Kyriakos Mitsotakis,Kyriakos Mitsotakis,PER,0.0,0.0,de,2
+Ming Yang,Ming Yang,PER,0.0,0.0,de,2
+Trump Fortschritte,Trump Fortschritte,PER,0.5,0.0,de,2
 Sicherheitsminister Ben-Gvir,Sicherheitsminister Ben-Gvir,PER,0.0,0.0,de,2
-John Bolton,John Bolton,PER,0.0,0.0,de,1
-Ben Gvir,Ben Gvir,PER,0.0,0.0,de,1
-Todd Bl,Todd Bl,PER,0.0,0.0,de,1
-Annalena Baerbock,Annalena Baerbock,PER,0.0,0.0,de,1
-Raúl Castros,Raúl Castros,PER,-1.0,0.0,de,1
-Mansour bin,Mansour bin,PER,0.0,0.0,de,1
-Michael Bublé,Michael Bublé,PER,0.85,0.0,de,1
-katy perry,katy perry,PER,0.0,0.0,de,1
-Michael Bu,Michael Bu,PER,0.0,0.0,de,1
-Sajed al-Nahjan,Sajed al-Nahjan,PER,0.0,0.0,de,1
-Mexikos Bildungsministerium,Mexikos Bildungsministerium,PER,0.0,0.0,de,1
-Mohammed bin Abdelrahman,Mohammed bin Abdelrahman,PER,0.0,0.0,de,1
-unbeladene Öltanker,unbeladene Öltanker,PER,0.7,0.0,de,1
-Stevan Paul,Stevan Paul,PER,0.0,0.0,de,1
-Wladimir Putins,Wladimir Putins,PER,0.0,0.0,de,1
-Netanjahu Stocker,Netanjahu Stocker,PER,0.0,0.0,de,1
-Angela Merkel,Angela Merkel,PER,0.0,0.0,de,1
-Günther Meier,Günther Meier,PER,0.0,0.0,de,1
-Klaus-Peter Willsch,Klaus-Peter Willsch,PER,1.0,0.0,de,1
-Moskaus Eingeständnis,Moskaus Eingeständnis,PER,-0.7,0.0,de,1
-Israel dulde,Israel dulde,PER,0.0,0.0,de,1
-Signal-Iduna-CEO Torsten,Signal-Iduna-CEO Torsten,PER,0.0,0.0,de,1
-"ARD-Doku ""Spielfeld","ARD-Doku ""Spielfeld",PER,0.0,0.0,de,1
-Kremlchef Wladimir Putin,Kremlchef Wladimir Putin,PER,0.0,0.0,de,1
-Aleksandar Vui,Aleksandar Vui,PER,0.0,0.0,de,1
-Alexi Lalas,Alexi Lalas,PER,0.0,0.0,de,1
-Wirecard-Chef Marsalek,Wirecard-Chef Marsalek,PER,0.0,0.0,de,1
-Flor de Caña,Flor de Caña,PER,1.0,0.0,de,1
-Gabi Biesinger,Gabi Biesinger,PER,0.0,0.0,de,1
-Vladimir Putin,Vladimir Putin,PER,0.0,0.0,de,1
-Egisto Ott Großes,Egisto Ott Großes,PER,0.7,0.0,de,1
-Baschar al-Assad,Baschar al-Assad,PER,0.0,0.0,de,1
-James Rodríguez,James Rodríguez,PER,0.7,0.0,de,1
-Atif Nadschib,Atif Nadschib,PER,0.0,0.0,de,1
-Premier Nikol Paschinjan,Premier Nikol Paschinjan,PER,-1.0,0.0,de,1
-Georg Kolbes,Georg Kolbes,PER,0.0,0.0,de,1
-Polizeiminister Ben-Gvir,Polizeiminister Ben-Gvir,PER,-1.0,0.0,de,1
-Saif Abu Keschek,Saif Abu Keschek,PER,0.0,0.0,de,1
-Benedikt XVI,Benedikt XVI,PER,0.0,0.0,de,1
-Johannes Paul II,Johannes Paul II,PER,0.0,0.0,de,1
-Niedersachsens Innenministe,Niedersachsens Innenministe,PER,0.0,0.0,de,1
-Itamar Ben-Gvir,Itamar Ben-Gvir,PER,0.35,0.5,de,1
-Hamsa Mustafa,Hamsa Mustafa,PER,0.0,0.0,de,1
-Chaled Saarur,Chaled Saarur,PER,0.0,0.0,de,1
-Alexander Botsan-Kharchenko,Alexander Botsan-Kharchenko,PER,0.0,0.0,de,1
-kraulen Esel-Hinterteile,kraulen Esel-Hinterteile,PER,0.0,0.0,de,1
-Israels Künstlerinitiativen,Israels Künstlerinitiativen,PER,0.0,0.0,de,1
-Moskaus Roten Platz,Moskaus Roten Platz,PER,0.0,0.0,de,1
-Wolodymyr Selenskyj Russlands,Wolodymyr Selenskyj Russlands,PER,0.7,0.0,de,1
-Chinas Dominanz,Chinas Dominanz,PER,0.0,0.0,de,1
-Giorgos Gerapetritis,Giorgos Gerapetritis,PER,0.0,0.0,de,1
-Samuel Alito,Samuel Alito,PER,0.0,0.0,de,1
-Jürgen Klinsmann,Jürgen Klinsmann,PER,0.0,0.0,de,1
-Luis Córdova-Alarcón,Luis Córdova-Alarcón,PER,0.0,0.0,de,1
-nan Österreichs Tischtennisnationalteam,nan Österreichs Tischtennisnationalteam,PER,0.0,0.0,de,1
-Israels Außenministerium,Israels Außenministerium,PER,0.0,0.0,de,1
-Steinmeier Staatsgäste,Steinmeier Staatsgäste,PER,0.0,0.0,de,1
-Leao boxt,Leao boxt,PER,-0.15000000000000002,0.0,de,1
-Jose Manuel Albares,Jose Manuel Albares,PER,0.0,0.0,de,1
-Alexander Blank,Alexander Blank,PER,-0.7,0.0,de,1
-Raphael Lemkin,Raphael Lemkin,PER,0.0,0.0,de,1
-Bernardo Raf,Bernardo Raf,PER,-0.5666666666666667,0.3333333333333333,de,1
-Maximilian Kastner,Maximilian Kastner,PER,0.0,0.0,de,1
-Österreichs Eishockeynationalteam,Österreichs Eishockeynationalteam,PER,0.0,0.0,de,1
-Daniel Noboa,Daniel Noboa,PER,0.0,0.0,de,1
-Polen-Premier Tusk,Polen-Premier Tusk,PER,0.0,0.0,de,1
-Trumps Triumphbogen,Trumps Triumphbogen,PER,0.10000000000000002,0.3333333333333333,de,1
-propalästinensischen Demonstrationen,propalästinensischen Demonstrationen,PER,-0.7,0.0,de,1
-Lennart Karl,Lennart Karl,PER,0.0,0.0,de,1
-Boris Pistorius ,Boris Pistorius ,PER,0.0,0.0,de,1
-Martin Schindler,Martin Schindler,PER,0.0,0.0,de,1
-Thomas Tuchel,Thomas Tuchel,PER,0.0,0.0,de,1
-Asim Munir,Asim Munir,PER,-0.7,0.0,de,1
-Fernando Clavijo,Fernando Clavijo,PER,0.7999999999999999,0.0,de,1
-Cristiano Ronaldo,Cristiano Ronaldo,PER,0.0,0.0,de,1
-Jean-Noel Bar,Jean-Noel Bar,PER,-0.7,0.0,de,1
-Japans Premierministerin,Japans Premierministerin,PER,0.0,0.0,de,1
-Moskaus Reaktion,Moskaus Reaktion,PER,0.0,0.0,de,1
-© Axel Springer Deu,© Axel Springer Deu,PER,0.0,0.0,de,1
-Japans Premierministerin Takaichi,Japans Premierministerin Takaichi,PER,0.0,0.0,de,1
-Hernán Cortés,Hernán Cortés,PER,0.0,0.0,de,1
-Mette Frederiksen,Mette Frederiksen,PER,0.0,0.0,de,1
-Pro Sieben,Pro Sieben,PER,0.0,0.0,de,1
-Trumps Pekingreise,Trumps Pekingreise,PER,0.0,0.0,de,1
-Hondius am Hantavirus,Hondius am Hantavirus,PER,-1.0,0.0,de,1
-Jordan Bardella,Jordan Bardella,PER,0.7,0.0,de,1
-Kilmar Ábrego Garcí,Kilmar Ábrego Garcí,PER,-0.15000000000000002,0.0,de,1
-Kilmar Ábrego García,Kilmar Ábrego García,PER,1.0,0.0,de,1
-Guglielmo Casalini,Guglielmo Casalini,PER,0.0,0.0,de,1
-Mini Cooper S Cabriolet,Mini Cooper S Cabriolet,PER,1.0,0.0,de,1
-Uli Hoeneß,Uli Hoeneß,PER,0.0,0.0,de,1
-Donald Trumps Regierungsantritt,Donald Trumps Regierungsantritt,PER,0.0,1.0,de,1
-Quanti cetrioli,Quanti cetrioli,PER,0.0,0.0,de,1
-Dick Advocaat,Dick Advocaat,PER,-0.7,0.0,de,1
-Chinese Wu Yize,Chinese Wu Yize,PER,0.0,0.0,de,1
-Zhao Xintong,Zhao Xintong,PER,0.0,0.0,de,1
-Anselmo Vicente,Anselmo Vicente,PER,0.0,0.0,de,1
-Vize-Kapitän Nicolas Capaldo,Vize-Kapitän Nicolas Capaldo,PER,0.0,0.0,de,1
-HSV-Star Capaldo,HSV-Star Capaldo,PER,0.0,0.0,de,1
-Isack Hadjar,Isack Hadjar,PER,0.0,0.0,de,1
-Eid al-Adha,Eid al-Adha,PER,0.0,0.0,de,1
-Chinas Außenamt,Chinas Außenamt,PER,-1.0,0.0,de,1
-Drag-Queen Gui,Drag-Queen Gui,PER,0.0,0.0,de,1
-Bildungsforscherin Nel,Bildungsforscherin Nel,PER,0.0,0.0,de,1
-Israels Mini,Israels Mini,PER,0.0,0.0,de,1
-Hendrik Wüst,Hendrik Wüst,PER,-1.0,0.0,de,1
-Kuba Militärdrohnen,Kuba Militärdrohnen,PER,-0.7,0.0,de,1
-Johan Eliasch,Johan Eliasch,PER,0.7,0.0,de,1
-Jonathan Guilherme,Jonathan Guilherme,PER,0.0,0.0,de,1
-Amerikas Glaubwürdigkeit,Amerikas Glaubwürdigkeit,PER,0.0,0.0,de,1
-Sardar Azmoun,Sardar Azmoun,PER,0.0,0.0,de,1
-Angeschlagener Superstar,Angeschlagener Superstar,PER,-0.7,0.0,de,1
-Dennis Eckert Ayensa,Dennis Eckert Ayensa,PER,0.0,0.0,de,1
-Mehdi Hasan,Mehdi Hasan,PER,0.85,0.0,de,1
-Israels Polizeiminister,Israels Polizeiminister,PER,0.0,0.0,de,1
-Ministerpräsidentin Giorgia Meloni,Ministerpräsidentin Giorgia Meloni,PER,0.0,0.0,de,1
-Charles Leclerc,Charles Leclerc,PER,0.0,0.0,de,1
-Nicolás Maduro,Nicolás Maduro,PER,0.15000000000000002,0.0,de,1
-Delcy Rodríguez,Delcy Rodríguez,PER,0.15000000000000002,0.0,de,1
-Alexandra Cpitnescu,Alexandra Cpitnescu,PER,0.0,0.0,de,1
-Anatoli Kolodkin,Anatoli Kolodkin,PER,0.0,0.0,de,1
-Bulgariens Dara,Bulgariens Dara,PER,0.0,0.0,de,1
-Axel Springer Deuts,Axel Springer Deuts,PER,0.0,0.0,de,1
-Chinas Pr,Chinas Pr,PER,0.7,0.0,de,1
-Metropolit Hilarion,Metropolit Hilarion,PER,0.0,0.0,de,1
-Michail Mischustin,Michail Mischustin,PER,0.0,0.0,de,1
-Anders Fogh Rasmussen,Anders Fogh Rasmussen,PER,-1.0,0.0,de,1
-Lionel Messi,Lionel Messi,PER,0.0,0.0,de,1
-Israels Finanzminister,Israels Finanzminister,PER,0.0,0.0,de,1
-Andrej Babis,Andrej Babis,PER,0.0,0.0,de,1
-Beduinendorf Chan al-Ahmar,Beduinendorf Chan al-Ahmar,PER,0.0,0.0,de,1
-Spaniens Jobwunder,Spaniens Jobwunder,PER,0.0,0.0,de,1
-Yoshimitsu Takahashi,Yoshimitsu Takahashi,PER,0.0,0.0,de,1
-ARD-Korrespondentin Diettrich,ARD-Korrespondentin Diettrich,PER,0.0,0.0,de,1
+Chinas Hegemonie,Chinas Hegemonie,PER,-0.7,0.0,de,2
+Moritz Behrendt,Moritz Behrendt,PER,0.0,0.0,de,2
+Recep Tayyip Erdogan,Recep Tayyip Erdogan,PER,-0.35,0.0,de,2
+Christos Mouzakitis,Christos Mouzakitis,PER,1.0,0.0,de,2
+Giannis Konstantelias,Giannis Konstantelias,PER,1.0,0.0,de,2
+Christopher Clark,Christopher Clark,PER,0.6,0.0,de,2
+Armin Laschet,Armin Laschet,PER,0.0,0.0,de,2
+Tom Göller,Tom Göller,PER,0.0,0.0,de,2
 geschlechtergetrennt baden,geschlechtergetrennt baden,PER,0.0,0.0,de,1
 Asian Katra,Asian Katra,PER,0.0,0.0,de,1
-Silke Diettrich,Silke Diettrich,PER,0.0,0.0,de,1
-Félix Auger-Aliassime,Félix Auger-Aliassime,PER,0.7,0.0,de,1
+Jeff Landrys,Jeff Landrys,PER,0.0,0.0,de,1
+Michael Shubitz,Michael Shubitz,PER,-1.0,0.0,de,1
+Wolfram Weimer,Wolfram Weimer,PER,0.0,0.0,de,1
+Grönland Kreide,Grönland Kreide,PER,0.0,0.0,de,1
+Chinas Xi,Chinas Xi,PER,0.0,0.0,de,1
+Maximilian Seib,Maximilian Seib,PER,0.0,0.0,de,1
+Reiseveranstalter Dertour,Reiseveranstalter Dertour,PER,0.0,0.0,de,1
+Beduinendorf Chan al-Ahmar,Beduinendorf Chan al-Ahmar,PER,0.0,0.0,de,1
+Zeljana Zovko,Zeljana Zovko,PER,0.7,0.0,de,1
+Henning Rath,Henning Rath,PER,0.0,0.0,de,1
+Angela Merke,Angela Merke,PER,0.0,0.0,de,1
+Spaniens Jobwunder,Spaniens Jobwunder,PER,0.0,0.0,de,1
+Israels Finanzminister,Israels Finanzminister,PER,0.0,0.0,de,1
+Ricardo Pascoe,Ricardo Pascoe,PER,-0.7,0.0,de,1
+Europas Wohlstand,Europas Wohlstand,PER,0.0,0.0,de,1
+Cem Özdemir,Cem Özdemir,PER,0.0,0.0,de,1
+Cem Özdemi,Cem Özdemi,PER,0.0,0.0,de,1
+King Charles,King Charles,PER,0.0,0.0,de,1
+Israels Premier,Israels Premier,PER,-0.7999999999999999,0.0,de,1
+Søren Torpegaard Lund,Søren Torpegaard Lund,PER,1.0,0.0,de,1
+Canis Lupus,Canis Lupus,PER,0.0,0.0,de,1
+Ex-Staatschef Raúl Castro,Ex-Staatschef Raúl Castro,PER,-1.0,0.0,de,1
+Delcy Rodríguez,Delcy Rodríguez,PER,0.15000000000000002,0.0,de,1
+Max Hermes,Max Hermes,PER,-0.7,0.0,de,1
+Alexandra Cpitnescu,Alexandra Cpitnescu,PER,0.0,0.0,de,1
+Max Herme,Max Herme,PER,-0.7,0.0,de,1
+Vicente de la O Levy,Vicente de la O Levy,PER,0.0,1.0,de,1
+Anti-israelischer Protest,Anti-israelischer Protest,PER,0.0,0.0,de,1
+Anatoli Kolodkin,Anatoli Kolodkin,PER,0.0,0.0,de,1
+Donald Trumps Wagenkolonne,Donald Trumps Wagenkolonne,PER,1.0,0.0,de,1
+Marta Kos,Marta Kos,PER,0.0,0.0,de,1
+Ex-Staatschef Castro,Ex-Staatschef Castro,PER,-0.15000000000000002,0.0,de,1
+Önce Ekmekl,Önce Ekmekl,PER,-1.0,0.0,de,1
+Bulgariens Dara,Bulgariens Dara,PER,0.0,0.0,de,1
+Mohammed Sinwar,Mohammed Sinwar,PER,0.0,0.0,de,1
+südeuropäischer Staaten,südeuropäischer Staaten,PER,0.0,0.0,de,1
+Nicholas Kristof,Nicholas Kristof,PER,0.0,0.0,de,1
+Christian Schmidts,Christian Schmidts,PER,0.0,1.0,de,1
+Abu-Bilal al-Minuki,Abu-Bilal al-Minuki,PER,-1.0,0.0,de,1
+Ministerpräsidentin Giorgia Meloni,Ministerpräsidentin Giorgia Meloni,PER,0.0,0.0,de,1
+Linda Lampenius & Pete,Linda Lampenius & Pete,PER,0.0,1.0,de,1
+Schmidts Rücktritt,Schmidts Rücktritt,PER,0.0,0.0,de,1
+Nicolás Maduro,Nicolás Maduro,PER,0.15000000000000002,0.0,de,1
+Oktay Akbal,Oktay Akbal,PER,-1.0,0.0,de,1
+US-Sondergesandter Landry,US-Sondergesandter Landry,PER,0.0,0.0,de,1
+Axel Springer Deuts,Axel Springer Deuts,PER,0.0,0.0,de,1
 Havanna g,Havanna g,PER,0.0,0.0,de,1
+Ofir Katz,Ofir Katz,PER,0.0,0.0,de,1
+Annemarie Jacir,Annemarie Jacir,PER,0.0,0.0,de,1
 Luka Vuskovic,Luka Vuskovic,PER,0.0,0.0,de,1
-Jannik Sinner,Jannik Sinner,PER,1.0,0.0,de,1
 Zlatko Dali,Zlatko Dali,PER,0.0,0.0,de,1
 Zlatko Dalić,Zlatko Dalić,PER,0.0,0.0,de,1
 Wolodimir Se,Wolodimir Se,PER,0.0,0.0,de,1
-Ex-Nato-Chef Rasmussen,Ex-Nato-Chef Rasmussen,PER,-0.7,0.0,de,1
-Felix Auger-Aliassime,Felix Auger-Aliassime,PER,0.0,0.0,de,1
 Krystof Zeman,Krystof Zeman,PER,0.0,0.0,de,1
-Mohammed Sinwar,Mohammed Sinwar,PER,0.0,0.0,de,1
-David Stockinger,David Stockinger,PER,0.0,0.0,de,1
-Dominik Hasek,Dominik Hasek,PER,0.7,0.0,de,1
-Max Herme,Max Herme,PER,-0.7,0.0,de,1
-Annemarie Jacir,Annemarie Jacir,PER,0.0,0.0,de,1
-Ofir Katz,Ofir Katz,PER,0.0,0.0,de,1
-Maximilian Seib,Maximilian Seib,PER,0.0,0.0,de,1
-Chinas Xi,Chinas Xi,PER,0.0,0.0,de,1
-Pedro Pinhos,Pedro Pinhos,PER,0.0,0.0,de,1
-Michael Eifert,Michael Eifert,PER,0.0,0.0,de,1
-Henning Rath,Henning Rath,PER,0.0,0.0,de,1
+Chinas Pr,Chinas Pr,PER,0.7,0.0,de,1
+Israels Mini,Israels Mini,PER,0.0,0.0,de,1
+Dennis Eckert Ayensa,Dennis Eckert Ayensa,PER,0.0,0.0,de,1
+Erdoğans Regime,Erdoğans Regime,PER,-1.0,0.0,de,1
+Hendrik Wüst,Hendrik Wüst,PER,-1.0,0.0,de,1
+Kuba Militärdrohnen,Kuba Militärdrohnen,PER,-0.7,0.0,de,1
+Chinas Autobauer,Chinas Autobauer,PER,1.0,0.0,de,1
+herzerweichenden Werbeclip,herzerweichenden Werbeclip,PER,-1.0,0.0,de,1
+Trumps Sondergesandter,Trumps Sondergesandter,PER,0.0,0.0,de,1
+Johan Eliasch,Johan Eliasch,PER,0.7,0.0,de,1
+Amerikas Glaubwürdigkeit,Amerikas Glaubwürdigkeit,PER,0.0,0.0,de,1
+Sardar Azmoun,Sardar Azmoun,PER,0.0,0.0,de,1
+Bildungsforscherin Nel,Bildungsforscherin Nel,PER,0.0,0.0,de,1
+Ben Gvir,Ben Gvir,PER,0.0,0.0,de,1
+Trumps Befugnisse,Trumps Befugnisse,PER,0.0,0.0,de,1
+Ibrahim Traoré,Ibrahim Traoré,PER,0.0,0.0,de,1
+Victoria Swarovski,Victoria Swarovski,PER,0.5,0.0,de,1
+Merz z,Merz z,PER,0.0,0.0,de,1
 Dmitri Biwol,Dmitri Biwol,PER,1.0,0.0,de,1
-Europas Wohlstand,Europas Wohlstand,PER,0.0,0.0,de,1
+Jordaniens Luftraum,Jordaniens Luftraum,PER,-0.3333333333333333,0.0,de,1
+Michael Eifert,Michael Eifert,PER,0.0,0.0,de,1
+Alexander Dobrindt,Alexander Dobrindt,PER,0.0,0.0,de,1
+Bernardo Raf,Bernardo Raf,PER,-0.5666666666666667,0.3333333333333333,de,1
+Pedro Pinhos,Pedro Pinhos,PER,0.0,0.0,de,1
+Chinas Außenhandel,Chinas Außenhandel,PER,0.7,0.0,de,1
+Lassi Heininen,Lassi Heininen,PER,0.0,0.0,de,1
+Magnifica humanitas,Magnifica humanitas,PER,0.0,0.0,de,1
+Xi jingping,Xi jingping,PER,0.0,0.0,de,1
+Joachim Dolezik,Joachim Dolezik,PER,0.5,0.0,de,1
+Kim Jong-un,Kim Jong-un,PER,0.7,0.0,de,1
+Burkina Fasos,Burkina Fasos,PER,-0.35,0.5,de,1
+Israels Außenminister,Israels Außenminister,PER,0.0,0.0,de,1
+John Miller,John Miller,PER,0.0,0.0,de,1
+Nina Beier,Nina Beier,PER,0.0,0.0,de,1
+Svend Wiig Hansen,Svend Wiig Hansen,PER,0.0,0.0,de,1
+Jan Philipp Burga,Jan Philipp Burga,PER,0.0,0.0,de,1
+Matthias Platzeck,Matthias Platzeck,PER,0.0,0.0,de,1
+Chinas Botschafter,Chinas Botschafter,PER,0.0,0.0,de,1
+Dominik Hasek,Dominik Hasek,PER,0.7,0.0,de,1
+David Stockinger,David Stockinger,PER,0.0,0.0,de,1
+Lennart Karl,Lennart Karl,PER,0.0,0.0,de,1
+Mehdi Hasan,Mehdi Hasan,PER,0.85,0.0,de,1
+Deutschlands Handballer,Deutschlands Handballer,PER,1.0,0.0,de,1
+Jonathan Guilherme,Jonathan Guilherme,PER,0.0,0.0,de,1
+Drag-Queen Gui,Drag-Queen Gui,PER,0.0,0.0,de,1
+Eid al-Adha,Eid al-Adha,PER,0.0,0.0,de,1
+Raphael Lemkin,Raphael Lemkin,PER,0.0,0.0,de,1
+Leao boxt,Leao boxt,PER,-0.15000000000000002,0.0,de,1
+Jürgen Klinsmann,Jürgen Klinsmann,PER,0.0,0.0,de,1
+Kai Havertz,Kai Havertz,PER,0.0,0.0,de,1
+© Axel Springer Deu,© Axel Springer Deu,PER,0.0,0.0,de,1
+Moskaus Reaktion,Moskaus Reaktion,PER,0.0,0.0,de,1
+Wolodymyr Selenskyj Russlands,Wolodymyr Selenskyj Russlands,PER,0.7,0.0,de,1
+Jordan Bardella,Jordan Bardella,PER,0.7,0.0,de,1
+Ex-Frankfurter Jović,Ex-Frankfurter Jović,PER,0.0,0.0,de,1
+Klaus-Peter Willsch,Klaus-Peter Willsch,PER,1.0,0.0,de,1
+Wladimir Putins,Wladimir Putins,PER,0.0,0.0,de,1
+Sajed al-Nahjan,Sajed al-Nahjan,PER,0.0,0.0,de,1
+Mansour bin,Mansour bin,PER,0.0,0.0,de,1
+Péter Magyars,Péter Magyars,PER,0.7,0.0,de,1
+Annalena Baerbock,Annalena Baerbock,PER,0.0,0.0,de,1
+Guglielmo Casalini,Guglielmo Casalini,PER,0.0,0.0,de,1
+Ramin Sina,Ramin Sina,PER,0.0,0.0,de,1
+Todd Bl,Todd Bl,PER,0.0,0.0,de,1
+Signal-Iduna-CEO Torsten,Signal-Iduna-CEO Torsten,PER,0.0,0.0,de,1
+Quanti cetrioli,Quanti cetrioli,PER,0.0,0.0,de,1
+"ARD-Doku ""Spielfeld","ARD-Doku ""Spielfeld",PER,0.0,0.0,de,1
+kraulen Esel-Hinterteile,kraulen Esel-Hinterteile,PER,0.0,0.0,de,1
+Dick Advocaat,Dick Advocaat,PER,-0.7,0.0,de,1
+Alexander Beglow,Alexander Beglow,PER,0.0,0.0,de,1
+Ajatollah Ali Chamenei,Ajatollah Ali Chamenei,PER,0.0,1.0,de,1
+Georg Kolbes,Georg Kolbes,PER,0.0,0.0,de,1
+Premier Nikol Paschinjan,Premier Nikol Paschinjan,PER,-1.0,0.0,de,1
+Sicherheitsexpertin Lesia Ogryzko,Sicherheitsexpertin Lesia Ogryzko,PER,0.0,0.0,de,1
+James Rodríguez,James Rodríguez,PER,0.7,0.0,de,1
+Cristiano Ronaldo,Cristiano Ronaldo,PER,0.0,0.0,de,1
+Flor de Caña,Flor de Caña,PER,1.0,0.0,de,1
+Thomas Tuchel,Thomas Tuchel,PER,0.0,0.0,de,1
+Anselmo Vicente,Anselmo Vicente,PER,0.0,0.0,de,1
+Metropolit Hilarion,Metropolit Hilarion,PER,0.0,0.0,de,1
+Michail Mischustin,Michail Mischustin,PER,0.0,0.0,de,1
+Katherina Reiche,Katherina Reiche,PER,0.7,0.0,de,1
+Trumps Pekingreise,Trumps Pekingreise,PER,0.0,0.0,de,1
+Kilmar Ábrego Garcí,Kilmar Ábrego Garcí,PER,-0.15000000000000002,0.0,de,1
+Kilmar Ábrego García,Kilmar Ábrego García,PER,1.0,0.0,de,1
+James Boyard,James Boyard,PER,0.0,0.0,de,1
+Német von Belgrad,Német von Belgrad,PER,0.0,0.0,de,1
+Trumps Triumphbogen,Trumps Triumphbogen,PER,0.10000000000000002,0.3333333333333333,de,1
+Daniel Noboa,Daniel Noboa,PER,0.0,0.0,de,1
+Luis Córdova-Alarcón,Luis Córdova-Alarcón,PER,0.0,0.0,de,1
+Asim Munir,Asim Munir,PER,-0.7,0.0,de,1
+Nestory Irankunda,Nestory Irankunda,PER,1.0,0.0,de,1
+Grönlands Eis,Grönlands Eis,PER,0.0,0.0,de,1
+Israels Schlag,Israels Schlag,PER,0.0,0.0,de,1
+Abbas Yalcin,Abbas Yalcin,PER,0.0,0.0,de,1
+Alican Uluda,Alican Uluda,PER,0.0,0.0,de,1
+Alican Uludağ,Alican Uludağ,PER,0.0,0.0,de,1
+Schalkes Soufiane,Schalkes Soufiane,PER,0.0,0.0,de,1
+Israel dulde,Israel dulde,PER,0.0,0.0,de,1
+Polizeiminister Ben-Gvir,Polizeiminister Ben-Gvir,PER,-1.0,0.0,de,1
+Egisto Ott Großes,Egisto Ott Großes,PER,0.7,0.0,de,1
+Vladimir Putin,Vladimir Putin,PER,0.0,0.0,de,1
+Jennifer Rauchet,Jennifer Rauchet,PER,0.7,0.0,de,1
+Luca Manns,Luca Manns,PER,-0.7,0.0,de,1
+essentiellem Ausmaß,essentiellem Ausmaß,PER,0.0,0.0,de,1
+Matthias Ginter,Matthias Ginter,PER,0.7,0.0,de,1
+Gabi Biesinger,Gabi Biesinger,PER,0.0,0.0,de,1
+Morgan Rogers,Morgan Rogers,PER,0.0,0.0,de,1
+Emiliano Buendía,Emiliano Buendía,PER,0.0,0.0,de,1
+Youri Tielemans,Youri Tielemans,PER,0.0,0.0,de,1
+Wirecard-Chef Marsalek,Wirecard-Chef Marsalek,PER,0.0,0.0,de,1
+Gaza-Aktivisten Welle,Gaza-Aktivisten Welle,PER,0.0,0.0,de,1
+Schwarzmeer-Metropole Noworossijsk,Schwarzmeer-Metropole Noworossijsk,PER,0.7,0.0,de,1
+Mette Frederiksen,Mette Frederiksen,PER,0.0,0.0,de,1
+Felix Auger-Aliassime,Felix Auger-Aliassime,PER,0.0,0.0,de,1
+Pro Sieben,Pro Sieben,PER,0.0,0.0,de,1
+Jannik Sinner,Jannik Sinner,PER,1.0,0.0,de,1
+Félix Auger-Aliassime,Félix Auger-Aliassime,PER,0.7,0.0,de,1
+Silke Diettrich,Silke Diettrich,PER,0.0,0.0,de,1
+ARD-Korrespondentin Diettrich,ARD-Korrespondentin Diettrich,PER,0.0,0.0,de,1
+Yoshimitsu Takahashi,Yoshimitsu Takahashi,PER,0.0,0.0,de,1
+Andrej Babis,Andrej Babis,PER,0.0,0.0,de,1
+Lionel Messi,Lionel Messi,PER,0.0,0.0,de,1
+HSV-Star Capaldo,HSV-Star Capaldo,PER,0.0,0.0,de,1
+Angeschlagener Superstar,Angeschlagener Superstar,PER,-0.7,0.0,de,1
+Alfred Gislason,Alfred Gislason,PER,0.0,0.0,de,1
+John Bolton,John Bolton,PER,0.0,0.0,de,1
+Anders Fogh Rasmussen,Anders Fogh Rasmussen,PER,-1.0,0.0,de,1
+Ex-Nato-Chef Rasmussen,Ex-Nato-Chef Rasmussen,PER,-0.7,0.0,de,1
+Tedros Adhanom Ghebrey,Tedros Adhanom Ghebrey,PER,0.0,0.0,de,1
+Chinas Außenamt,Chinas Außenamt,PER,-1.0,0.0,de,1
+Isack Hadjar,Isack Hadjar,PER,0.0,0.0,de,1
+Charles Leclerc,Charles Leclerc,PER,0.0,0.0,de,1
+Martin Schindler,Martin Schindler,PER,0.0,0.0,de,1
+Ricardo Pietreczko,Ricardo Pietreczko,PER,0.0,0.0,de,1
+Janez Janša,Janez Janša,PER,0.0,0.0,de,1
+Niklas Ahrens,Niklas Ahrens,PER,0.0,0.0,de,1
 gewaltvollen Protesten,gewaltvollen Protesten,PER,0.0,0.3333333333333333,de,1
 BSW-Gründerin Sahra Wagenknecht,BSW-Gründerin Sahra Wagenknecht,PER,0.0,0.0,de,1
-King Charles,King Charles,PER,0.0,0.0,de,1
-Cem Özdemi,Cem Özdemi,PER,0.0,0.0,de,1
-Cem Özdemir,Cem Özdemir,PER,0.0,0.0,de,1
-Merz z,Merz z,PER,0.0,0.0,de,1
-Kai Havertz,Kai Havertz,PER,0.0,0.0,de,1
-Michael Shubitz,Michael Shubitz,PER,-1.0,0.0,de,1
-Reiseveranstalter Dertour,Reiseveranstalter Dertour,PER,0.0,0.0,de,1
+Ebola-Ausbruch bedoht,Ebola-Ausbruch bedoht,PER,0.0,0.0,de,1
 Uwe Sander,Uwe Sander,PER,0.7,0.0,de,1
-Ricardo Pascoe,Ricardo Pascoe,PER,-0.7,0.0,de,1
 Nesrin Zeaiter,Nesrin Zeaiter,PER,0.7,0.0,de,1
-Német von Belgrad,Német von Belgrad,PER,0.0,0.0,de,1
-Vicente de la O Levy,Vicente de la O Levy,PER,0.0,1.0,de,1
-Trumps Befugnisse,Trumps Befugnisse,PER,0.0,0.0,de,1
-Magnifica humanitas,Magnifica humanitas,PER,0.0,0.0,de,1
-Chinas Botschafter,Chinas Botschafter,PER,0.0,0.0,de,1
-Matthias Platzeck,Matthias Platzeck,PER,0.0,0.0,de,1
-Nicholas Kristof,Nicholas Kristof,PER,0.0,0.0,de,1
-Jan Philipp Burga,Jan Philipp Burga,PER,0.0,0.0,de,1
-Christian Schmidts,Christian Schmidts,PER,0.0,1.0,de,1
-Schmidts Rücktritt,Schmidts Rücktritt,PER,0.0,0.0,de,1
-Søren Torpegaard Lund,Søren Torpegaard Lund,PER,1.0,0.0,de,1
-Linda Lampenius & Pete,Linda Lampenius & Pete,PER,0.0,1.0,de,1
-Abu-Bilal al-Minuki,Abu-Bilal al-Minuki,PER,-1.0,0.0,de,1
-Israels Außenminister,Israels Außenminister,PER,0.0,0.0,de,1
-Svend Wiig Hansen,Svend Wiig Hansen,PER,0.0,0.0,de,1
-Ex-Staatschef Castro,Ex-Staatschef Castro,PER,-0.15000000000000002,0.0,de,1
-Nina Beier,Nina Beier,PER,0.0,0.0,de,1
-John Miller,John Miller,PER,0.0,0.0,de,1
-Burkina Fasos,Burkina Fasos,PER,-0.35,0.5,de,1
-Ex-Staatschef Raúl Castro,Ex-Staatschef Raúl Castro,PER,-1.0,0.0,de,1
-Ibrahim Traoré,Ibrahim Traoré,PER,0.0,0.0,de,1
-Joachim Dolezik,Joachim Dolezik,PER,0.5,0.0,de,1
-Niklas Ahrens,Niklas Ahrens,PER,0.0,0.0,de,1
-Gaza-Aktivisten Welle,Gaza-Aktivisten Welle,PER,0.0,0.0,de,1
-Donald Trumps Wagenkolonne,Donald Trumps Wagenkolonne,PER,1.0,0.0,de,1
-Max Hermes,Max Hermes,PER,-0.7,0.0,de,1
-Roberta Metsola,Roberta Metsola,PER,0.0,0.0,de,1
-Cártel de Jalisco Nueva Generación,Cártel de Jalisco Nueva Generación,PER,-0.85,0.0,de,1
-Merz Neuausrichtung,Merz Neuausrichtung,PER,0.0,0.0,de,1
-Christina Nagel,Christina Nagel,PER,0.0,0.0,de,1
-Trump pestet,Trump pestet,PER,-1.0,0.0,de,1
-Friedrich Merz Syriens,Friedrich Merz Syriens,PER,0.0,0.0,de,1
-KI-Oma Hilde,KI-Oma Hilde,PER,0.0,0.0,de,1
-Syriens Übergangspräsident Ahmed al-Scharaa,Syriens Übergangspräsident Ahmed al-Scharaa,PER,0.0,0.0,de,1
-Trans Rechte,Trans Rechte,PER,0.0,0.0,de,1
-Margarita Robles,Margarita Robles,PER,0.09999999999999998,0.0,de,1
-nan Pakistan,nan Pakistan,PER,0.0,0.0,de,1
-Trumps Deals,Trumps Deals,PER,0.0,0.0,de,1
-Friedrich Me,Friedrich Me,PER,0.0,0.0,de,1
-Friedrich Mer,Friedrich Mer,PER,0.0,0.0,de,1
-Silvio Berlusconi,Silvio Berlusconi,PER,0.0,0.0,de,1
-Jürgen Czernohorszky,Jürgen Czernohorszky,PER,0.0,1.0,de,1
-Christian Wagner,Christian Wagner,PER,0.0,0.0,de,1
-Polens rechtspopulistische,Polens rechtspopulistische,PER,0.0,0.0,de,1
-Magen David Adom,Magen David Adom,PER,0.0,0.0,de,1
-Chen Zhi,Chen Zhi,PER,0.0,0.0,de,1
-Ex-Stürmer Berggreen,Ex-Stürmer Berggreen,PER,0.0,0.0,de,1
-Kamal Aljafari,Kamal Aljafari,PER,0.0,0.0,de,1
-Syriens Wiederaufbau,Syriens Wiederaufbau,PER,0.0,0.0,de,1
-Oppositionelle Reza Pahlavi,Oppositionelle Reza Pahlavi,PER,-0.7,0.0,de,1
-Zhanna Kadyrova,Zhanna Kadyrova,PER,0.0,0.0,de,1
-Gustav Theile,Gustav Theile,PER,0.0,0.0,de,1
-Andreas Landwehr,Andreas Landwehr,PER,0.0,0.0,de,1
-Iran auffälllig,Iran auffälllig,PER,0.0,0.0,de,1
-Geopolitik-Experte Klemens Fischer,Geopolitik-Experte Klemens Fischer,PER,0.0,0.0,de,1
-Josef Mengele,Josef Mengele,PER,0.0,0.0,de,1
-Stephan Ueberbach,Stephan Ueberbach,PER,0.0,0.0,de,1
-Simbabwes Regierungspartei,Simbabwes Regierungspartei,PER,0.0,0.0,de,1
-Biene Maja,Biene Maja,PER,0.7,0.0,de,1
-Reformdebatte Bedenkenträger,Reformdebatte Bedenkenträger,PER,0.0,0.0,de,1
-Sari Bashi,Sari Bashi,PER,-1.0,0.0,de,1
-Außenminister Wadephul,Außenminister Wadephul,PER,0.0,0.0,de,1
-Bab al-Mandab,Bab al-Mandab,PER,0.0,0.0,de,1
-Berlins Regierender,Berlins Regierender,PER,0.0,0.0,de,1
-Manfred Schäfers,Manfred Schäfers,PER,1.0,0.0,de,1
-Cochemer Reichsburg,Cochemer Reichsburg,PER,0.0,0.0,de,1
-Katy Berzins,Katy Berzins,PER,0.0,0.0,de,1
-Nato-Generalsekretär Mark Rutte,Nato-Generalsekretär Mark Rutte,PER,-0.35,0.0,de,1
+Alexi Lalas,Alexi Lalas,PER,0.0,0.0,de,1
+Israels Polizeiminister Ben‑Gvir,Israels Polizeiminister Ben‑Gvir,PER,0.0,0.0,de,1
+Raúl Castros,Raúl Castros,PER,-1.0,0.0,de,1
+Vize-Kapitän Nicolas Capaldo,Vize-Kapitän Nicolas Capaldo,PER,0.0,0.0,de,1
+Orbáns Umfeld,Orbáns Umfeld,PER,0.0,0.0,de,1
+Jean-Noel Bar,Jean-Noel Bar,PER,-0.7,0.0,de,1
+Heil Hitler,Heil Hitler,PER,0.7,0.0,de,1
 Brad Smith,Brad Smith,PER,-0.7,0.0,de,1
+Nato-Generalsekretär Mark Rutte,Nato-Generalsekretär Mark Rutte,PER,-0.35,0.0,de,1
+Katy Berzins,Katy Berzins,PER,0.0,0.0,de,1
+Cochemer Reichsburg,Cochemer Reichsburg,PER,0.0,0.0,de,1
+Manfred Schäfers,Manfred Schäfers,PER,1.0,0.0,de,1
+Kanye West,Kanye West,PER,0.7,0.0,de,1
+Trumps Iran-Feldzug,Trumps Iran-Feldzug,PER,0.0,0.0,de,1
+Survivor Evader,Survivor Evader,PER,0.0,0.0,de,1
+Donald Trumps Iran-Feldzug,Donald Trumps Iran-Feldzug,PER,0.7,0.0,de,1
+Donald Trump dam,Donald Trump dam,PER,0.0,0.0,de,1
+Oscar-Preisträger Coppola,Oscar-Preisträger Coppola,PER,1.0,0.0,de,1
+Netanjahus Büro,Netanjahus Büro,PER,0.0,0.0,de,1
+Waffenruhe-Einigung von,Waffenruhe-Einigung von,PER,0.0,0.0,de,1
+Rik De Lisle,Rik De Lisle,PER,0.0,0.0,de,1
 Frau Rudyak,Frau Rudyak,PER,0.0,0.0,de,1
 Marina Rudyak,Marina Rudyak,PER,0.0,0.0,de,1
 Richard B,Richard B,PER,0.0,0.0,de,1
@@ -491,167 +466,32 @@ Korruptionsfachmann Ligeti,Korruptionsfachmann Ligeti,PER,0.0,0.0,de,1
 Krypto-Startup Deblock,Krypto-Startup Deblock,PER,-0.15000000000000002,0.0,de,1
 Deutschland-Chef Wild,Deutschland-Chef Wild,PER,-0.15000000000000002,0.0,de,1
 Polens Ekstraklasa,Polens Ekstraklasa,PER,0.0,0.0,de,1
+Berlins Regierender,Berlins Regierender,PER,0.0,0.0,de,1
 Daniel Thym,Daniel Thym,PER,0.0,1.0,de,1
-Deniz Undav,Deniz Undav,PER,0.0,0.0,de,1
 Alexander Grey,Alexander Grey,PER,0.0,0.0,de,1
 Peter Szijjarto,Peter Szijjarto,PER,0.3499999999999999,0.3333333333333333,de,1
 Al Jazeera,Al Jazeera,PER,0.0,0.0,de,1
 EU-Ratspräsident Costa,EU-Ratspräsident Costa,PER,0.5,0.5,de,1
 Premier Keir Starmer,Premier Keir Starmer,PER,0.0,0.0,de,1
 Miliz Hisbollah,Miliz Hisbollah,PER,0.7,0.0,de,1
-Adolf Eichmann,Adolf Eichmann,PER,-1.0,0.0,de,1
-Netanjahus Koalitionspartner,Netanjahus Koalitionspartner,PER,0.0,0.0,de,1
-Tim Reinboth,Tim Reinboth,PER,0.7,0.0,de,1
-Israel veröffe,Israel veröffe,PER,0.0,0.0,de,1
-Pierre Schill,Pierre Schill,PER,0.0,0.0,de,1
-Generalstabschef Schill,Generalstabschef Schill,PER,0.0,0.0,de,1
-Clemens Verenkotte,Clemens Verenkotte,PER,0.0,0.0,de,1
-Netanjahu ‌will,Netanjahu ‌will,PER,0.7,0.0,de,1
-Eid al-Fitr,Eid al-Fitr,PER,-0.7,0.0,de,1
-Quentin Pehlke,Quentin Pehlke,PER,0.0,0.0,de,1
-Eva Maria Michelmann,Eva Maria Michelmann,PER,0.0,0.0,de,1
-Frankreichs Arbeitgeberchef Patrick Martin,Frankreichs Arbeitgeberchef Patrick Martin,PER,-0.7,0.0,de,1
-Sinan Selen,Sinan Selen,PER,0.0,0.0,de,1
-Chuck Norris,Chuck Norris,PER,0.0,0.0,de,1
-Christina Larson,Christina Larson,PER,0.0,1.0,de,1
-Ministerpräsidentin Sanae Takaichi,Ministerpräsidentin Sanae Takaichi,PER,0.0,0.0,de,1
-Frederik von Dänemark,Frederik von Dänemark,PER,0.7,0.0,de,1
-Márton Gergely,Márton Gergely,PER,0.7,0.0,de,1
-Israels Luftabwehr,Israels Luftabwehr,PER,0.0,0.0,de,1
-Johanna Westermann,Johanna Westermann,PER,0.0,0.0,de,1
-Janez Janša,Janez Janša,PER,0.0,0.0,de,1
-Orban-Freund Janša,Orban-Freund Janša,PER,0.0,0.0,de,1
-Deutschlands Botschafter,Deutschlands Botschafter,PER,-1.0,0.0,de,1
-Regierungschef Golob,Regierungschef Golob,PER,0.7,0.0,de,1
-Trumps Ultimatum,Trumps Ultimatum,PER,0.0,0.0,de,1
-Trumps Ultimatum“,Trumps Ultimatum“,PER,0.0,0.0,de,1
-Verfassungsschutzpräsident Sinan Selen,Verfassungsschutzpräsident Sinan Selen,PER,-0.35,0.5,de,1
-Eyal Zamir,Eyal Zamir,PER,-1.0,0.0,de,1
-Amazon Alexa+,Amazon Alexa+,PER,0.0,0.0,de,1
-Anutin Charnvirakul,Anutin Charnvirakul,PER,0.0,0.0,de,1
-Manuel Hagel,Manuel Hagel,PER,0.0,0.0,de,1
-Corinna Emundts,Corinna Emundts,PER,0.0,0.0,de,1
-FOCUS-online-Geopolitikexperte Klemens Fischer,FOCUS-online-Geopolitikexperte Klemens Fischer,PER,0.0,0.0,de,1
-Jensen Huang,Jensen Huang,PER,0.0,0.0,de,1
-Nvidias H200,Nvidias H200,PER,0.0,0.0,de,1
-Olivér Várhelyi,Olivér Várhelyi,PER,0.0,0.0,de,1
-Kjetil Knutsen,Kjetil Knutsen,PER,0.7,0.0,de,1
-Janis Blaswich,Janis Blaswich,PER,0.0,0.0,de,1
-Leverkusens Torhüter,Leverkusens Torhüter,PER,0.7,0.0,de,1
-Manfred Weber,Manfred Weber,PER,-1.0,0.0,de,1
-Britta Pedersen,Britta Pedersen,PER,0.0,0.0,de,1
-Venezuelas Hal,Venezuelas Hal,PER,0.0,0.0,de,1
-Trumps Kurs,Trumps Kurs,PER,0.0,0.0,de,1
-Sloweniens liberaler,Sloweniens liberaler,PER,0.0,0.0,de,1
-Golobs Freiheits,Golobs Freiheits,PER,0.0,0.0,de,1
-Tucker Carlson,Tucker Carlson,PER,0.0,0.0,de,1
-Jimmy Lai,Jimmy Lai,PER,0.0,0.0,de,1
-Roberta Löhndorf,Roberta Löhndorf,PER,0.0,0.0,de,1
-Jagielloni-Talent Mazurek,Jagielloni-Talent Mazurek,PER,0.0,0.0,de,1
-Carlos Gandini,Carlos Gandini,PER,0.7,0.0,de,1
-Ming Yang Smart Energy,Ming Yang Smart Energy,PER,0.7,0.0,de,1
-Hollywoodstar Brad Pitt,Hollywoodstar Brad Pitt,PER,0.0,0.0,de,1
-Markus Kamieth,Markus Kamieth,PER,-1.0,0.0,de,1
-Olafur Einarsson,Olafur Einarsson,PER,0.0,0.0,de,1
-Europas Raumfahrtindustrie,Europas Raumfahrtindustrie,PER,1.0,0.0,de,1
-Anna Heisers,Anna Heisers,PER,0.0,0.0,de,1
-César Zeoula,César Zeoula,PER,0.0,0.0,de,1
-Mini-Inselgruppe Neukaledonien,Mini-Inselgruppe Neukaledonien,PER,0.0,0.0,de,1
-Achim Sawall,Achim Sawall,PER,0.7,0.0,de,1
-Arnaud Deslandes,Arnaud Deslandes,PER,0.0,0.0,de,1
-Ostafrika erle,Ostafrika erle,PER,0.0,0.0,de,1
-Georgi Mkrtschjan,Georgi Mkrtschjan,PER,0.7,0.0,de,1
-Mike Huckabee,Mike Huckabee,PER,0.0,0.0,de,1
-Holger Münch,Holger Münch,PER,-0.7,0.0,de,1
-Elon Musks,Elon Musks,PER,0.0,0.0,de,1
-Christian Kümmel,Christian Kümmel,PER,0.0,0.0,de,1
-Haushaltswaren-Discounter Kik,Haushaltswaren-Discounter Kik,PER,0.0,0.0,de,1
-Interconti Kabul,Interconti Kabul,PER,0.0,0.0,de,1
-Lee Jae-myung,Lee Jae-myung,PER,0.0,0.0,de,1
-Liveblog Südkoreas,Liveblog Südkoreas,PER,0.0,0.0,de,1
-Georg Maier,Georg Maier,PER,0.0,0.0,de,1
-Israels Luftwaffe,Israels Luftwaffe,PER,0.0,0.0,de,1
-Mario Basler,Mario Basler,PER,0.0,0.0,de,1
-Mario Voigt,Mario Voigt,PER,0.0,0.0,de,1
-Thüringens Außenhandel,Thüringens Außenhandel,PER,0.0,0.0,de,1
-Joshua Sukoff,Joshua Sukoff,PER,0.0,0.0,de,1
-Hussein H,Hussein H,PER,-0.7,0.0,de,1
-Kanye West,Kanye West,PER,0.7,0.0,de,1
-Heil Hitler,Heil Hitler,PER,0.7,0.0,de,1
-Trumps Iran-Feldzug,Trumps Iran-Feldzug,PER,0.0,0.0,de,1
-Ungarns Noch-Premier Orban,Ungarns Noch-Premier Orban,PER,0.0,0.0,de,1
-Ex-Präsident Duterte,Ex-Präsident Duterte,PER,0.0,0.0,de,1
-Rodrigo Duterte,Rodrigo Duterte,PER,0.0,0.0,de,1
-Wladimir Plahotniuc,Wladimir Plahotniuc,PER,0.7,0.0,de,1
-Christiane Benner,Christiane Benner,PER,-0.7,0.0,de,1
-Galileo Galilei,Galileo Galilei,PER,0.0,0.0,de,1
-Leonardo da Vinci,Leonardo da Vinci,PER,0.0,0.0,de,1
-Ex-Siemens-CEO Kaeser,Ex-Siemens-CEO Kaeser,PER,-0.7,0.0,de,1
-Donald Trumps Iran-Feldzug,Donald Trumps Iran-Feldzug,PER,0.7,0.0,de,1
-Fragile Waffenruhe,Fragile Waffenruhe,PER,0.0,0.0,de,1
-Alex Karp,Alex Karp,PER,0.0,0.0,de,1
-Claudia Zettel,Claudia Zettel,PER,0.7,0.0,de,1
-Abu Dh,Abu Dh,PER,0.0,0.0,de,1
-Bernardo Arévalo,Bernardo Arévalo,PER,0.7,0.0,de,1
-Hisbollah-Miliz fü,Hisbollah-Miliz fü,PER,0.7,0.0,de,1
-Fragmente von Homers,Fragmente von Homers,PER,0.0,0.0,de,1
-Ingrid Meissl Årebo,Ingrid Meissl Årebo,PER,0.0,0.0,de,1
-Adis Ahmetovi,Adis Ahmetovi,PER,-0.85,0.0,de,1
-Netanjahu Iran,Netanjahu Iran,PER,-1.0,0.0,de,1
-Naim Kassim,Naim Kassim,PER,0.0,0.0,de,1
-Neville Chamberlain,Neville Chamberlain,PER,0.0,0.0,de,1
-Israels Unabhängigkeitstag,Israels Unabhängigkeitstag,PER,-0.7,0.0,de,1
-Christian Wortman,Christian Wortman,PER,-0.7,0.0,de,1
-Conchita Wurst,Conchita Wurst,PER,0.0,0.0,de,1
-Rumen Radew,Rumen Radew,PER,1.0,0.0,de,1
-Pedro Sánchez,Pedro Sánchez,PER,-1.0,0.0,de,1
-Israel Völkerrechtsverstöße,Israel Völkerrechtsverstöße,PER,0.0,0.0,de,1
-Spaniens Regierungschef,Spaniens Regierungschef,PER,0.0,0.0,de,1
-Jediot Achronot,Jediot Achronot,PER,0.0,0.0,de,1
-Kartelle Dro,Kartelle Dro,PER,0.0,0.0,de,1
-Informationspflicht lobbyiert,Informationspflicht lobbyiert,PER,0.0,0.0,de,1
-Konzert von Kanye West,Konzert von Kanye West,PER,0.0,0.0,de,1
-Volocopter Voloxpro,Volocopter Voloxpro,PER,0.0,0.0,de,1
-China streite,China streite,PER,0.0,0.0,de,1
-Donald Trump Brasiliens,Donald Trump Brasiliens,PER,0.0,0.0,de,1
-Earl of Lennox,Earl of Lennox,PER,0.0,0.0,de,1
-Israels Linke,Israels Linke,PER,0.0,0.0,de,1
-Ross Wild,Ross Wild,PER,-1.0,0.0,de,1
-Ross Davidson,Ross Davidson,PER,-1.0,0.0,de,1
-Ruft Trump,Ruft Trump,PER,0.0,0.0,de,1
-Israels Siedlungspolitik,Israels Siedlungspolitik,PER,0.0,0.0,de,1
-Volker Türk,Volker Türk,PER,0.0,0.0,de,1
-Orbáns Umfeld,Orbáns Umfeld,PER,0.0,0.0,de,1
-Axel Springer Global Reporter,Axel Springer Global Reporter,PER,0.0,0.0,de,1
-Winfried Kre,Winfried Kre,PER,0.7,0.0,de,1
-Winfried Kretschmann,Winfried Kretschmann,PER,0.7,0.0,de,1
-Trump bei Staatsbankett,Trump bei Staatsbankett,PER,0.0,0.0,de,1
-Tennisstar Alexander Zverev,Tennisstar Alexander Zverev,PER,0.0,0.0,de,1
-Charles zu Gast,Charles zu Gast,PER,0.0,0.0,de,1
-Charles am,Charles am,PER,0.0,0.0,de,1
-Owen Gray,Owen Gray,PER,0.0,0.0,de,1
-Jason Bedford,Jason Bedford,PER,0.0,0.0,de,1
-Conner Gray,Conner Gray,PER,0.0,0.0,de,1
-Morgan McSweeney,Morgan McSweeney,PER,0.0,0.0,de,1
-Morgan McSweeney   ,Morgan McSweeney   ,PER,0.0,0.0,de,1
-Charles pocht,Charles pocht,PER,0.0,0.0,de,1
-Sprengstoff ode,Sprengstoff ode,PER,0.0,0.0,de,1
-Charles Rede,Charles Rede,PER,0.0,0.0,de,1
-Ex-Premier Naftali Bennett,Ex-Premier Naftali Bennett,PER,1.0,0.0,de,1
-Naftali Bennett,Naftali Bennett,PER,0.7,0.0,de,1
-Julia Stoschek Foundation,Julia Stoschek Foundation,PER,0.0,0.0,de,1
-Samuel Jackisch,Samuel Jackisch,PER,0.0,0.0,de,1
-Mareike Aden,Mareike Aden,PER,0.0,0.0,de,1
-Amelie Niederbuchner,Amelie Niederbuchner,PER,-0.15000000000000002,0.0,de,1
-Wahlsieger Magyar,Wahlsieger Magyar,PER,0.0,0.0,de,1
-Trumps Schurken-Liste,Trumps Schurken-Liste,PER,0.0,0.0,de,1
-Tedros Adhanom Ghebreyesus,Tedros Adhanom Ghebreyesus,PER,0.0,0.0,de,1
-WHO-Chef Ghebreyesus,WHO-Chef Ghebreyesus,PER,0.0,0.0,de,1
-Matthias Miersch,Matthias Miersch,PER,0.0,0.0,de,1
-Audrey Tang,Audrey Tang,PER,0.7,0.0,de,1
-Bundesliga-Cheftrainerin Trump,Bundesliga-Cheftrainerin Trump,PER,-0.7,0.0,de,1
-Donald Tru,Donald Tru,PER,0.0,0.0,de,1
+Wasserfest Songkran,Wasserfest Songkran,PER,0.0,0.0,de,1
+Artemis II,Artemis II,PER,0.0,0.0,de,1
+Thierry Meyssan,Thierry Meyssan,PER,0.0,0.0,de,1
+WELT-Reporterin Philippa Vö,WELT-Reporterin Philippa Vö,PER,0.0,0.0,de,1
 Trumps Kalkül,Trumps Kalkül,PER,0.0,0.0,de,1
+Donald Tru,Donald Tru,PER,0.0,0.0,de,1
+Bundesliga-Cheftrainerin Trump,Bundesliga-Cheftrainerin Trump,PER,-0.7,0.0,de,1
+Hermann Cohen,Hermann Cohen,PER,0.85,0.0,de,1
+Ephraim Bieri,Ephraim Bieri,PER,0.0,0.0,de,1
+WELT-Reporterin Philippa Vögeding,WELT-Reporterin Philippa Vögeding,PER,0.0,0.0,de,1
+Verena Schälter,Verena Schälter,PER,0.0,0.0,de,1
+Daniela Weiss,Daniela Weiss,PER,1.0,0.0,de,1
+Taiwans Kuomintang,Taiwans Kuomintang,PER,0.0,0.0,de,1
+Chinas KP,Chinas KP,PER,0.0,0.0,de,1
+Chinas Militär-KI,Chinas Militär-KI,PER,0.7,0.0,de,1
+Chinas Volksbefre,Chinas Volksbefre,PER,0.0,0.0,de,1
+Europas Herz,Europas Herz,PER,1.0,0.0,de,1
+Robert Koch-Institut,Robert Koch-Institut,PER,0.0,0.0,de,1
 Kristalina Georgieva ha,Kristalina Georgieva ha,PER,-0.7,0.0,de,1
 Trumps Blockade,Trumps Blockade,PER,0.0,0.0,de,1
 Mary Bruce,Mary Bruce,PER,0.0,0.0,de,1
@@ -663,28 +503,169 @@ Irans Atomprogramm,Irans Atomprogramm,PER,0.15000000000000002,0.0,de,1
 Irib meld,Irib meld,PER,0.0,0.0,de,1
 Donald Trumps Krieg,Donald Trumps Krieg,PER,0.7,0.0,de,1
 gestern Früh,gestern Früh,PER,0.0,0.0,de,1
+Audrey Tang,Audrey Tang,PER,0.7,0.0,de,1
 Taiwans Cyber-Sonderbotschafterin,Taiwans Cyber-Sonderbotschafterin,PER,0.7,0.0,de,1
-Ephraim Bieri,Ephraim Bieri,PER,0.0,0.0,de,1
 Ungarns Premier,Ungarns Premier,PER,0.0,0.0,de,1
-Trumps Amerika,Trumps Amerika,PER,0.0,0.0,de,1
 SZ-China-Korrespondentin Lea Sahay,SZ-China-Korrespondentin Lea Sahay,PER,0.0,0.0,de,1
 JD Vance Teheran,JD Vance Teheran,PER,0.0,0.0,de,1
 Kias EV-Modellangebot,Kias EV-Modellangebot,PER,0.4666666666666666,0.3333333333333333,de,1
-Daniela Weiss,Daniela Weiss,PER,1.0,0.0,de,1
-Artemis II,Artemis II,PER,0.0,0.0,de,1
-Survivor Evader,Survivor Evader,PER,0.0,0.0,de,1
-Wasserfest Songkran,Wasserfest Songkran,PER,0.0,0.0,de,1
-Rik De Lisle,Rik De Lisle,PER,0.0,0.0,de,1
-Waffenruhe-Einigung von,Waffenruhe-Einigung von,PER,0.0,0.0,de,1
-Netanjahus Büro,Netanjahus Büro,PER,0.0,0.0,de,1
-Oscar-Preisträger Coppola,Oscar-Preisträger Coppola,PER,1.0,0.0,de,1
-Donald Trump dam,Donald Trump dam,PER,0.0,0.0,de,1
-Hermann Cohen,Hermann Cohen,PER,0.85,0.0,de,1
-WELT-Reporterin Philippa Vögeding,WELT-Reporterin Philippa Vögeding,PER,0.0,0.0,de,1
-Andrés H,Andrés H,PER,0.0,0.0,de,1
-Chinas Elektroautos,Chinas Elektroautos,PER,0.0,0.0,de,1
-Spaniens Regierung,Spaniens Regierung,PER,0.7,0.0,de,1
+Adolf Eichmann,Adolf Eichmann,PER,-1.0,0.0,de,1
+Netanjahus Koalitionspartner,Netanjahus Koalitionspartner,PER,0.0,0.0,de,1
+Tim Reinboth,Tim Reinboth,PER,0.7,0.0,de,1
+Quentin Pehlke,Quentin Pehlke,PER,0.0,0.0,de,1
+Hollywoodstar Brad Pitt,Hollywoodstar Brad Pitt,PER,0.0,0.0,de,1
+Ming Yang Smart Energy,Ming Yang Smart Energy,PER,0.7,0.0,de,1
+Carlos Gandini,Carlos Gandini,PER,0.7,0.0,de,1
+Jagielloni-Talent Mazurek,Jagielloni-Talent Mazurek,PER,0.0,0.0,de,1
+Roberta Löhndorf,Roberta Löhndorf,PER,0.0,0.0,de,1
+Johanna Westermann,Johanna Westermann,PER,0.0,0.0,de,1
+nan Pakistan,nan Pakistan,PER,0.0,0.0,de,1
+Israel veröffe,Israel veröffe,PER,0.0,0.0,de,1
+Eid al-Fitr,Eid al-Fitr,PER,-0.7,0.0,de,1
+Reformdebatte Bedenkenträger,Reformdebatte Bedenkenträger,PER,0.0,0.0,de,1
+Biene Maja,Biene Maja,PER,0.7,0.0,de,1
+Simbabwes Regierungspartei,Simbabwes Regierungspartei,PER,0.0,0.0,de,1
+Stephan Ueberbach,Stephan Ueberbach,PER,0.0,0.0,de,1
+Josef Mengele,Josef Mengele,PER,0.0,0.0,de,1
+Markus Kamieth,Markus Kamieth,PER,-1.0,0.0,de,1
+Olafur Einarsson,Olafur Einarsson,PER,0.0,0.0,de,1
+Europas Raumfahrtindustrie,Europas Raumfahrtindustrie,PER,1.0,0.0,de,1
+Anna Heisers,Anna Heisers,PER,0.0,0.0,de,1
+César Zeoula,César Zeoula,PER,0.0,0.0,de,1
+Mini-Inselgruppe Neukaledonien,Mini-Inselgruppe Neukaledonien,PER,0.0,0.0,de,1
+Achim Sawall,Achim Sawall,PER,0.7,0.0,de,1
+Arnaud Deslandes,Arnaud Deslandes,PER,0.0,0.0,de,1
+Ostafrika erle,Ostafrika erle,PER,0.0,0.0,de,1
+Jimmy Lai,Jimmy Lai,PER,0.0,0.0,de,1
+Georgi Mkrtschjan,Georgi Mkrtschjan,PER,0.7,0.0,de,1
+Holger Münch,Holger Münch,PER,-0.7,0.0,de,1
+Elon Musks,Elon Musks,PER,0.0,0.0,de,1
+Christian Kümmel,Christian Kümmel,PER,0.0,0.0,de,1
+Haushaltswaren-Discounter Kik,Haushaltswaren-Discounter Kik,PER,0.0,0.0,de,1
+Interconti Kabul,Interconti Kabul,PER,0.0,0.0,de,1
+Lee Jae-myung,Lee Jae-myung,PER,0.0,0.0,de,1
+Geopolitik-Experte Klemens Fischer,Geopolitik-Experte Klemens Fischer,PER,0.0,0.0,de,1
+Iran auffälllig,Iran auffälllig,PER,0.0,0.0,de,1
+Andreas Landwehr,Andreas Landwehr,PER,0.0,0.0,de,1
+Margarita Robles,Margarita Robles,PER,0.09999999999999998,0.0,de,1
+Pierre Schill,Pierre Schill,PER,0.0,0.0,de,1
+Generalstabschef Schill,Generalstabschef Schill,PER,0.0,0.0,de,1
+Clemens Verenkotte,Clemens Verenkotte,PER,0.0,0.0,de,1
+Netanjahu ‌will,Netanjahu ‌will,PER,0.7,0.0,de,1
+Deniz Undav,Deniz Undav,PER,0.0,0.0,de,1
+Bab al-Mandab,Bab al-Mandab,PER,0.0,0.0,de,1
+Außenminister Wadephul,Außenminister Wadephul,PER,0.0,0.0,de,1
+Sari Bashi,Sari Bashi,PER,-1.0,0.0,de,1
+Christian Wagner,Christian Wagner,PER,0.0,0.0,de,1
+Jürgen Czernohorszky,Jürgen Czernohorszky,PER,0.0,1.0,de,1
+Silvio Berlusconi,Silvio Berlusconi,PER,0.0,0.0,de,1
+Friedrich Mer,Friedrich Mer,PER,0.0,0.0,de,1
+Friedrich Me,Friedrich Me,PER,0.0,0.0,de,1
+Trumps Deals,Trumps Deals,PER,0.0,0.0,de,1
+Merz Neuausrichtung,Merz Neuausrichtung,PER,0.0,0.0,de,1
+Gustav Theile,Gustav Theile,PER,0.0,0.0,de,1
+Trans Rechte,Trans Rechte,PER,0.0,0.0,de,1
+Syriens Übergangspräsident Ahmed al-Scharaa,Syriens Übergangspräsident Ahmed al-Scharaa,PER,0.0,0.0,de,1
+KI-Oma Hilde,KI-Oma Hilde,PER,0.0,0.0,de,1
+Friedrich Merz Syriens,Friedrich Merz Syriens,PER,0.0,0.0,de,1
+Trump pestet,Trump pestet,PER,-1.0,0.0,de,1
+Christina Nagel,Christina Nagel,PER,0.0,0.0,de,1
+Polens rechtspopulistische,Polens rechtspopulistische,PER,0.0,0.0,de,1
+Magen David Adom,Magen David Adom,PER,0.0,0.0,de,1
+Chen Zhi,Chen Zhi,PER,0.0,0.0,de,1
+Ex-Stürmer Berggreen,Ex-Stürmer Berggreen,PER,0.0,0.0,de,1
+Kamal Aljafari,Kamal Aljafari,PER,0.0,0.0,de,1
+Syriens Wiederaufbau,Syriens Wiederaufbau,PER,0.0,0.0,de,1
+Oppositionelle Reza Pahlavi,Oppositionelle Reza Pahlavi,PER,-0.7,0.0,de,1
+Zhanna Kadyrova,Zhanna Kadyrova,PER,0.0,0.0,de,1
+Eric Swalwell,Eric Swalwell,PER,0.0,0.0,de,1
+Schwergewichtler Hegyi,Schwergewichtler Hegyi,PER,0.0,0.0,de,1
+Baschar al-Assad,Baschar al-Assad,PER,0.0,0.0,de,1
+Polen-Premier Tusk,Polen-Premier Tusk,PER,0.0,0.0,de,1
+Ross Wild,Ross Wild,PER,-1.0,0.0,de,1
+Israels Linke,Israels Linke,PER,0.0,0.0,de,1
+Eva Maria Michelmann,Eva Maria Michelmann,PER,0.0,0.0,de,1
+Cártel de Jalisco Nueva Generación,Cártel de Jalisco Nueva Generación,PER,-0.85,0.0,de,1
+Boris Pistorius ,Boris Pistorius ,PER,0.0,0.0,de,1
+propalästinensischen Demonstrationen,propalästinensischen Demonstrationen,PER,-0.7,0.0,de,1
+Österreichs Eishockeynationalteam,Österreichs Eishockeynationalteam,PER,0.0,0.0,de,1
+Giorgos Gerapetritis,Giorgos Gerapetritis,PER,0.0,0.0,de,1
+Maximilian Kastner,Maximilian Kastner,PER,0.0,0.0,de,1
+Alexander Blank,Alexander Blank,PER,-0.7,0.0,de,1
+Jose Manuel Albares,Jose Manuel Albares,PER,0.0,0.0,de,1
+Steinmeier Staatsgäste,Steinmeier Staatsgäste,PER,0.0,0.0,de,1
+Israels Außenministerium,Israels Außenministerium,PER,0.0,0.0,de,1
+nan Österreichs Tischtennisnationalteam,nan Österreichs Tischtennisnationalteam,PER,0.0,0.0,de,1
+Ross Davidson,Ross Davidson,PER,-1.0,0.0,de,1
+Ruft Trump,Ruft Trump,PER,0.0,0.0,de,1
+Israels Siedlungspolitik,Israels Siedlungspolitik,PER,0.0,0.0,de,1
+Volker Türk,Volker Türk,PER,0.0,0.0,de,1
+Liveblog Südkoreas,Liveblog Südkoreas,PER,0.0,0.0,de,1
+Axel Springer Global Reporter,Axel Springer Global Reporter,PER,0.0,0.0,de,1
+Winfried Kre,Winfried Kre,PER,0.7,0.0,de,1
+Winfried Kretschmann,Winfried Kretschmann,PER,0.7,0.0,de,1
+Trump bei Staatsbankett,Trump bei Staatsbankett,PER,0.0,0.0,de,1
+Tennisstar Alexander Zverev,Tennisstar Alexander Zverev,PER,0.0,0.0,de,1
+Charles zu Gast,Charles zu Gast,PER,0.0,0.0,de,1
+Charles am,Charles am,PER,0.0,0.0,de,1
+Earl of Lennox,Earl of Lennox,PER,0.0,0.0,de,1
+Owen Gray,Owen Gray,PER,0.0,0.0,de,1
+Conner Gray,Conner Gray,PER,0.0,0.0,de,1
+Morgan McSweeney,Morgan McSweeney,PER,0.0,0.0,de,1
+Morgan McSweeney   ,Morgan McSweeney   ,PER,0.0,0.0,de,1
+Samuel Alito,Samuel Alito,PER,0.0,0.0,de,1
+Chinas Dominanz,Chinas Dominanz,PER,0.0,0.0,de,1
+Stephan Hegyi,Stephan Hegyi,PER,-1.0,0.0,de,1
+Alexander Botsan-Kharchenko,Alexander Botsan-Kharchenko,PER,0.0,0.0,de,1
+Michael Bu,Michael Bu,PER,0.0,0.0,de,1
+katy perry,katy perry,PER,0.0,0.0,de,1
+Michael Bublé,Michael Bublé,PER,0.85,0.0,de,1
+Mohammed bin Abdelrahman,Mohammed bin Abdelrahman,PER,0.0,0.0,de,1
+Kremlchef Wladimir Putin,Kremlchef Wladimir Putin,PER,0.0,0.0,de,1
+Aleksandar Vui,Aleksandar Vui,PER,0.0,0.0,de,1
+Chaled Saarur,Chaled Saarur,PER,0.0,0.0,de,1
+Zhao Xintong,Zhao Xintong,PER,0.0,0.0,de,1
+Hamsa Mustafa,Hamsa Mustafa,PER,0.0,0.0,de,1
+Niedersachsens Innenministe,Niedersachsens Innenministe,PER,0.0,0.0,de,1
+Johannes Paul II,Johannes Paul II,PER,0.0,0.0,de,1
+Benedikt XVI,Benedikt XVI,PER,0.0,0.0,de,1
+Saif Abu Keschek,Saif Abu Keschek,PER,0.0,0.0,de,1
+Atif Nadschib,Atif Nadschib,PER,0.0,0.0,de,1
+Mexikos Bildungsministerium,Mexikos Bildungsministerium,PER,0.0,0.0,de,1
+unbeladene Öltanker,unbeladene Öltanker,PER,0.7,0.0,de,1
+Stevan Paul,Stevan Paul,PER,0.0,0.0,de,1
+Netanjahu Stocker,Netanjahu Stocker,PER,0.0,0.0,de,1
+Günther Meier,Günther Meier,PER,0.0,0.0,de,1
+Moskaus Eingeständnis,Moskaus Eingeständnis,PER,-0.7,0.0,de,1
+Israels Künstlerinitiativen,Israels Künstlerinitiativen,PER,0.0,0.0,de,1
+Fernando Clavijo,Fernando Clavijo,PER,0.7999999999999999,0.0,de,1
+Moskaus Roten Platz,Moskaus Roten Platz,PER,0.0,0.0,de,1
+Japans Premierministerin,Japans Premierministerin,PER,0.0,0.0,de,1
+Japans Premierministerin Takaichi,Japans Premierministerin Takaichi,PER,0.0,0.0,de,1
+Hernán Cortés,Hernán Cortés,PER,0.0,0.0,de,1
+Hondius am Hantavirus,Hondius am Hantavirus,PER,-1.0,0.0,de,1
+Mini Cooper S Cabriolet,Mini Cooper S Cabriolet,PER,1.0,0.0,de,1
+Uli Hoeneß,Uli Hoeneß,PER,0.0,0.0,de,1
+Donald Trumps Regierungsantritt,Donald Trumps Regierungsantritt,PER,0.0,1.0,de,1
+Chinese Wu Yize,Chinese Wu Yize,PER,0.0,0.0,de,1
+Charles pocht,Charles pocht,PER,0.0,0.0,de,1
+Sprengstoff ode,Sprengstoff ode,PER,0.0,0.0,de,1
+Charles Rede,Charles Rede,PER,0.0,0.0,de,1
+Konzert von Kanye West,Konzert von Kanye West,PER,0.0,0.0,de,1
 Paul VI,Paul VI,PER,0.0,0.0,de,1
+Spaniens Regierung,Spaniens Regierung,PER,0.7,0.0,de,1
+Andrés H,Andrés H,PER,0.0,0.0,de,1
+Matthias Miersch,Matthias Miersch,PER,0.0,0.0,de,1
+WHO-Chef Ghebreyesus,WHO-Chef Ghebreyesus,PER,0.0,0.0,de,1
+Tedros Adhanom Ghebreyesus,Tedros Adhanom Ghebreyesus,PER,0.0,0.0,de,1
+Informationspflicht lobbyiert,Informationspflicht lobbyiert,PER,0.0,0.0,de,1
+Ex-Premier Naftali Bennett,Ex-Premier Naftali Bennett,PER,1.0,0.0,de,1
+Kartelle Dro,Kartelle Dro,PER,0.0,0.0,de,1
+Jediot Achronot,Jediot Achronot,PER,0.0,0.0,de,1
+Spaniens Regierungschef,Spaniens Regierungschef,PER,0.0,0.0,de,1
+Israel Völkerrechtsverstöße,Israel Völkerrechtsverstöße,PER,0.0,0.0,de,1
+Pedro Sánchez,Pedro Sánchez,PER,-1.0,0.0,de,1
+Rumen Radew,Rumen Radew,PER,1.0,0.0,de,1
 Trumps Gnaden,Trumps Gnaden,PER,0.0,0.0,de,1
 Stararchitekt Francis Kéré,Stararchitekt Francis Kéré,PER,0.0,0.0,de,1
 beschlagnahmtes Krokodil,beschlagnahmtes Krokodil,PER,0.0,0.0,de,1
@@ -697,20 +678,43 @@ Balos Lagoon,Balos Lagoon,PER,0.0,0.0,de,1
 Chinas Wirtschaft,Chinas Wirtschaft,PER,-0.7,0.0,de,1
 Hagen Reiners,Hagen Reiners,PER,-0.5,0.5,de,1
 Arndt Striegler,Arndt Striegler,PER,-0.35,0.5,de,1
+Chinas Elektroautos,Chinas Elektroautos,PER,0.0,0.0,de,1
 Chinas Ingenieuren,Chinas Ingenieuren,PER,0.0,0.0,de,1
-WELT-Reporterin Philippa Vö,WELT-Reporterin Philippa Vö,PER,0.0,0.0,de,1
 VW-Chinavorstand Ralf Brandstätter,VW-Chinavorstand Ralf Brandstätter,PER,0.0,0.0,de,1
 Karin Bensch,Karin Bensch,PER,0.0,0.0,de,1
 Renate Eil,Renate Eil,PER,0.0,0.0,de,1
-Stephan Hegyi,Stephan Hegyi,PER,-1.0,0.0,de,1
-Schwergewichtler Hegyi,Schwergewichtler Hegyi,PER,0.0,0.0,de,1
-Thierry Meyssan,Thierry Meyssan,PER,0.0,0.0,de,1
-Eric Swalwell,Eric Swalwell,PER,0.0,0.0,de,1
-Robert Koch-Institut,Robert Koch-Institut,PER,0.0,0.0,de,1
-Europas Herz,Europas Herz,PER,1.0,0.0,de,1
-Chinas Volksbefre,Chinas Volksbefre,PER,0.0,0.0,de,1
-Chinas Militär-KI,Chinas Militär-KI,PER,0.7,0.0,de,1
-Chinas KP,Chinas KP,PER,0.0,0.0,de,1
-Taiwans Kuomintang,Taiwans Kuomintang,PER,0.0,0.0,de,1
-Verena Schälter,Verena Schälter,PER,0.0,0.0,de,1
-Ricardo Pietreczko,Ricardo Pietreczko,PER,0.0,0.0,de,1
+Conchita Wurst,Conchita Wurst,PER,0.0,0.0,de,1
+Christian Wortman,Christian Wortman,PER,-0.7,0.0,de,1
+Israels Unabhängigkeitstag,Israels Unabhängigkeitstag,PER,-0.7,0.0,de,1
+Claudia Zettel,Claudia Zettel,PER,0.7,0.0,de,1
+Naftali Bennett,Naftali Bennett,PER,0.7,0.0,de,1
+Julia Stoschek Foundation,Julia Stoschek Foundation,PER,0.0,0.0,de,1
+Samuel Jackisch,Samuel Jackisch,PER,0.0,0.0,de,1
+Mareike Aden,Mareike Aden,PER,0.0,0.0,de,1
+Amelie Niederbuchner,Amelie Niederbuchner,PER,-0.15000000000000002,0.0,de,1
+Wahlsieger Magyar,Wahlsieger Magyar,PER,0.0,0.0,de,1
+Trumps Schurken-Liste,Trumps Schurken-Liste,PER,0.0,0.0,de,1
+Jason Bedford,Jason Bedford,PER,0.0,0.0,de,1
+Donald Trump Brasiliens,Donald Trump Brasiliens,PER,0.0,0.0,de,1
+China streite,China streite,PER,0.0,0.0,de,1
+Volocopter Voloxpro,Volocopter Voloxpro,PER,0.0,0.0,de,1
+Hisbollah-Miliz fü,Hisbollah-Miliz fü,PER,0.7,0.0,de,1
+Bernardo Arévalo,Bernardo Arévalo,PER,0.7,0.0,de,1
+Abu Dh,Abu Dh,PER,0.0,0.0,de,1
+Alex Karp,Alex Karp,PER,0.0,0.0,de,1
+Neville Chamberlain,Neville Chamberlain,PER,0.0,0.0,de,1
+Fragile Waffenruhe,Fragile Waffenruhe,PER,0.0,0.0,de,1
+Ex-Siemens-CEO Kaeser,Ex-Siemens-CEO Kaeser,PER,-0.7,0.0,de,1
+Ungarns Noch-Premier Orban,Ungarns Noch-Premier Orban,PER,0.0,0.0,de,1
+Leonardo da Vinci,Leonardo da Vinci,PER,0.0,0.0,de,1
+Galileo Galilei,Galileo Galilei,PER,0.0,0.0,de,1
+Christiane Benner,Christiane Benner,PER,-0.7,0.0,de,1
+Wladimir Plahotniuc,Wladimir Plahotniuc,PER,0.7,0.0,de,1
+Rodrigo Duterte,Rodrigo Duterte,PER,0.0,0.0,de,1
+Ex-Präsident Duterte,Ex-Präsident Duterte,PER,0.0,0.0,de,1
+Fragmente von Homers,Fragmente von Homers,PER,0.0,0.0,de,1
+Ingrid Meissl Årebo,Ingrid Meissl Årebo,PER,0.0,0.0,de,1
+Adis Ahmetovi,Adis Ahmetovi,PER,-0.85,0.0,de,1
+Netanjahu Iran,Netanjahu Iran,PER,-1.0,0.0,de,1
+Naim Kassim,Naim Kassim,PER,0.0,0.0,de,1
+Islands Walfänger,Islands Walfänger,PER,-1.0,0.0,de,1
