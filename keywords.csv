@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Kabul',de,Afghanistan,#755fed,#755fed,3,0.514736993685,ASIA,4029127-3,1138958,34.528130000000,69.172330000000,P,Afghanistan,WCA
 'Deutschland',de,Germany,#82ddf1,#82ddf1,3,0.494204617208,EUROPE,4011882-4,2921044,51.500000000000,10.500000000000,A,Germany,WCE
 'Krim',de,Ukraine,#75aaef,#75aaef,3,0.484335468119,EUROPE,5280853-1,703883,45.000000000000,34.000000000000,A,Ukraine,WCE
 'St. Petersburg',de,Russia,#93c2f3,#93c2f3,3,0.480269192051,EUROPE,2034200-7,498817,59.938630000000,30.314130000000,P,Russia,NEU
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Brandenburg',de,Germany,#84d9f1,#84d9f1,3,0.446190163294,EUROPE,4007955-7,2945356,52.459050000000,13.015820000000,A,Germany,WCE
 'Europa',de,Germany,#7cdef0,#7cdef0,3,0.441384129137,EUROPE,4015701-5,6255148,48.690960000000,9.140620000000,L,Germany,WCE
 'Gaza',de,Palestinian Territory,#5998ec,#5998ec,3,0.438090857346,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
+'Kabul',de,Afghanistan,#755fed,#755fed,2,0.437527359632,ASIA,4029127-3,1138958,34.528130000000,69.172330000000,P,Afghanistan,WCA
 'Longyearbyen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,2,0.437295707420,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Westjordanland',de,Palestinian Territory,#5b97ec,#5b97ec,3,0.436733991966,EUROPE-AFRICA,4065741-3,282615,32.221110000000,35.254440000000,P,Palestinian Territory,MED
 'Dubai',de,United Arab Emirates,#4c59eb,#4c59eb,2,0.428045947133,ASIA,4204044-9,292223,25.077250000000,55.309270000000,P,United Arab Emirates,ARP
