@@ -473,4 +473,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Kampala',de,Uganda,#1a77e5,#1a77e5,2,0.100023406520,AFRICA,4109986-2,232422,0.316280000000,32.582190000000,P,Uganda,SEAF
 'Pretoria',de,South Africa,#1367b0,#1367b0,2,0.100017307140,AFRICA,4116098-8,964137,-25.744860000000,28.187830000000,P,South Africa,ESAF
 'Kinshasa',de,Democratic Republic of the Congo,#18aadc,#18aadc,2,0.100011895120,AFRICA,1028447-3,2314302,-4.327580000000,15.313570000000,P,Democratic Republic of the Congo,CAF
-'Demokratische Republik Kongo',de,Democratic Republic of the Congo,#1892e0,#1892e0,2,0.100011895120,AFRICA,4067357-1,203312,-2.500000000000,23.500000000000,A,Democratic Republic of the Congo,CAF
+'Demokratische Republik Kongo',de,Democratic Republic of the Congo,#1892e0,#1892e0,1,0.085010575852,AFRICA,4067357-1,203312,-2.500000000000,23.500000000000,A,Democratic Republic of the Congo,CAF
