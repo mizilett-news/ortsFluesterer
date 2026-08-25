@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.322936080678,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
 'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.321180186484,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
 'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.321117436333,INDIAN,4298716-7,1547376,-12.164200000000,96.873320000000,A,Kokosinseln,SIO
-'Nouakchott',de,Mauritania,#3ee9bc,#3ee9bc,2,0.320935444498,AFRICA,116769-8,2377450,18.085810000000,-15.978500000000,P,Mauritania,SAH
 'Pakistan',de,Pakistan,#6f56ec,#6f56ec,2,0.315404821378,ASIA,4075812-6,1168579,30.000000000000,70.000000000000,A,Pakistan,WCA
 'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.312543131080,ARCTIC,4056316-9,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,2,0.311642422413,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican,MED
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.278066758470,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Griechenland',de,Greece,#69bdee,#69bdee,3,0.276562741597,EUROPE-AFRICA,4022047-3,390903,39.000000000000,22.000000000000,A,Greece,MED
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.276256472562,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
+'Nouakchott',de,Mauritania,#3ee9bc,#3ee9bc,2,0.273095157823,AFRICA,116769-8,2377450,18.085810000000,-15.978500000000,P,Mauritania,SAH
 'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.272984824464,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn,SPO
 'Teheran',de,Iran,#6276ed,#6276ed,2,0.272579462850,ASIA,4059304-6,112931,35.694390000000,51.421510000000,P,Iran,WCA
 'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.272490525039,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
