@@ -90,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Nay Pyi Taw',de,Myanmar,#00E52D,#00E52D,1,0.278066758470,ASIA,4069500-1,1327865,21.000000000000,96.000000000000,A,Myanmar,SAS
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.277303829687,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Nouakchott',de,Mauritania,#3ee9bc,#3ee9bc,2,0.273095157823,AFRICA,116769-8,2377450,18.085810000000,-15.978500000000,P,Mauritania,SAH
-'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.272490525039,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
 'Alofi',de,Niue,#be3115,#be3115,1,0.269388676843,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Weihnachtsinsel',de,Christmas Island,#a317d0,#a317d0,1,0.266618455646,INDIAN,4219436-2,2078138,-10.500000000000,105.666670000000,A,Christmas Island,SIO
 'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,1,0.263707187298,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Britisches Territorium im Indischen Ozean,EIO
@@ -115,6 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Beirut',de,Lebanon,#5e98ed,#5e98ed,3,0.233810874387,EUROPE-AFRICA,4005348-9,276781,33.893320000000,35.501570000000,P,Lebanon,MED
 'Pitcairn',de,Pitcairn,#b29713,#b29713,1,0.232187115794,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn,SPO
 'Österreich',de,Austria,#7ad5f0,#7ad5f0,3,0.231871429666,EUROPE,4043271-3,2782113,47.333330000000,13.333330000000,A,Austria,WCE
+'Grytviken',de,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.231766961283,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and the South Sandwich Islands,SOO
 'Italien',de,Italy,#70d4ef,#70d4ef,2,0.229187709426,EUROPE-AFRICA,4027833-5,3175395,42.833330000000,12.833330000000,A,Italy,MED
 'Brasilien',de,Brazil,#17d126,#17d126,2,0.228061815465,SOUTH-AMERICA,4008003-1,3469034,-10.000000000000,-55.000000000000,A,Brazil,SAM
 'Asunción',de,Paraguay,#13b119,#13b119,1,0.227607094328,SOUTH-AMERICA,4003330-2,3439389,-25.286460000000,-57.647000000000,P,Paraguay,SES
