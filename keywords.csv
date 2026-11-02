@@ -72,7 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Bouvetinsel',de,Bouvet Island,#0d7076,#0d7076,1,0.322936080678,SOUTHERN,4450775-6,3371123,-54.433330000000,3.400000000000,A,Bouvet Island,SOO
 'Britisches Territorium im Indischen Ozean',de,British Indian Ocean Territory,#3e18d9,#3e18d9,1,0.321180186484,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,Britisches Territorium im Indischen Ozean,EIO
 'Kokosinseln',de,Cocos Islands,#8616cc,#8616cc,1,0.321117436333,INDIAN,4298716-7,1547376,-12.164200000000,96.873320000000,A,Kokosinseln,SIO
-'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.320412259668,ARCTIC,4056316-9,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Vatikanstadt',de,Vatican,#6ed4ee,#6ed4ee,2,0.312633330770,EUROPE-AFRICA,4062404-3,3164670,41.902250000000,12.453300000000,A,Vatican,MED
 'Ostjerusalem',de,Palestinian Territory,#5a96ec,#5a96ec,1,0.310884035517,EUROPE-AFRICA,4485908-9,7303419,31.783360000000,35.233880000000,P,Palestinian Territory,MED
 'Tokelau',de,Tokelau,#d23017,#d23017,1,0.309547452047,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
@@ -96,6 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Südgeorgien und die Südlichen Sandwichinseln',de,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.277303829687,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,Südgeorgien und die Südlichen Sandwichinseln,SOO
 'Nouakchott',de,Mauritania,#3ee9bc,#3ee9bc,2,0.273095157823,AFRICA,116769-8,2377450,18.085810000000,-15.978500000000,P,Mauritania,SAH
 'Komoren',de,Comoros,#1645cc,#1645cc,2,0.272778769847,AFRICA,4265797-0,921929,-12.233330000000,44.445530000000,A,Comoros,ESAF
+'Spitzbergen und Jan Mayen',de,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.272350420718,ARCTIC,4056316-9,2729907,78.223340000000,15.646890000000,P,Spitzbergen und Jan Mayen,ARO
 'Alofi',de,Niue,#be3115,#be3115,1,0.269388676843,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Colombo',de,Sri Lanka,#6627e7,#6627e7,2,0.264508575709,INDIAN,4010404-7,1248991,6.935480000000,79.848680000000,P,Sri Lanka,EIO
 'Diego Garcia',de,British Indian Ocean Territory,#3f17d6,#3f17d6,1,0.263707187298,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,Britisches Territorium im Indischen Ozean,EIO
